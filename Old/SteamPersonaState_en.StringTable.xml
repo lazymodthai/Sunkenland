@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Structure id_struct="114" version="2021.3.5f1" id_unity="22" platform="WIN_x86_64" GUID="45257E7EFE7D42F4D9144CF906CE16CB82DA9A261E8C0B497AC9B2D720C52902" MonoBehaviour_type="114_StringTable">
+	<Base type="MonoBehaviour">
+		<m_GameObject type="PPtr(GameObject)">
+			<m_FileID type="int" value="0"/>
+			<m_PathID type="SInt64" value="0"/>
+		</m_GameObject>
+		<m_Enabled type="UInt8" value="1" align="True"/>
+		<m_Script type="PPtr(MonoScript)">
+			<m_FileID type="int" value="0"/>
+			<m_PathID type="SInt64" value="-2378050947708348859"/>
+		</m_Script>
+		<m_Name type="string" value="SteamPersonaState_en"/>
+		<m_LocaleId type="LocaleIdentifier">
+			<m_Code type="string" value="en"/>
+		</m_LocaleId>
+		<m_SharedData type="PPtr($SharedTableData)">
+			<m_FileID type="int" value="1"/>
+			<m_PathID type="SInt64" value="-6108775096751668117"/>
+		</m_SharedData>
+		<m_Metadata type="MetadataCollection">
+			<m_Items type="IMetadata">
+				<Array type="Array">
+					<size type="int" value="0"/>
+					<data type="managedRefArrayItem">
+						<data_0 type="managedRefArrayItem">
+							<rid type="SInt64" value="6258006346130784259"/>
+						</data_0>
+					</data>
+				</Array>
+			</m_Items>
+		</m_Metadata>
+		<m_TableData type="TableEntryData">
+			<Array type="Array">
+				<size type="int" value="9"/>
+				<data type="TableEntryData">
+					<data_0 type="TableEntryData">
+						<m_Id type="SInt64" value="929360240640"/>
+						<m_Localized type="string" value="Away"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="995430984455028746"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_0>
+					<data_1 type="TableEntryData">
+						<m_Id type="SInt64" value="919071612928"/>
+						<m_Localized type="string" value="Busy"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1>
+					<data_2 type="TableEntryData">
+						<m_Id type="SInt64" value="906333511680"/>
+						<m_Localized type="string" value="Online"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_2>
+					<data_3 type="TableEntryData">
+						<m_Id type="SInt64" value="900637646848"/>
+						<m_Localized type="string" value="Offline"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_3>
+					<data_4 type="TableEntryData">
+						<m_Id type="SInt64" value="970758021120"/>
+						<m_Localized type="string" value="Snooze"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_4>
+					<data_5 type="TableEntryData">
+						<m_Id type="SInt64" value="977175306240"/>
+						<m_Localized type="string" value="Looking To Trade"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_5>
+					<data_6 type="TableEntryData">
+						<m_Id type="SInt64" value="1011124002816"/>
+						<m_Localized type="string" value="Looking To Play"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_6>
+					<data_7 type="TableEntryData">
+						<m_Id type="SInt64" value="1037007052800"/>
+						<m_Localized type="string" value="Invisible"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_7>
+					<data_8 type="TableEntryData">
+						<m_Id type="SInt64" value="1044149952512"/>
+						<m_Localized type="string" value="Max"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_8>
+				</data>
+			</Array>
+		</m_TableData>
+		<references type="ManagedReferencesRegistry">
+			<version type="int" value="2"/>
+			<RefIds type="vector">
+				<Array type="Array">
+					<size type="int" value="0"/>
+					<data type="ReferencedObject">
+						<data_0 type="ReferencedObject">
+							<rid type="SInt64" value="6258006346130784259"/>
+							<type type="ReferencedManagedType">
+								<class type="string" value="SmartFormatTag"/>
+								<ns type="string" value="UnityEngine.Localization.Metadata"/>
+								<asm type="string" value="Unity.Localization"/>
+							</type>
+							<data type="ReferencedObjectData">
+							</data>
+						</data_0>
+					</data>
+				</Array>
+			</RefIds>
+		</references>
+	</Base>
+	<FooterData>
+<![CDATA[
+01 00 00 00 0B E0 2F 2E 47 3F 05 00 ]]>
+	</FooterData>
+</Structure>

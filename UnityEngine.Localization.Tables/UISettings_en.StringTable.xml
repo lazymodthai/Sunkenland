@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Structure id_struct="114" version="2021.3.5f1" id_unity="22" platform="WIN_x86_64" GUID="45257E7EFE7D42F4D9144CF906CE16CB82DA9A261E8C0B497AC9B2D720C52902" MonoBehaviour_type="114_StringTable">
+	<Base type="MonoBehaviour">
+		<m_GameObject type="PPtr(GameObject)">
+			<m_FileID type="int" value="0"/>
+			<m_PathID type="SInt64" value="0"/>
+		</m_GameObject>
+		<m_Enabled type="UInt8" value="1" align="True"/>
+		<m_Script type="PPtr(MonoScript)">
+			<m_FileID type="int" value="0"/>
+			<m_PathID type="SInt64" value="-2378050947708348859"/>
+		</m_Script>
+		<m_Name type="string" value="UISettings_en"/>
+		<m_LocaleId type="LocaleIdentifier">
+			<m_Code type="string" value="en"/>
+		</m_LocaleId>
+		<m_SharedData type="PPtr($SharedTableData)">
+			<m_FileID type="int" value="1"/>
+			<m_PathID type="SInt64" value="1064838374057382965"/>
+		</m_SharedData>
+		<m_Metadata type="MetadataCollection">
+			<m_Items type="IMetadata">
+				<Array type="Array">
+					<size type="int" value="0"/>
+					<data type="managedRefArrayItem">
+						<data_0 type="managedRefArrayItem">
+							<rid type="SInt64" value="0"/>
+						</data_0>
+					</data>
+				</Array>
+			</m_Items>
+		</m_Metadata>
+		<m_TableData type="TableEntryData">
+			<Array type="Array">
+				<size type="int" value="5"/>
+				<data type="TableEntryData">
+					<data_0 type="TableEntryData">
+						<m_Id type="SInt64" value="23711510528"/>
+						<m_Localized type="string" value="FOV"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_0>
+					<data_1 type="TableEntryData">
+						<m_Id type="SInt64" value="5399639753064448"/>
+						<m_Localized type="string" value="Player Control"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1>
+					<data_2 type="TableEntryData">
+						<m_Id type="SInt64" value="5399934570692608"/>
+						<m_Localized type="string" value="Boat"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_2>
+					<data_3 type="TableEntryData">
+						<m_Id type="SInt64" value="5400344840732672"/>
+						<m_Localized type="string" value="UI"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_3>
+					<data_4 type="TableEntryData">
+						<m_Id type="SInt64" value="5401471225266176"/>
+						<m_Localized type="string" value="Quick Slot"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_4>
+				</data>
+			</Array>
+		</m_TableData>
+		<references type="ManagedReferencesRegistry">
+			<version type="int" value="2"/>
+			<RefIds type="vector">
+				<Array type="Array">
+					<size type="int" value="0"/>
+					<data type="ReferencedObject">
+						<data_0 type="ReferencedObject">
+							<rid type="SInt64" value="0"/>
+							<type type="ReferencedManagedType">
+								<class type="string" value=""/>
+								<ns type="string" value=""/>
+								<asm type="string" value=""/>
+							</type>
+							<data type="ReferencedObjectData">
+							</data>
+						</data_0>
+					</data>
+				</Array>
+			</RefIds>
+		</references>
+	</Base>
+</Structure>

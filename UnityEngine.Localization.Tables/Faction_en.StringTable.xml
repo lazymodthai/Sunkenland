@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Structure id_struct="114" version="2021.3.5f1" id_unity="22" platform="WIN_x86_64" GUID="45257E7EFE7D42F4D9144CF906CE16CB82DA9A261E8C0B497AC9B2D720C52902" MonoBehaviour_type="114_StringTable">
+	<Base type="MonoBehaviour">
+		<m_GameObject type="PPtr(GameObject)">
+			<m_FileID type="int" value="0"/>
+			<m_PathID type="SInt64" value="0"/>
+		</m_GameObject>
+		<m_Enabled type="UInt8" value="1" align="True"/>
+		<m_Script type="PPtr(MonoScript)">
+			<m_FileID type="int" value="0"/>
+			<m_PathID type="SInt64" value="-2378050947708348859"/>
+		</m_Script>
+		<m_Name type="string" value="Faction_en"/>
+		<m_LocaleId type="LocaleIdentifier">
+			<m_Code type="string" value="en"/>
+		</m_LocaleId>
+		<m_SharedData type="PPtr($SharedTableData)">
+			<m_FileID type="int" value="1"/>
+			<m_PathID type="SInt64" value="-1655559313725363095"/>
+		</m_SharedData>
+		<m_Metadata type="MetadataCollection">
+			<m_Items type="IMetadata">
+				<Array type="Array">
+					<size type="int" value="0"/>
+					<data type="managedRefArrayItem">
+						<data_0 type="managedRefArrayItem">
+							<rid type="SInt64" value="8429620792306696194"/>
+						</data_0>
+					</data>
+				</Array>
+			</m_Items>
+		</m_Metadata>
+		<m_TableData type="TableEntryData">
+			<Array type="Array">
+				<size type="int" value="21"/>
+				<data type="TableEntryData">
+					<data_0 type="TableEntryData">
+						<m_Id type="SInt64" value="42873118720"/>
+						<m_Localized type="string" value="None"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="995430984455028746"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_0>
+					<data_1 type="TableEntryData">
+						<m_Id type="SInt64" value="120291581952"/>
+						<m_Localized type="string" value="The Sea Vipers"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1>
+					<data_2 type="TableEntryData">
+						<m_Id type="SInt64" value="20977650512707584"/>
+						<m_Localized type="string" value="The Krakens"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_2>
+					<data_3 type="TableEntryData">
+						<m_Id type="SInt64" value="20978081615855616"/>
+						<m_Localized type="string" value="The Marauders"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_3>
+					<data_4 type="TableEntryData">
+						<m_Id type="SInt64" value="20978605442482176"/>
+						<m_Localized type="string" value="The Warheads Tribe"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_4>
+					<data_5 type="TableEntryData">
+						<m_Id type="SInt64" value="20987144961540096"/>
+						<m_Localized type="string" value="The Hunters Union"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_5>
+					<data_6 type="TableEntryData">
+						<m_Id type="SInt64" value="20987575729143808"/>
+						<m_Localized type="string" value="The Slavers"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_6>
+					<data_7 type="TableEntryData">
+						<m_Id type="SInt64" value="20988057243631616"/>
+						<m_Localized type="string" value="The Skull Crushers"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_7>
+					<data_8 type="TableEntryData">
+						<m_Id type="SInt64" value="20988676612308992"/>
+						<m_Localized type="string" value="The Scorchers"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_8>
+					<data_9 type="TableEntryData">
+						<m_Id type="SInt64" value="20990936260034560"/>
+						<m_Localized type="string" value="The Salvation Clan"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_9>
+					<data_10 type="TableEntryData">
+						<m_Id type="SInt64" value="20991536762732544"/>
+						<m_Localized type="string" value="They are pirates known for targeting weaker settlements. They are less equipped than some other pirate groups, but make up for it with their large number and ruthlessness."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_10>
+					<data_11 type="TableEntryData">
+						<m_Id type="SInt64" value="20991662080147456"/>
+						<m_Localized type="string" value="A fearsome pirate clan renowned for their formidable firepower, armed with an arsenal that includes machine guns. They are ruthless and without honor, attacking anyone who dares to come close, even turning against their own at times."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_11>
+					<data_12 type="TableEntryData">
+						<m_Id type="SInt64" value="20991797996568576"/>
+						<m_Localized type="string" value="A formidable clan comprised of exceptionally skilled combatants, sought after by various warring tribes as elite mercenaries."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_12>
+					<data_13 type="TableEntryData">
+						<m_Id type="SInt64" value="20991850647666688"/>
+						<m_Localized type="string" value="Greedy and ruthless, they capture and enslave people for profit, striking fear into all who resist."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_13>
+					<data_14 type="TableEntryData">
+						<m_Id type="SInt64" value="20991894285205504"/>
+						<m_Localized type="string" value="Fearsome warriors, draped in skull-adorned armor, instilling terror. Bound by loyalty and strength, they dominate ruthlessly, leaving a trail of devastation."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_14>
+					<data_15 type="TableEntryData">
+						<m_Id type="SInt64" value="20992079656665088"/>
+						<m_Localized type="string" value="Pirates ruling the waterlogged world with ruthless cunning. Their black banner bear the mark of a colossal kraken, bringing doom to all who cross their path."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_15>
+					<data_16 type="TableEntryData">
+						<m_Id type="SInt64" value="20992135621263360"/>
+						<m_Localized type="string" value="A faction with a fervent belief in their power and inherent right to rule. Rising from the remnants of a ravaged world, they see themselves as the saviors destined to guide humanity towards a new order. "/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_16>
+					<data_17 type="TableEntryData">
+						<m_Id type="SInt64" value="20992010500980736"/>
+						<m_Localized type="string" value="Notorious bandits thriving in a flooded nuclear power station. Adapted to the radioactive environment, they leave destruction in their wake."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_17>
+					<data_18 type="TableEntryData">
+						<m_Id type="SInt64" value="20991730258558976"/>
+						<m_Localized type="string" value="The bloodthirsty warlords seek relentless expansion and unrivaled dominance. Their insatiable thirst for power drives them to conquer new territories without remorse, leaving only chaos and destruction. "/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_18>
+					<data_19 type="TableEntryData">
+						<m_Id type="SInt64" value="33607066329825280"/>
+						<m_Localized type="string" value="Mutants"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_19>
+					<data_20 type="TableEntryData">
+						<m_Id type="SInt64" value="42957732379615232"/>
+						<m_Localized type="string" value="Sunkenlander"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_20>
+				</data>
+			</Array>
+		</m_TableData>
+		<references type="ManagedReferencesRegistry">
+			<version type="int" value="2"/>
+			<RefIds type="vector">
+				<Array type="Array">
+					<size type="int" value="0"/>
+					<data type="ReferencedObject">
+						<data_0 type="ReferencedObject">
+							<rid type="SInt64" value="8429620792306696194"/>
+							<type type="ReferencedManagedType">
+								<class type="string" value="SmartFormatTag"/>
+								<ns type="string" value="UnityEngine.Localization.Metadata"/>
+								<asm type="string" value="Unity.Localization"/>
+							</type>
+							<data type="ReferencedObjectData">
+							</data>
+						</data_0>
+					</data>
+				</Array>
+			</RefIds>
+		</references>
+	</Base>
+	<FooterData>
+<![CDATA[
+01 00 00 00 00 80 E5 14 B4 00 00 00 ]]>
+	</FooterData>
+</Structure>

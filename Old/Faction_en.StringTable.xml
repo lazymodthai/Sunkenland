@@ -24,7 +24,7 @@
 					<size type="int" value="0"/>
 					<data type="managedRefArrayItem">
 						<data_0 type="managedRefArrayItem">
-							<rid type="SInt64" value="6258006346130784259"/>
+							<rid type="SInt64" value="8429620792306696194"/>
 						</data_0>
 					</data>
 				</Array>
@@ -32,7 +32,7 @@
 		</m_Metadata>
 		<m_TableData type="TableEntryData">
 			<Array type="Array">
-				<size type="int" value="20"/>
+				<size type="int" value="21"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
 						<m_Id type="SInt64" value="42873118720"/>
@@ -354,6 +354,22 @@
 							</m_Items>
 						</m_Metadata>
 					</data_19>
+					<data_20 type="TableEntryData">
+						<m_Id type="SInt64" value="42957732379615232"/>
+						<m_Localized type="string" value="Sunkenlander"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_20>
 				</data>
 			</Array>
 		</m_TableData>
@@ -364,7 +380,7 @@
 					<size type="int" value="0"/>
 					<data type="ReferencedObject">
 						<data_0 type="ReferencedObject">
-							<rid type="SInt64" value="6258006346130784259"/>
+							<rid type="SInt64" value="8429620792306696194"/>
 							<type type="ReferencedManagedType">
 								<class type="string" value="SmartFormatTag"/>
 								<ns type="string" value="UnityEngine.Localization.Metadata"/>
@@ -380,6 +396,6 @@
 	</Base>
 	<FooterData>
 <![CDATA[
-01 00 00 00 0B E0 2F 2E 47 3F 05 00 ]]>
+01 00 00 00 00 80 E5 14 B4 00 00 00 ]]>
 	</FooterData>
 </Structure>

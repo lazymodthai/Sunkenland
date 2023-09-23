@@ -32,7 +32,7 @@
 		</m_Metadata>
 		<m_TableData type="TableEntryData">
 			<Array type="Array">
-				<size type="int" value="261"/>
+				<size type="int" value="263"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
 						<m_Id type="SInt64" value="6881796096"/>
@@ -4210,6 +4210,38 @@
 							</m_Items>
 						</m_Metadata>
 					</data_260>
+					<data_261 type="TableEntryData">
+						<m_Id type="SInt64" value="62764722828075008"/>
+						<m_Localized type="string" value="Faction Flag"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_261>
+					<data_262 type="TableEntryData">
+						<m_Id type="SInt64" value="62764877459480576"/>
+						<m_Localized type="string" value="Use it to claim your sovereignty"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_262>
 				</data>
 			</Array>
 		</m_TableData>

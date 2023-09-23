@@ -32,7 +32,7 @@
 		</m_Metadata>
 		<m_TableData type="TableEntryData">
 			<Array type="Array">
-				<size type="int" value="52"/>
+				<size type="int" value="55"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
 						<m_Id type="SInt64" value="208412831744"/>
@@ -866,6 +866,54 @@
 							</m_Items>
 						</m_Metadata>
 					</data_51>
+					<data_52 type="TableEntryData">
+						<m_Id type="SInt64" value="14559529484697600"/>
+						<m_Localized type="string" value="The White Cliff Island"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_52>
+					<data_53 type="TableEntryData">
+						<m_Id type="SInt64" value="14564882922356736"/>
+						<m_Localized type="string" value="Sea Viper Outpost"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_53>
+					<data_54 type="TableEntryData">
+						<m_Id type="SInt64" value="14662128569434112"/>
+						<m_Localized type="string" value="Floating Refuge"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_54>
 				</data>
 			</Array>
 		</m_TableData>

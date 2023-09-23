@@ -32,7 +32,7 @@
 		</m_Metadata>
 		<m_TableData type="TableEntryData">
 			<Array type="Array">
-				<size type="int" value="1109"/>
+				<size type="int" value="1115"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
 						<m_Id type="SInt64" value="27329028096"/>
@@ -17778,6 +17778,102 @@
 							</m_Items>
 						</m_Metadata>
 					</data_1108>
+					<data_1109 type="TableEntryData">
+						<m_Id type="SInt64" value="62595654249627648"/>
+						<m_Localized type="string" value="LW 59"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1109>
+					<data_1110 type="TableEntryData">
+						<m_Id type="SInt64" value="63800241803509760"/>
+						<m_Localized type="string" value="Mauser Pistol"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1110>
+					<data_1111 type="TableEntryData">
+						<m_Id type="SInt64" value="63814932697202688"/>
+						<m_Localized type="string" value="US45 SMG"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1111>
+					<data_1112 type="TableEntryData">
+						<m_Id type="SInt64" value="63827099215478784"/>
+						<m_Localized type="string" value="Broken Mauser Pistol"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1112>
+					<data_1113 type="TableEntryData">
+						<m_Id type="SInt64" value="63827859869286400"/>
+						<m_Localized type="string" value="Broken US45 SMG"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1113>
+					<data_1114 type="TableEntryData">
+						<m_Id type="SInt64" value="63828256126156800"/>
+						<m_Localized type="string" value="Broken LW 59"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1114>
 				</data>
 			</Array>
 		</m_TableData>

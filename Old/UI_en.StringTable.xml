@@ -1844,7 +1844,7 @@
 					</data_112>
 					<data_113 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581084"/>
-						<m_Localized type="string" value="Take All"/>
+						<m_Localized type="string" value="Take All (E)"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">

@@ -21,10 +21,10 @@
 		<m_Metadata type="MetadataCollection">
 			<m_Items type="IMetadata">
 				<Array type="Array">
-					<size type="int" value="0"/>
+					<size type="int" value="1"/>
 					<data type="managedRefArrayItem">
 						<data_0 type="managedRefArrayItem">
-							<rid type="SInt64" value="6258006346130784259"/>
+							<rid type="SInt64" value="8429620792306696194"/>
 						</data_0>
 					</data>
 				</Array>
@@ -52,14 +52,14 @@
 					</data_0>
 					<data_1 type="TableEntryData">
 						<m_Id type="SInt64" value="773444698112"/>
-						<m_Localized type="string" value="Please make sure that you and your Steam friends have the same game version number."/>
+						<m_Localized type="string" value="Please play together with the same version of the game. Your friend's version is {friendVersion}, and your version is {yourVersion}."/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
-									<size type="int" value="0"/>
+									<size type="int" value="1"/>
 									<data type="managedRefArrayItem">
 										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
+											<rid type="SInt64" value="8429620792306696194"/>
 										</data_0>
 									</data>
 								</Array>
@@ -73,10 +73,10 @@
 			<version type="int" value="2"/>
 			<RefIds type="vector">
 				<Array type="Array">
-					<size type="int" value="0"/>
+					<size type="int" value="1"/>
 					<data type="ReferencedObject">
 						<data_0 type="ReferencedObject">
-							<rid type="SInt64" value="6258006346130784259"/>
+							<rid type="SInt64" value="8429620792306696194"/>
 							<type type="ReferencedManagedType">
 								<class type="string" value="SmartFormatTag"/>
 								<ns type="string" value="UnityEngine.Localization.Metadata"/>
@@ -92,6 +92,6 @@
 	</Base>
 	<FooterData>
 <![CDATA[
-01 00 00 00 0B E0 2F 2E 47 3F 05 00 ]]>
+01 00 00 00 00 80 E5 14 B4 00 00 00 ]]>
 	</FooterData>
 </Structure>

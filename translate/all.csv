@@ -1,2098 +1,2098 @@
-ID,EN,TH
-976354820096,Right click to study this blueprint,
-1751827103744,Blueprint: Improved Grill,
-1977031868416,Blueprint: Advanced Purifier,
-2324727087104,Blueprint: Radio Antenna,
-2557611622400,Blueprint: Radio Station,
-3623442989056,Blueprint: Sawmill,
-3830712909824,Blueprint: Biofuel Lab,
-4715976860385280,Blueprint: Cabinet (Blue),
-8811510578511872,Blueprint: Furnace,
-8811855039922176,Blueprint: Anvil,
-8812907143331840,Blueprint: Gun Workshop,
-8821363569033216,Blueprint: Animal Cage,
-8839414691627008,Blueprint: Glass Wall,
-9112540969140224,Blueprint: Reinforced Structures,
-9119930456178688,Blueprint: Metal Gate,
-9120373311766528,Blueprint: Reinforced Barricade,
-9121808703258624,Blueprint: Artillery,
-9128889128812544,Blueprint: Crystal Chandelier,
-9129308487909376,Blueprint: European Chandelier,
-9131113280143360,Blueprint: Reinforce Structures,
-9150375352827904,Blueprint: 40MM Grenade,
-9188064785563648,Blueprint: Battery,
-9192124972498944,Blueprint: Smokeless Powder,
-13005318517530624,Blueprint: Steel Furnace,
-13292350296924160,Blueprint: Electric Oven,
-13292570917314560,Blueprint: Coffee Machine,
-13292584636882944,Blueprint: Blender,
-13292637522862080,Blueprint: Fish Tank,
-13899186121318400,Blueprint: Paint,
-16960774065373184,Blueprint: 50 Cal Ammo,
-18075543971315712,Blueprint: Percussion Pistol,
-19442631954100224,Blueprints,
-19550129078419456,Blueprint: Antique Flintlock Pistol,
-26577346684100608,Blueprint: Air Filling Station,
-26578117056110592,Blueprint: Battery Charger,
-34356025620971520,Blueprint: Ore Detector,
-34359586014642176,Blueprint: Jetski,
-34359733813526528,Blueprint: Jetstream Bowrider,
-34359965771120640,Blueprint: Light Helicopter,
-34360342729998336,Blueprint: Large Generator,
-34360475559411712,Blueprint: Marine Fast Boat,
-34361238499115008,Blueprint: Military Grenade,
-34371170116059136,Blueprint: Military Backpack,
-34675423992889344,Blueprint: Motor Boat,
-35589248378576896,Blueprint:  Scuba Diving Fins,
-35592384623255552,Blueprint: Buoy,
-6881796096,Simple Grill,
-179515154432,Cooks raw foods for more nutrition.,
-1473426542813184,Improved Grill,
-1473426614116352,"Faster cooking, saving wood, more charcoal.",
-1473426618310656,Simple Purifier,
-1473426618310657,Converts seawater into fresh water.,
-1473426618310658,Advanced Purifier,
-1473426618310659,"Pumps and distills seawater, accelerates purification.",
-1473426618310660,Stove,
-1473426618310661,Can be used to cook more nutritious meals.,
-1473426618310662,Improved Stove,
-1473426618310664,Fishnet,
-1473426618310665,It automatically catches small fish.,
-1473426618310666,Planter,
-1473426618310667,"Used for planting various types of fruits, vegetables, and shrubs.",
-1473426618310668,Animal Cage,
-1473426618310669,Used for raising small animals.,
-1473426618310670,Greenhouse,
-1473426618310671,Plants grow faster in the greenhouse.,
-1473426618310672,Research Table,
-1473426618310673,Used to unlock more constructible items and base facilities.,
-1473426618310674,Furnace,
-1473426618310675,Can be used to convert ores into metal ingots.,
-2672607370403840,Wooden Wall With Door Slot,
-1473426618310678,Gun Workshop,
-1473426618310679,Workshop used for crafting modern firearms.\x0A,
-1473426618310680,Ammo Workshop,
-1473426618310681,Used for crafting modern ammunition.,
-1473426618310682,Armor Workshop,
-1473426618310683,Used for crafting modern helmets and bulletproof vests.,
-1473426618310684,Heavy Workbench,
-1473426618310685,Used for crafting complex machinery and tools.,
-1473426618310686,Sawmill,
-1473426618310687,Process regular wooden planks into refined wooden planks.,
-1473426618310688,Biofuel Lab,
-1473426618310689,Used for crafting fuel.,
-1473426618310690,Small Generator,
-1473426618310691,Provides power to various electrical devices. Consumes fuel.,
-1473426618310692,Radio Antenna,
-1473426618310693,Can provide signals to radios.,
-1473426618310694,Radio Station,
-1473426618310695,Used to receive external messages.,
-1473426618310696,Wooden Foundation,
-1473426618310697,The foundation of base construction.,
-1473426618310698,Metal Foundation,
-1473426618310700,Reinforced Foundation,
-1473426618310702,Wooden Wall,
-2673674124517377,Can only be built on foundations and floors.,
-1473426618310708,Wooden Floor,
-1473426622504961,Wooden Pillar,
-1473426622504962,Used to support upper structures.,
-1473426622504963,Wooden Roof,
-1473426622504964,Can only be built on pillars.,
-1473426622504965,Metal Wall,
-1473426622504967,Metal Wall With Door,
-1473426622504969,Metal Wall With Window,
-1473426622504971,Glass Wall,
-1473426622504973,Reinforced Wall,
-1473426622504975,Reinforced Wall With Door,
-1473426622504977,Reinforced Wall With Window,
-1473426622504979,Metal Floor,
-1473426622504981,Metal Column,
-1473426622504983,Wooden Ladder,
-1473426622504984,Can be attached to foundations and floors.,
-1473426622504985,Metal Ladder,
-1473426622504987,Wooden Stairs,
-1473426622504988,Can be placed on foundations and floors.,
-1473426622504989,Metal Roof,
-1473426622504995,Metal Door,
-1473426622504996,Can be attached to door frames.,
-1473426622504997,Metal Window,
-1473426622504998,Can be attached to window frames.,
-1473426622504999,Reinforced Door,
-1473426622505001,Reinforced Window,
-1473426622505005,Floor Tile (Wooden),
-1473426622505006,Can be attached to foundations and floors.,
-1473426622505007,Wallpaper (Green),
-1473426622505015,Wooden Door,
-1473426622505017,Wooden Window,
-1473426622505023,Wooden Defensive Wall,
-1473426622505024,Wooden defensive wall that can be used to enclose your base.,
-1473426622505025,Wooden Gate,
-1473426622505026,Wooden door that can be opened and closed.,
-1473426622505027,Artillery,
-1473426622505028,"Launches homemade projectiles, causing widespread damage to invading enemies.",
-1473426622505029,Metal Defensive Wall,
-1473426622505030,Even sturdier defensive wall.,
-1473426622505031,Metal Gate,
-1473426622505032,Even sturdier metal door that can be opened and closed.,
-1473426622505033,Wooden Barricade,
-1473426622505034,Simple barricade that can obstruct invaders.,
-1473426622505035,Barbed Wire,
-1473426622505036,Simple barricade that can obstruct invaders.,
-1473426622505037,Barricade,
-1473426622505038,Simple wooden cover that can be crouched behind for shooting.,
-1473426622505039,Reinforced Barricade,
-1473426622505040,"Sturdy metal cover that can withstand gunfire, providing you with maximum protection.",
-1473426622505041,Metal Armor Plate,
-1473426622505042,Small armor plates that can be attached anywhere to reinforce and provide protection.,
-1473426622505043,Tire Stack,
-1473426622505044,A pile of discarded tires for creating makeshift cover.,
-1473426622505045,Heavy Machine Gun,
-1473426622505046,Stationary heavy weapon that can rotate. Uses large caliber ammunition.,
-1473426622505047,Siren,
-1473426622505048,A high pitch alarm system.,
-1473426622505049,Detector,
-1473426622505050,Activates nearby alarms when enemies enter its range.\x0D,
-1473426622505051,Heavy Crossbow,
-1473426622505052,N/A,
-1473426622505053,Wall Spikes,
-1473426622505054,Mounted on walls and damages enemies upon contact.,
-1473426622505055,Wall Trap,
-1473426622505056,"Mounted on walls, nearby enemies trigger dropping heavy objects.",
-1473426622505057,Simple Bed,
-1473426622505058,Sleep to pass the night and restore stamina. Be cautious not to disrupt your sleep schedule.,
-1473426622505059,Marker Flag,
-1473426622505060,Place it to mark a location.,
-1473426622505061,Wooden Chest,
-49208423507521536,Used for storing items.\x0D,
-1473426622505063,Metal Chest,
-1473426622505065,Ammo Box,
-1473426622505066,Can be used for storing items.,
-1473426622505067,Fridge,
-1473426622505068,Store and organize food.,
-1473426622505069,Wooden Closet,
-1473426622505071,Metal Barrel,
-1473426622505073,Wooden Shelving,
-1473426622505074,Used for storing wooden planks.,
-1473426622505079,Metal Shelving,
-1473426622505080,Used for storing scrap metal.,
-1473426622505081,Wooden Boat,
-1473426622505082,A simple boat powered by oars.,
-1473426622505083,Wooden Sailboat,
-1473426622505084,A wooden sailboat that can accommodate 4 people. It has storage space.,
-1473426626699266,Motor Boat,
-1473426626699267,A small gasoline-powered boat that can carry 2 people. It's faster and has storage space.,
-1473426626699268,Jetski,
-1473426626699269,Single-person high-speed jet ski. No storage space.,
-1473426626699270,Light Helicopter,
-1473426626699271,A small helicopter that can carry two people. It has storage space. It greatly challenges one's flying skills.,
-1473426626699272,Standing Torch,
-1473426626699273,Provide a small scope of illumination.,
-1473426626699274,Fire Bowl,
-1473426626699275,The firelight is brighter and has a wider range.,
-1473426626699276,Hanging Lantern,
-1473426626699277,It can be hung from the ceiling.,
-1473426626699278,Bonfire,
-1473426626699279,It can illuminate a wide area. Wood needs to be added. Suitable for lighting up large outdoor spaces.,
-1473426626699280,Buoy,
-1473426626699281,Floating flags that can be placed on the sea.,
-1473426626699282,Floor Lamp,
-1473426626699284,Ceiling Light,
-1473426626699286,Searchlight,
-1473426626699287,Direction-controllable searchlight. Requires connection to a generator.,
-1473426626699288,Table Lamp,
-1473426626699292,Humble Chair,
-1473426626699294,Humble Sofa,
-1473426626699296,Humble Table,
-1473426626699298,Map Board,
-1473426626699300,Single bed,
-1473426626699302,Double Bed,
-1473426626699304,Collection Cabinet,
-1473426626699306,Cabinet 2,
-1473426626699308,Chandelier 1,
-1473426626699309,"Luxurious large chandelier, requires connection to a generator.",
-1473426626699310,Chandelier 2,
-1473426626699312,Clock 2,
-1473426626699314,Console 1,
-1473426626699316,Console 2,
-1473426626699318,Console 3,
-1473426626699320,Counter,
-1473426626699322,Fireplace 1,
-1473426626699324,Fireplace 2,
-1473426626699326,Leather Chair 1,
-1473426626699328,Leather Chair 2,
-1473426626699330,Leather Chair 3,
-1473426626699332,Leather Couch 1,
-1473426626699334,Leather Couch 2,
-1473426626699336,Leather Couch 3,
-1473426626699338,Leather Couch 4,
-1473426626699340,Makeup Table,
-1473426626699342,Round Table,
-1473426626699344,Sofa 1,
-1473426626699346,Stand,
-1473426626699348,TV,
-2670757384544256,Recycler,
-2670757401321472,Drag unused items into it to dismantle and obtain partial raw materials.,
-2670757401321473,Anvil,
-2670757401321474,Used for crafting advanced metal weapons.,
-27343263379193856,European Chandelier,
-27343469332103168,Crystal Chandelier,
-49198253587001344,A larger generator that can connect more electrical devices and is more fuel-efficient.,
-49204838333902848,Lighting devices. Require connection to a generator.,
-28382930081906688,Concave Cabinet,
-28383180431523840,Solid Wood Cabinet,
-28383144054325248,Simple Cabinet,
-28386959210020864,Double Door Wardrobe,
-28390549324529664,Blue Patterned Chair,
-28390622875844608,Small Bench,
-28390858360848384,Square Table,
-28390765985497088,Desk,
-28390948957814784,Plaid Couch,
-28390891378409472,Red Cloth Sofa,
-28390995162267648,Double Shelf,
-28391036300001280,Log Desk,
-28391132605415424,Counter,
-28391463045267456,Fireplace,
-28391514622623744,Armchair,
-28391541327757312,Black Leather Chair,
-28391570318786560,Black Leather Couch,
-28391488412418048,Backrest Chair,
-28391596659015680,Makeup Table,
-28391619140485120,Round Table,
-28391642662141952,Round Glass Table,
-28391679404244992,Hanging Clock,
-28391706251984896,Premium Fireplace,
-28391729274519552,European Leather Chair,
-30963988772646912,Steel Furnace,
-31205516120125440,Electric Oven,
-31205907939422208,Blender,
-31206061304147968,Coffee Machine,
-31422447179755520,Catamaran,
-31430885523812352,Marine Fast Boat,
-31431116969701376,Jetstream Bowrider,
-31508533726781440,Large Generator,
-31514827007303680,Wind Turbine,
-31514791376691200,Power Transmitter,
-31801764494548992,Fish Tank,
-31996467903045632,Modern Lamp Post,
-31996378820222976,Modern Garden Lamp,
-31996456901386240,Modern Wall Lamp,
-28391754096410624,Chaise Leather Couch,
-28391898875396096,French Sofa,
-28391870505123840,Green Leather Couch,
-28391832517312512,Single Leather Couch,
-28391934485037056,TV,
-28391777584513024,Vintage Leather Couch,
-36603555016622080,Workbench,
-36603689100132352,Craft various items,
-39600873146261504,Floor Tile (White Tiles),
-39601581140582400,Floor Tile (European),
-39602186428981248,Wallpaper (Yellow),
-39602266863149056,Wallpaper (Blue),
-42894995206545408,Safe,
-44430125627830272,Battery Charger,
-44482461867929600,Air Filling Station,
-44693919026225152,Paddle Boat,
-45085746527051776,Tool Box,
-45086888422121472,Food Container,
-46756038527434752,Very difficult to break.,
-49200842097520640,Decorative Furniture,
-54113330980036608,Wooden Wall With Window,
-54113856270475264,Can be built on any wall.,
-54452364929155072,Manually refills your air tanks.,
-56140909246955520,Used to charge batteries. Requires power source.,
-57582657361952768,Can be placed anywhere.,
-57582898735759360,Wooden Stairs,
-58155899552636928,Metal Stairs,
-58052075554971648,Wooden Stairs,
-58862938523398144,Repair Station,
-58863154735575040,Can be used to repair equipment.,
-40763383808,Gena,
-5526365728770,Quest Menu,
-5526365728769,Map Menu,
-5526365728768,Jump,
-5526361534466,Move,
-5526361534465,Sprint,
-5526361534464,Aim Down Sight,
-2005679534080,None,
-5526365728771,Inventory Menu,
-5526365728772,Build Menu,
-5526365728773,Menu,
-5526365728774,Use / Mouse Click,
-5526365728775,Switch Standing/Crouch,
-5526365728776,Reload,
-5526365728777,Select Next QuickSlot,
-5526365728778,Main Interaction,
-5526365728779,Secondary Interaction,
-5526365728780,Look / Aim,
-5526365728781,Use QuickSlot Item,
-379709284352,"Hey there, you must be the new guy I spotted through my binoculars. I'm Gena, nice to meet you!",
-1299784392704,"Uh, hi. What's up?",
-42873118720,None,
-120291581952,The Sea Vipers,
-20977650512707584,The Krakens,
-20978081615855616,The Marauders,
-20978605442482176,The Warheads Tribe,
-20987144961540096,The Hunters Union,
-20987575729143808,The Slavers,
-20988057243631616,The Skull Crushers,
-20988676612308992,The Scorchers,
-20990936260034560,The Salvation Clan,
-20991536762732544,"They are pirates known for targeting weaker settlements. They are less equipped than some other pirate groups, but make up for it with their large number and ruthlessness.",
-20991662080147456,"A fearsome pirate clan renowned for their formidable firepower, armed with an arsenal that includes machine guns. They are ruthless and without honor, attacking anyone who dares to come close, even turning against their own at times.",
-20991797996568576,"A formidable clan comprised of exceptionally skilled combatants, sought after by various warring tribes as elite mercenaries.",
-20991850647666688,"Greedy and ruthless, they capture and enslave people for profit, striking fear into all who resist.",
-20991894285205504,"Fearsome warriors, draped in skull-adorned armor, instilling terror. Bound by loyalty and strength, they dominate ruthlessly, leaving a trail of devastation.",
-20992079656665088,"Pirates ruling the waterlogged world with ruthless cunning. Their black banner bear the mark of a colossal kraken, bringing doom to all who cross their path.",
-20992135621263360,"A faction with a fervent belief in their power and inherent right to rule. Rising from the remnants of a ravaged world, they see themselves as the saviors destined to guide humanity towards a new order. ",
-20992010500980736,"Notorious bandits thriving in a flooded nuclear power station. Adapted to the radioactive environment, they leave destruction in their wake.",
-20991730258558976,"The bloodthirsty warlords seek relentless expansion and unrivaled dominance. Their insatiable thirst for power drives them to conquer new territories without remorse, leaving only chaos and destruction. ",
-33607066329825280,Mutants,
-8494575616,System,
-85069983744,Joined the game.,
-9106944000,Inventory Is Full,
-1924750178603008,Save Error,
-1929156966043648,Delete Directory Error,
-1929591735013376,Load Error,
-2080966653595648,File Exists Error,
-2081370720260096,Directory Existence Error,
-2081919662379008,Get Directories Error,
-12032804609028096,Sleep ({joinMember}/{allMember}),
-27712248338149376,Place The Battery,
-27712598482841600,Take Battery,
-27712833510666240,Charging Now,
-41475898488090624,Take Air Tank,
-41476171575029760,Place Air Tank,
-571921653760,Place Item,
-571942625280,Add Wood ({woodAmount} / {woodCapacity}),
-571942625281,Take Item,
-22783533768705,Can not Add More Wood,
-22783533768707,Can not Add More Fuel,
-24756559536128,"Ore Smelting, Please Wait ",
-10122602481676288,Add Food,
-10122909009801216,Cook,
-10123108973244416,Take Food,
-10123238694678528,Eat,
-10349604639830016,Add Sea Water ({seaWaterAmount} / {seaWaterCapacity}),
-10350570160222208,Take Water ({freshWaterAmount} / {freshWaterCapacity}),
-10351023346380800,Drink Water ({freshWaterAmount} / {freshWaterCapacity}),
-10362935178129408,Take {itemInProduction},
-10370009018626048,Take Fish ({fishAmount}/{maxFishAmount}),
-10378126997549056,Plant,
-10378723498881024,{operation},
-10386160763236352,Work Station,
-10386716185554944,Avil,
-10387557160284160,Ammo Workshop,
-10387791860953088,Armor Workshop,
-10388094823919616,Heavy Workbench,
-10393255503949824,Take Wood,
-10401156909985792,Add Ingredient ({ingredientAmount} / {ingredientCapacity}),
-10401553930219520,Take Fuel ({fuelAmount} / {fuelCapacity}),
-10403200626552832,Radio Station,
-10412500635840512,Artillery,
-10412823026823168,Heavy Machine Gun,
-10413112043728896,Heavy Crossbow,
-10449659967270912,It's Not Bedtime,
-10451567083745280,Change Color,
-10452337778716672,Wooden Chest,
-10452592716902400,Metal Chest,
-10452814981459968,Ammo Box,
-10453064404135936,Fridge,
-10453275616702464,Wooden Closet,
-10453464544931840,Metal Barrel,
-10472845983313920,Add {itemName},
-10474811597746176,Search Light,
-10497641991335936,Drive,
-10503777180151808,Sit (Passenger),
-10508649514364928,Chest,
-26379348044902400,Add Iron Ingot ({IronIngotAmount}/{IronIngotRequest}),
-26380996435734528,Take Steel Ingot,
-26614973977292800,Working Now,
-27002417860014080,Add Fuel ({fuelAmount}/{fuelCapacity}),
-27547374345744384,Add Coal ({CoalAmount}/{CoalCapacity}),
-27575776679260160,Enter,
-30047358479724544,Open,
-30084644365889536,Install Explosive,
-30124790180179968,Repair,
-31320611030528000,Helicopter Propeller,
-31916752877088768,Don't Decompose Item!,
-31917132612595712,Can not be Decomposed !,
-31919026206633984,Something is ready to bake!,
-31920797083725824,Need a bucket filled with seawater,
-31921114894528512,No empty water bottle in inventory,
-31922833615450112,Someone is occupying,
-31927742515605504,Water too deep here,
-31928015501881344,Your base is under attack!,
-31930697994170368,The door is not ready now,
-31932157041537024,No dynamite in inventory,
-31932573099716608,Doesn't  connect to  power source ,
-31939224921927680,No ,
-31941938758250496,Out Of Fuel,
-31942123081134080,"Short circuit, please repair",
-31944485082460160,Out of Power,
-33741680890834944,Dropped Backpack,
-34658298898640896,Max Connected Point,
-35193377030893568,Enemies Nearby!,
-36153336522567680,Reset Trap,
-37334289659949056,Install Battery,
-37334920172892160,No battery in inventory need to charge,
-37487804206247936,Toggle,
-38749471854522368,Coal Max,
-39839028947677184,There is no battery,
-39888154959769600,Hold To Operate,
-39889139794931712,No air tank in inventory need to fill,
-39889432087588864,No  air tank to get,
-40586221337931776,Remove Battery,
-40933094603059200,Turn Off,
-40933284890243072,Turn On,
-40978484522086400,SCAVENGING...,
-43101866055135232,"The force was too small, and the fish ran away",
-43102087770238976,The fish ran away with too much force,
-44162537702256640,Open Door,
-44162697727537152,Close Door,
-44162846088458240,Open Window,
-44162977558917120,Close Window,
-44578880570224640,[F] FILL WITH SEA WATER,
-44579227409805312,New item added to wishlist,
-44579484881350656,Decompose Item,
-44579661025341440,Can Not Use Underwater,
-44579917448310784,Discovered New Location,
-45187956622716928,Use Tools To Collect,
-45188446899105792,Collect,
-45188661559390208,Craft Failed,
-45188866493083648,Too Far From Workstation,
-45189167929323520,Wrong Tool,
-45314788252676096,Are you sure to demolish,
-45774894549975040,Trade,
-48520833754165248,Leave vehicle first,
-48817835767459840,You are not bleeding,
-48862432619098112,Demolish...,
-49082679485755392,Activate,
-49096381714886656,Neutral,
-49515760411701248,Push Boat,
-51815209896996864,The items placed inside of this object will be destroyed. Are you sure to pack it up?,
-952153686016,Mainly used for crafting black powder ammunition.\x0A,
-1889492549632,N/A,
-8930697166848,Ammunition used in various types of black powder firearms.,
-1681127205871616,Decoration. Right click to place it.,
-1684948875321344,A bucket to hold seawater.,
-1684952872493056,The container for fresh water.,
-1684954814455808,Used for mining ores.\x0D,
-1684955791728640,Used for repairing and demolishing buildings.,
-1684956727058432,Use it to observe distant areas.,
-1684957565919232,Swim rapidly like a fish.,
-1684958538997760,"Identify directions anytime, anywhere.",
-1684959549825024,It detects anything metallic.,
-1690765456416768,Used for stopping bleeding.,
-1684962167070720,Used for catching small fish. Requires bait.,
-1684963001737216,Provides power for mobile electronic devices. scooters. Drag it to install. ,
-1684963844792320,Thrown to illuminate a wide area of land or even the pitch-black seabed.,
-1684965019197440,"A strong headlamp with far-reaching light, perfect for illuminating the dark depths of the sea.",
-1686145560584192,Lockpick,
-1690770288254976,Restores a significant amount of health points.,
-1690772469293056,It's used to connect things.,
-1690774482558976,"Basic material used for crafting armor, ropes, and some furniture.",
-1690776663597056,Ingredient for modern ammo making.,
-1690782095220736,"Items like bolts, wires, nails, and the like.",
-1692984989818880,Used for crafting modern firearms.,
-1692990190755840,Required for crafting electronic devices.,
-1692992136912896,Used for crafting luxury furniture.,
-1692994481528832,Used to craft bottles and some structures.,
-1692995458801664,Can be melted in a furnace to create copper ingots.,
-1692996431880192,Raw material for crafting fabric.,
-1692998508060672,Can be melted in a furnace to create iron ingots.,
-1693000521326592,Has multiple uses.,
-1693003176321024,Usually found underwater.,
-1693006699536384,Used to make black powder.,
-1693008041713664,Has a wide range of uses. Obtained by chopping down trees or wooden furniture.,
-17676552326627328,"Quite valuable, selling to traders might yield a significant profit.",
-19399958027268096,Reduces hunger and thirst rate.,
-20965663695192064,Increases diving time.,
-21426795427360768,Can increase swimming speed.,
-30684847221469184,Advanced crafting material.,
-24210172382035968,Used to unlock boats on the research table.,
-25372100915642368,Increases diving time temporarily,
-30684581654917120,Advanced crafting material.,
-28247058335416320,Ammo for crossbow.,
-29627205194104832,"+30 hydration and food level, increases stamina recovery speed.\x0D",
-29631897206800384,Completely restores food level and increases maximum health by 50.,
-29637467737440256,"Completely restores hydration and food level, and enhances swimming and diving abilities.",
-30369775171944448,Improves swimming speed and diving duration.,
-30370115229335552,Increases maximum health by 50.,
-30371329341931520,Used for crafting molotov cocktails.,
-30655032313475072,Restores a small amount of health points.,
-30682035951464448,Simple lighting tool that can illuminate a small area.,
-30683320767442944,Can target enemies further away.,
-30683675806887936,Add more backpack capacity,
-30683915955957760,Can increase some backpack capacity,
-19981379968135168,Temporarily increases diving duration.,
-19982244896534528,Temporarily increases stamina recovery speed.,
-30684987915202560,Harder than iron.,
-30685061017726976,Used for home decoration.,
-30685176369475584,Used for advanced machinery.,
-30685290907529216,Used for creating wallpapers and floors.\x0D,
-30685407714701312,"Used for making ammo, producing gas, and more.",
-30685934775136256,Used for crafting advanced armor.,
-30686054371520512,Used for building home decorations.,
-30687137684746240,Used for crafting modern ammo and electronic devices.\x0D,
-30688812810072064,Ammunition for modern pistols.,
-30688861916983296,Ammunition for modern rifles.,
-30688909711077376,Ammunition for modern shotguns.,
-30688734846349312,"A glass bottle filled with gasoline, which can cause sustained area burning when exploded.",
-30688639161692160,Powerful modern military grenade.,
-30688583306145792,Improvised explosive made from scrap metal.,
-30688398047932416,Ammunition for large-caliber machine guns and rifles.,
-30687570658553856,Might be used in crafting certain items.,
-30687484956340224,"Can be used to craft various items such as diving fins, armor, and more.",
-30687391213645824,Perhaps could be used to craft some props.,
-30687299186421760,Obtained from animals and can be processed into leather.\x0D,
-30687213702311936,Used to provide engine power for boats and can also be used for generating electricity.,
-35467332524982272,Diving time increased,
-35994771449724928,Can be crafted into a functional gun in a gun workshop.,
-35997568555565056,Can be crafted into a new armor in an armor workshop.,
-38280086098505728,Used to pack placed objects back into your inventory.,
-27329028096,Crude Axe,
-1476949783339008,Twohand Axe,
-1476949800116224,N/A,
-1476949800116225,Iron Axe,
-1476949800116227,Wooden Spear,
-1476949800116228,N/A,
-1476949800116229,Iron Spear,
-1476949800116230,N/A,
-1476949800116231,Bow,
-1476949800116233,Crossbow,
-1476949800116235,Arrow,
-1476949800116236,The ammunition for bows.,
-1476949800116237,Crossbow Bolt,
-1476949800116238,Ammunition for crossbow,
-1476949804310529,Machete,
-1476949804310530,N/A,
-1476949804310531,Spiked Club,
-1476949804310532,N/A,
-1476949804310533,Wooden Knife,
-1476949804310534,It cuts...I hope...,
-1476949804310535,Pipe Pistol,
-1476949804310536,N/A,
-1476949804310537,Scrap Pistol,
-1476949804310538,N/A,
-1476949804310539,Homemade Revolver,
-1476949804310540,N/A,
-1476949804310541,Double Barrel Shotgun,
-1476949804310542,N/A,
-1476949804310543,PM,
-1476949804310544,N/A,
-1476949804310545,GP20,
-1476949804310546,N/A,
-1476949804310547,Pump Shotgun,
-1476949804310548,N/A,
-1476949804310549,SMG,
-1476949804310550,N/A,
-1476949804310551,Hunting Rifle,
-1476949804310552,N/A,
-1476949804310553,Old Bolt Action Rifle,
-1476949804310554,N/A,
-1476949804310555,AK47,
-1476949804310556,N/A,
-1476949804310557,CZ60,
-1476949804310558,N/A,
-1476949804310559,Grenade Launcher,
-1476949804310560,N/A,
-1476949804310561,M14,
-1476949804310562,N/A,
-1476949804310563,M16,
-1476949804310564,N/A,
-1476949804310565,Broken GP20,
-1476949804310566,Not functioning any more. But can be used to craft a new gun.,
-1476949804310567,Broken PM,
-1476949804310568,Not functioning any more. But can be used to craft a new gun.,
-1476949804310569,Broken Revolver,
-1476949804310570,Not functioning any more. But can be used to craft a new gun.,
-1476949804310571,Broken Bolt Action Rifle,
-1476949804310572,Not functioning any more. But can be used to craft a new gun.,
-1476949804310573,Broken Pump Shotgun,
-1476949804310574,Not functioning any more. But can be used to craft a new gun.,
-1476949804310575,Broken SMG,
-1476949804310576,Not functioning any more. But can be used to craft a new gun.,
-1476949804310577,Broken AK47,
-1476949804310578,Not functioning any more. But can be used to craft a new gun.,
-1476949804310579,Broken M14,
-1476949804310580,Not functioning any more. But can be used to craft a new gun.,
-1476949804310581,Toy Bike,
-1476949804310582,Right click to place it,
-1476949804310583,Candlestick,
-1476949804310584,Right click to place it,
-1476949804310585,Carpet,
-1476949804310586,Right click to place it,
-1476949804310587,Sofa Chair,
-1476949804310588,Right click to place it,
-1476949804310589,Red Sofa Chair,
-1476949804310590,Right click to place it,
-1476949804310591,Wooden Chair,
-1476949804310592,Right click to place it,
-1476949804310593,Cooling Chair,
-1476949804310594,Right click to place it,
-1476949804310595,Delicate Chandelier,
-1476949804310596,Right click to place it,
-1476949804310597,Moire Ceramic,
-1476949804310598,Right click to place it,
-1476949804310599,Patterned Circular Porcelain,
-1476949804310600,Right click to place it,
-1476949804310601,Ceramic Bottle,
-1476949804310602,Right click to place it,
-1476949804310603,Patterned Bronze Ware,
-1476949804310604,Right click to place it,
-1476949808504832,Patterned Blue and White Pottery,
-1476949808504833,Right click to place it,
-1476949808504834,Blue Oil Bottle,
-1476949808504835,Right click to place it,
-1476949808504836,Old Clock,
-1476949808504837,Right click to place it,
-1476949808504838,Exquisite Wooden Table,
-1476949808504839,Right click to place it,
-1476949808504840,Solid Wood Shelf,
-1476949808504841,Right click to place it,
-1476949808504842,Old Style Storage Shelf,
-1476949808504843,Right click to place it,
-1476949808504844,Console 8,
-1476949808504845,Right click to place it,
-1476949808504846,Darts Target,
-1476949808504847,Right click to place it,
-1476949808504848,Decorative Plate Stand,
-1476949808504849,Right click to place it,
-1476949808504850,Desk Clock,
-1476949808504851,Right click to place it,
-1476949808504852,Covered Easel,
-1476949808504853,Right click to place it,
-1476949808504854,Fish Statue,
-1476949808504855,Right click to place it,
-1476949808504856,Game Console,
-1476949808504857,Right click to place it,
-1476949808504858,Small Globe,
-1476949808504859,Right click to place it,
-1476949808504860,Globe,
-1476949808504861,Right click to place it,
-1476949808504862,Hanger,
-1476949808504863,Right click to place it,
-1476949808504864,Horse Statue,
-1476949808504865,Right click to place it,
-1476949808504866,Toy Horse,
-1476949808504867,Right click to place it,
-1476949808504868,Jewelry Casket,
-1476949808504869,Right click to place it,
-1476949808504870,Modern Floor Lamp,
-1476949808504871,Right click to place it,
-1476949808504872,Table Lamp,
-1476949808504873,Right click to place it,
-1476949808504874,Lamp Table 2,
-1476949808504875,Right click to place it,
-1476949808504876,Old Desk Lamp,
-1476949808504877,Right click to place it,
-1476949808504878,Wall Lamp,
-1476949808504879,Right click to place it,
-1476949808504880,Lantern,
-1476949808504881,Right click to place it,
-1476949808504882,Large Vase,
-1476949808504883,Right click to place it,
-1476949808504884,Mirror,
-1476949808504885,Right click to place it,
-1476949808504886,Mirror 2,
-1476949808504887,Right click to place it,
-1476949808504888,Floor Mirror,
-1476949808504889,Right click to place it,
-1476949808504890,Neon Bestdayever,
-1476949808504891,Right click to place it,
-1476949808504892,Neon Cat,
-1476949808504893,Right click to place it,
-1476949808504894,Neon Gamer,
-1476949808504895,Right click to place it,
-1476949808504896,Neon Guitar,
-1476949808504897,Right click to place it,
-1476949808504898,Neon Hotel,
-1476949808504899,Right click to place it,
-1476949808504900,Neon Money,
-1476949808504901,Right click to place it,
-1476949808504902,Neon Nightclub,
-1476949808504903,Right click to place it,
-1476949808504904,Neon Peace,
-1476949808504905,Right click to place it,
-1476949808504906,Neon Route66,
-1476949808504907,Right click to place it,
-1476949808504908,Neon Woman 1,
-1476949808504909,Right click to place it,
-1476949808504910,Neon Woman 2,
-1476949808504911,Right click to place it,
-1476949808504912,Owl Toy,
-1476949808504913,Right click to place it,
-1476949808504914,Pan,
-1476949808504915,Right click to place it,
-1476949808504916,Picture 1,
-1476949808504917,Right click to place it,
-1476949808504918,Oil Painting(Comfortable),
-1476949808504919,Right click to place it,
-1476949812699136,Oil Painting(Lotus),
-1476949812699137,Right click to place it,
-1476949812699138,Oil Painting (Fox in Birch Forest),
-1476949812699139,Right click to place it,
-1476949812699140,Picture 5,
-1476949812699141,Right click to place it,
-1476949812699142,Oil Painting (Rural Life),
-1476949812699143,Right click to place it,
-1476949812699144,Oil Painting (Divine Tree),
-1476949812699145,Right click to place it,
-1476949812699146,Oil Painting (Small Stream in the Forest),
-1476949812699147,Right click to place it,
-1476949812699148,Picture 9,
-1476949812699149,Right click to place it,
-1476949812699150,Oil Painting(Desert Oasis),
-1476949812699151,Right click to place it,
-1476949812699152,Picture 11,
-1476949812699153,Right click to place it,
-1476949812699154,Oil Painting(Deep in the Valley),
-1476949812699155,Right click to place it,
-1476949812699156,Picture 13,
-1476949812699157,Right click to place it,
-1476949812699158,Oil Painting(Forgotten Castle),
-1476949812699159,Right click to place it,
-1476949812699160,Oil Painting(King Castle),
-1476949812699161,Right click to place it,
-1476949812699162,Toy Plane,
-1476949812699163,Right click to place it,
-1476949812699164,Radio,
-1476949812699165,Right click to place it,
-1476949812699166,Record Player Disk 1,
-1476949812699167,Right click to place it,
-1476949812699168,Record Player Disk 2,
-1476949812699169,Right click to place it,
-1476949812699170,Record Player Disk 3,
-1476949812699171,Right click to place it,
-1476949812699172,Rug 1,
-1476949812699173,Right click to place it,
-1476949812699174,Retro Rug,
-1476949812699175,Right click to place it,
-1476949812699176,Striped Rug,
-1476949812699177,Right click to place it,
-1476949812699178,Rug 4,
-1476949812699179,Right click to place it,
-1476949812699180,Rug 5,
-1476949812699181,Right click to place it,
-1476949812699182,Rug 6,
-1476949812699183,Right click to place it,
-1476949812699184,Rug 7,
-1476949812699185,Right click to place it,
-1476949812699186,Sand Watch,
-1476949812699187,Right click to place it,
-1476949812699188,Scales 1,
-1476949812699189,Right click to place it,
-1476949812699190,Scales 2,
-1476949812699191,Right click to place it,
-1476949812699192,Moire,
-1476949812699193,Right click to place it,
-1476949812699194,Stone Elephant,
-1476949812699195,Right click to place it,
-1476949812699196,Wanghai Reef,
-1476949812699197,Right click to place it,
-1476949812699198,Leather Suitcase,
-1476949812699199,Right click to place it,
-1476949812699200,Handbag,
-1476949812699201,Right click to place it,
-1476949812699202,Decorative Sword,
-1476949812699203,Right click to place it,
-1476949812699204,Old Telephone ,
-1476949812699205,Right click to place it,
-1476949812699206,Toy 1,
-1476949812699207,Right click to place it,
-1476949812699208,Toy 2,
-1476949812699209,Right click to place it,
-1476949812699210,Toy Bear,
-1476949812699211,Right click to place it,
-1476949812699212,Vinyl Machine,
-1476949812699213,Right click to place it,
-1476949812699214,Violin,
-1476949812699215,Right click to place it,
-1476949812699216,Wall Clock,
-1476949812699217,Right click to place it,
-1476949812699218,Wallet,
-1476949812699219,Right click to place it,
-1476949812699220,Torch,
-1476949812699221,N/A,
-1476949812699222,Seawater Bucket,
-1476949812699223,A bucket to hold seawater.,
-1476949812699224,Water Bottle,
-1476949812699225,The container for fresh water.,
-1476949812699226,Sack,
-1476949812699227,N/A,
-1476949812699228,Backpack,
-1476949812699229,N/A,
-1476949816893440,Pickaxe,
-1476949816893441,To mine ores.,
-1476949816893442,Diving Fins,
-1476949816893443,Swim fast like a fish.,
-1476949816893444,Binocular,
-1476949816893445,I can finally see hope.,
-1476949816893446,Compass,
-1476949816893447,It tells the north.,
-1476949816893448,Ore Detector,
-1476949816893449,It detects anything metallic.,
-1476949816893450,Reparing Hammer,
-1476949816893451,Just a hammer to repair my boat.,
-1476949816893452,Coordinator,
-1476949816893453,N/A,
-1476949816893454,Fishing Rod,
-1476949816893455,Catches small fishes.,
-1476949816893456,Battery,
-1476949816893457,To power small electronics.,
-1476949816893458,Flare,
-1476949816893459,Use it to light up the night sky.,
-1476949816893460,Headlight,
-1476949816893461,I won't worry about night anymore.,
-1476949816893462,Lockpick,
-1476949816893463,Lockpick,
-1476949816893464,Small Air Tank,
-1476949816893465,Use it to breathe underwater.,
-1476949816893468,Construction Hammer,
-1476949816893469,N/A,
-1476949816893470,Feather,
-1476949816893471,N/A,
-1476949816893472,Flare Projectile,
-1476949816893473,N/A,
-1476949816893474,Grenade Projectile,
-1476949816893475,N/A,
-1476949816893476,Molotov Projectile,
-1476949816893477,N/A,
-1476949816893478,Reddot Gun Sight,
-1476949816893479,N/A,
-1476949816893480,Combat Knife,
-1476949816893481,N/A,
-1476949816893482,Skull Crusher,
-1476949816893483,N/A,
-1476949816893484,Bandage,
-1476949816893485,Stops bleeding.,
-1476949816893486,Herbal Medicine,
-1476949816893487,N/A,
-1476949816893488,Stamina Herbal Mix,
-1476949816893489,N/A,
-1476949816893490,Alcohol,
-1476949816893491,N/A,
-1476949816893492,Antibiotics,
-1476949816893494,Herbal Energy Drink,
-1476949816893495,N/A,
-1476949816893496,Herbal Health Booster,
-1476949816893497,N/A,
-1476949816893498,Rope,
-1476949816893499,It's used to connect things,
-1476949816893500,Cloth,
-1476949816893501,A basic material.,
-1476949816893502,Ballistic Fiber,
-1476949816893503,N/A,
-1476949816893504,Components,
-1476949816893505,"Bolts, wires, nails, that kind of stuff.",
-1476949816893506,Gun Parts,
-1476949816893507,Components for crafting firearms.,
-1476949816893508,Electronic Parts,
-1476949816893509,Needed for building electronic applicants.,
-1476949816893510,Black Powder,
-1476949816893511,Used for luxury furniture,
-1476949816893512,Glass,
-1476949816893513,Used to craft bottles and weapons.,
-1476949816893514,Copper Ingot,
-1476949816893515,N/A,
-1476949816893516,Copper Ore,
-1476949816893517,Can be melt into Copper Ingot using furnance.,
-1476949816893518,Cotton,
-1476949816893519,The raw ingredient for making cloth.,
-1476949816893520,Duct Tape,
-1476949816893522,Hide,
-1476949816893523,N/A,
-1476949816893524,Gasoline,
-1476949821087744,N/A,
-1476949821087745,Iron Ingot,
-1476949821087746,N/A,
-1476949821087747,Iron Ore,
-1476949821087748,Can be melt into Iron Ingot using furnance.,
-1476949821087749,Chemical Substance,
-1476949821087750,"Used to make gunpowders, gasoline, etc",
-1476949821087751,Marlin Fish Skin,
-1476949821087752,N/A,
-1476949821087753,Rubber,
-1476949821087754,Has multiple uses,
-1476949821087755,Scrap Metal,
-1476949821087756,Typically found underwater.,
-1476949821087757,Shark Skin,
-1476949821087758,N/A,
-1476949821087759,Paint,
-1476949821087760,N/A,
-1476949821087761,SubCannon,
-1476949821087762,SubCannon,
-1476949821087763,Wood Plank,
-1476949821087764,Mostly used for constructions.,
-1476949821087766,N/A,
-1476949821087768,N/A,
-1476949821087770,N/A,
-1476949821087772,N/A,
-1476949821087773,Treasure Map Item,
-1476949821087774,N/A,
-1476949821087775,Purple Flower,
-1476949821087776,N/A,
-1476949821087777,Red Flower,
-1476949821087778,N/A,
-1476949821087779,White Flower,
-1476949821087780,N/A,
-1476949821087781,Battery,
-1476949821087782,N/A,
-1476949821087783,Motor Engine,
-1476949821087784,The combustion engine for boats.,
-1476949821087785,Bottle Of Water,
-1476949821087786,N/A,
-1476949821087787,Roasted Wahoo,
-1476949821087788,N/A,
-1476949821087789,Roasted Wahoo,
-1476949821087790,N/A,
-1476949821087791,Roasted Red Snapper,
-1476949821087792,N/A,
-1476949821087793,Roasted Bream,
-1476949821087794,N/A,
-1476949821087795,Fishing Bait,
-1476949821087796,N/A,
-1476949821087797,Food Can,
-1476949821087798,N/A,
-1476949821087799,Roasted Bird Meat,
-1476949821087800,N/A,
-1476949821087801,Roasted Cabbage,
-1476949821087802,N/A,
-1476949821087803,Roasted Crab,
-1476949821087804,N/A,
-1476949821087805,Roasted Fish,
-1476949821087806,N/A,
-1476949821087807,Roasted Meat,
-1476949821087808,N/A,
-1476949821087809,Roasted Mushroom,
-1476949821087810,N/A,
-1476949821087811,Roasted Potato,
-1476949821087812,N/A,
-1476949821087813,Roasted Scallop,
-1476949821087814,N/A,
-1476949821087815,Soda,
-1476949821087816,N/A,
-1476949821087817,Water,
-1476949821087818,N/A,
-1476949821087819,Cola,
-1476949821087820,N/A,
-1476949821087821,Egg,
-1476949821087822,Egg,
-1476949821087823,Amberjack,
-1476949821087824,N/A,
-1476949821087825,Roasted Amberjack,
-1476949821087826,N/A,
-1476949821087827,Roasted Tuna,
-1476949821087828,N/A,
-1476949821087829,Tuna,
-1476949821087830,N/A,
-1476949821087831,Dorado,
-1476949821087832,N/A,
-1476949821087833,Roasted Dorado,
-1476949821087834,N/A,
-1476949821087835,Roasted Steenbras,
-1476949821087836,N/A,
-1476949825282048,Steenbras,
-1476949825282049,N/A,
-1476949825282050,Onion,
-1476949825282051,N/A,
-1476949825282052,Bird Meat,
-1476949825282053,N/A,
-1476949825282054,Cabbage,
-1476949825282055,N/A,
-1476949825282056,Crab Meat,
-1476949825282057,N/A,
-1476949825282058,Tarpon,
-1476949825282059,N/A,
-1476949825282060,Wahoo,
-1476949825282061,N/A,
-1476949825282062,Red Snapper,
-1476949825282063,N/A,
-1476949825282064,Bream,
-1476949825282065,N/A,
-1476949825282066,Large Fish Meat,
-1476949825282067,N/A,
-1476949825282068,Lemon,
-1476949825282069,N/A,
-1476949825282070,Mushroom,
-1476949825282071,N/A,
-1476949825282072,Potato,
-1476949825282073,N/A,
-1476949825282074,Raw Meat,
-1476949825282075,N/A,
-1476949825282076,Red Algae,
-1476949825282077,N/A,
-1476949825282078,Scallop,
-1476949825282079,N/A,
-1476949825282080,Strawberry,
-1476949825282081,N/A,
-1476949825282082,Bush Seed,
-1476949825282083,N/A,
-1476949825282084,Cotton Seeds,
-1476949825282085,N/A,
-1476949825282086,Lemon Seeds,
-1476949825282087,N/A,
-1476949825282088,Strawberry Seeds,
-1476949825282089,N/A,
-1476949825282090,Fish Stew,
-1476949825282091,N/A,
-1476949825282092,Fruit Salad,
-1476949825282093,N/A,
-1476949825282094,Meat Stew,
-1476949825282095,N/A,
-1476949825282096,Mixed Vegetables,
-1476949825282097,N/A,
-1476949825282098,Mushroom Soup,
-1476949825282099,N/A,
-1476949825282100,Seafood Soup,
-1476949825282101,N/A,
-1476949825282102,CookBookA,
-1476949825282103,N/A,
-1476949825282104,CookBookB,
-1476949825282105,N/A,
-1476949825282106,CookBookC,
-1476949825282107,N/A,
-1476949825282108,Crude TShirt,
-1476949825282109,N/A,
-1476949825282110,Baggy Pants,
-1476949825282111,N/A,
-1476949825282112,Zip Shoes,
-1476949825282113,N/A,
-1476949825282114,Scrap Armor,
-1476949825282115,N/A,
-1476949825282116,Scrap Helmet,
-1476949825282117,N/A,
-1476949825282118,Tactical Helmet,
-1476949825282119,N/A,
-1476949825282120,Leather Armor,
-1476949825282121,N/A,
-1476949825282122,Combat Armor,
-1476949825282123,N/A,
-1476949825282124,Police Vest,
-1476949825282125,N/A,
-1476949825282126,Tactical Vest,
-1476949825282127,N/A,
-1476949825282128,Army Vest,
-1476949825282129,N/A,
-1476949825282130,Spetznaz Vest,
-1476949825282131,N/A,
-1476949825282132,Football Helmet,
-1476949825282133,N/A,
-1476949825282134,Motorcycle Helmet,
-1476949825282135,N/A,
-1476949825282136,Police Helmet,
-1476949825282137,N/A,
-1476949825282138,Spetsnaz Helmet,
-1476949825282139,N/A,
-1476949825282140,Broken Combat Armor,
-1476949829476352,"Too broken to wear, but can be used as crafting material.",
-1476949829476353,Broken Football Helmet,
-1476949829476354,"Too broken to wear, but can be used as crafting material.",
-1476949829476355,Broken Police Helmet,
-1476949829476356,"Too broken to wear, but can be used as crafting material.",
-1476949829476357,Broken Police Vest,
-1476949829476358,"Too broken to wear, but can be used as crafting material.",
-1476949829476359,Broken Army Helmet,
-1476949829476360,"Too broken to wear, but can be used as crafting material.",
-1476949829476361,Broken Army Vest,
-1476949829476362,"Too broken to wear, but can be used as crafting material.",
-1476949829476363,Broken Military Vest,
-1476949829476364,"Too broken to wear, but can be used as crafting material.",
-1476949829476365,Broken Motorcycle Helmet,
-1476949829476366,"Too broken to wear, but can be used as crafting material.",
-1476949829476367,Broken Spetznaz Helmet,
-1476949829476368,"Too broken to wear, but can be used as crafting material.",
-1476949829476369,Broken Spetznaz Vest,
-1476949829476370,"Too broken to wear, but can be used as crafting material.",
-1476949829476371,Shanty Shirt,
-1476949829476372,N/A,
-1476949829476373,Shanty Pants,
-1476949829476374,N/A,
-1476949829476375,Shanty Hat,
-1476949829476376,N/A,
-1476949829476377,Shemagh,
-1476949829476378,N/A,
-1476949829476379,Fish Skin Pants,
-1476949829476380,N/A,
-1476949829476381,Fish Skin Boots,
-1476949829476382,N/A,
-1476949829476383,Scrap Metal Pants,
-1476949829476384,N/A,
-1476949829476385,Reinforced Leather Boots,
-1476949829476386,N/A,
-1476949829476387,Crude Shirt,
-1476949829476388,N/A,
-1476949829476389,Iron Armor,
-1476949829476390,N/A,
-1476949829476391,Reinforced Armor Pants,
-1476949829476392,N/A,
-1476949829476393,Reinforced Armor,
-1476949829476394,N/A,
-1476949829476395,Leather Helmet,
-1476949829476396,N/A,
-1476949829476397,Iron Helmet,
-1476949829476398,N/A,
-1476949829476399,Soft Hat,
-1476949829476400,N/A,
-1476949829476401,Vest A,
-1476949829476402,N/A,
-1476949829476403,Vest B,
-1476949829476404,N/A,
-1476949829476405,Vest Black,
-1476949829476406,N/A,
-1476949829476407,Vest C,
-1476949829476408,N/A,
-1476949829476409,Vest1 Forest,
-1476949829476410,N/A,
-1476949829476411,Navy Vest,
-1476949829476412,N/A,
-1476949829476413,Vest1 Sand,
-1476949829476414,N/A,
-1476949829476415,Forest Combat Vest,
-1476949829476416,N/A,
-1476949829476417,Vest3 Navy,
-1476949829476418,N/A,
-1476949829476419,Vest3 Sand,
-1476949829476420,N/A,
-1476949829476421,Iron Armor,
-1476949829476422,N/A,
-1476949829476423,2Layer TShirt B,
-1476949829476424,N/A,
-1476949829476425,2Layer TShirt E,
-1476949829476426,N/A,
-1476949829476427,Bandage Boots,
-1476949829476428,N/A,
-1476949829476429,Bandana Mouth Black,
-1476949829476430,N/A,
-1476949829476431,Bandana Mouth Olive,
-1476949829476432,N/A,
-1476949829476433,Bandana Neck Black,
-1476949829476434,N/A,
-1476949829476435,Bandana Neck Sand,
-1476949829476436,N/A,
-1476949829476437,Boots D,
-1476949829476438,N/A,
-1476949829476439,Boots Forest,
-1476949829476440,N/A,
-1476949829476441,Boots Navy,
-1476949833670656,N/A,
-1476949833670657,Boots1 A,
-1476949833670658,N/A,
-1476949833670659,Boots2 A,
-1476949833670660,N/A,
-1476949833670661,Bracer C,
-1476949833670662,N/A,
-1476949833670663,Bracer,
-1476949833670664,N/A,
-1476949833670665,Breechcloth Pants,
-1476949833670666,N/A,
-1476949833670667,Camisole A,
-1476949833670668,N/A,
-1476949833670669,Camisole B,
-1476949833670670,N/A,
-1476949833670671,Camisole D,
-1476949833670672,N/A,
-1476949833670673,Camisole,
-1476949833670674,N/A,
-1476949833670675,Canvas Shoes B,
-1476949833670676,N/A,
-1476949833670677,Canvas Shoes C,
-1476949833670678,N/A,
-1476949833670679,Canvas Shoes D,
-1476949833670680,N/A,
-1476949833670681,Cargo Pants B,
-1476949833670682,N/A,
-1476949833670683,Cargo Pants C,
-1476949833670684,N/A,
-1476949833670685,Cargo Shorts A,
-1476949833670686,N/A,
-1476949833670687,Cargo Shorts B,
-1476949833670688,N/A,
-1476949833670689,Cargo Shorts C,
-1476949833670690,N/A,
-1476949833670691,Close collar longsleeves shirt C,
-1476949833670692,N/A,
-1476949833670693,Close collar longsleeves shirt D,
-1476949833670694,N/A,
-1476949833670695,Close collar short sleeves shirt E,
-1476949833670696,N/A,
-1476949833670697,Corset B,
-1476949833670698,N/A,
-1476949833670699,Corset C,
-1476949833670700,N/A,
-1476949833670701,Fingerless Gloves Black,
-1476949833670702,N/A,
-1476949833670703,Fingerless Gloves Brown,
-1476949833670704,N/A,
-1476949833670705,Flip-flops A,
-1476949833670706,N/A,
-1476949833670707,Flip-flops C,
-1476949833670708,N/A,
-1476949833670709,Flip-flops D,
-1476949833670710,N/A,
-1476949833670711,Gas Mask A,
-1476949833670712,N/A,
-1476949833670713,Gas Mask B,
-1476949833670714,N/A,
-1476949833670715,Googles A,
-1476949833670716,N/A,
-1476949833670717,Henley Longsleeve A,
-1476949833670718,N/A,
-1476949833670719,Henley Longsleeve B,
-1476949833670720,N/A,
-1476949833670721,Henley Longsleeve D,
-1476949833670722,N/A,
-1476949833670723,High-heels A,
-1476949833670724,N/A,
-1476949833670725,High-heels B,
-1476949833670726,N/A,
-1476949833670727,High-heels C,
-1476949833670728,N/A,
-1476949833670729,High-heels D,
-1476949833670730,N/A,
-1476949833670731,Jeans B,
-1476949833670732,N/A,
-1476949833670733,Jeans C,
-1476949833670734,N/A,
-1476949833670735,Jeans E,
-1476949833670736,N/A,
-1476949833670737,Jeans Rivets,
-1476949833670738,N/A,
-1476949833670739,Knee Boots B,
-1476949833670740,N/A,
-1476949833670741,Knee Boots C,
-1476949833670742,N/A,
-1476949833670743,Knee Boots D,
-1476949833670744,N/A,
-1476949837864960,Leather Jeans,
-1476949837864961,N/A,
-1476949837864962,Low-rise Shorts B,
-1476949837864963,N/A,
-1476949837864964,Low-rise Shorts C,
-1476949837864965,N/A,
-1476949837864966,Low-rise Shorts D,
-1476949837864967,N/A,
-1476949837864968,Mini Skirt (Red),
-1476949837864969,N/A,
-1476949837864970,Mini Skirt D,
-1476949837864971,N/A,
-1476949837864972,Moccasins Boots,
-1476949837864973,N/A,
-1476949837864974,Open collar longsleeves shirt C,
-1476949837864975,N/A,
-1476949837864976,Open collar longsleeves shirt F,
-1476949837864977,N/A,
-1476949837864978,Open collar longsleeves shirt H,
-1476949837864979,N/A,
-1476949837864980,Open collar longsleeves shirt I,
-1476949837864981,N/A,
-1476949837864982,Tucked-SH Forest,
-1476949837864983,N/A,
-1476949837864984,Tucked-SH Navy,
-1476949837864985,N/A,
-1476949837864986,Tucked-SH Sand,
-1476949837864987,N/A,
-1476949837864988,Pants1 A,
-1476949837864989,N/A,
-1476949837864990,Pants1 B,
-1476949837864991,N/A,
-1476949837864992,Pants2 A,
-1476949837864993,N/A,
-1476949837864994,Pants2 B,
-1476949837864995,N/A,
-1476949837864996,Patched Pants,
-1476949837864997,N/A,
-1476949837864998,Pencil Skirt A,
-1476949837864999,N/A,
-1476949837865000,Pencil Skirt D,
-1476949837865001,N/A,
-1476949837865002,Pencil Skirt E,
-1476949837865003,N/A,
-1476949837865004,Rocker Jeans,
-1476949837865005,N/A,
-1476949837865006,Forest Camouflage Top,
-1476949837865007,N/A,
-1476949837865008,Navy Camouflage Top,
-1476949837865009,N/A,
-1476949837865010,Desert Camouflage Top,
-1476949837865011,N/A,
-1476949837865012,Scrub Pants A,
-1476949837865013,N/A,
-1476949837865014,Scrub Pants B,
-1476949837865015,N/A,
-1476949837865016,Scrub Pants C,
-1476949837865017,N/A,
-1476949837865018,Scrub Pants E,
-1476949837865019,N/A,
-1476949837865020,Shirt B,
-1476949837865021,N/A,
-1476949837865022,Shirt E,
-1476949837865023,N/A,
-1476949837865024,Shirt-Standard Forest,
-1476949837865025,N/A,
-1476949837865026,Shirt-Standard Navy,
-1476949837865027,N/A,
-1476949837865028,Shirt-Standard Sand,
-1476949837865029,N/A,
-1476949837865030,Shirt-Tactical Forest,
-1476949837865031,N/A,
-1476949837865032,Shirt-Tactical Navy,
-1476949837865033,N/A,
-1476949837865034,Shirt-Tactical Sand,
-1476949837865035,N/A,
-1476949837865036,Combat Kneepads,
-1476949837865037,N/A,
-1476949837865038,Ski Mask A,
-1476949837865039,N/A,
-1476949837865040,Ski Mask B,
-1476949837865041,N/A,
-1476949837865042,Skinny Pants C,
-1476949837865043,N/A,
-1476949837865044,Skinny Pants D,
-1476949837865045,N/A,
-1476949837865046,Slacks B,
-1476949837865047,N/A,
-1476949837865048,Slacks C,
-1476949837865049,N/A,
-1476949842059264,Sleeves Top B,
-1476949842059265,N/A,
-1476949842059266,Sleeves Top C,
-1476949842059267,N/A,
-1476949842059268,Sleeves Top D,
-1476949842059269,N/A,
-1476949842059270,Slip-ons A,
-1476949842059271,N/A,
-1476949842059272,Slip-ons B,
-1476949842059273,N/A,
-1476949842059274,Slip-ons C,
-1476949842059275,N/A,
-1476949842059276,Slit Skirt B,
-1476949842059277,N/A,
-1476949842059278,Slit Skirt C,
-1476949842059279,N/A,
-1476949842059280,Slit Skirt D,
-1476949842059281,N/A,
-1476949842059282,Sneakers B,
-1476949842059283,N/A,
-1476949842059284,Sneakers C,
-1476949842059285,N/A,
-1476949842059286,Sneakers D,
-1476949842059287,N/A,
-1476949842059288,Style 2,
-1476949842059289,N/A,
-1476949842059290,Style 3,
-1476949842059291,N/A,
-1476949842059292,Style 5,
-1476949842059293,N/A,
-1476949842059294,Style 6,
-1476949842059295,N/A,
-1476949842059296,T-shirt A,
-1476949842059297,N/A,
-1476949842059298,T-shirt C,
-1476949842059299,N/A,
-1476949842059300,T-shirt D,
-1476949842059301,N/A,
-1476949842059302,Tank Top B,
-1476949842059303,N/A,
-1476949842059304,Tank Top C,
-1476949842059305,N/A,
-1476949842059306,Tank Top D,
-1476949842059307,N/A,
-1476949842059308,Tank-Top Black,
-1476949842059309,N/A,
-1476949842059310,Tank-Top Coyote,
-1476949842059311,N/A,
-1476949842059312,T-Shirt Black,
-1476949842059313,N/A,
-1476949842059314,T-Shirt Coyote,
-1476949842059315,N/A,
-1476949842059316,Tucked Pants,
-1476949842059317,N/A,
-1476949842059318,V Scrub Shirt A,
-1476949842059319,N/A,
-1476949842059320,V Scrub Shirt D,
-1476949842059321,N/A,
-1476949842059322,White Gloves C,
-1476949842059323,N/A,
-1476949842059324,White Gloves D,
-1476949842059325,N/A,
-1476949842059326,Work Gloves A,
-1476949842059327,N/A,
-1476949842059328,Work Gloves B,
-1476949842059329,N/A,
-1476949842059330,Work Gloves C,
-1476949842059331,N/A,
-1476949842059332,Crude Outfit,
-1476949842059333,N/A,
-1476949842059334,Casual Outfit 1,
-1476949842059335,N/A,
-18519925153349632,Black Powder Ammo,
-1476949846253617,40MM Grenade,
-1476949846253618,N/A,
-1476949846253619,Smokeless Powder,
-1476949846253620,Ingredient for modern ammo making,
-1476949846253621,Crude Grenade,
-1476949846253622,N/A,
-1476949846253623,Molotov,
-1476949846253624,N/A,
-1476949846253625,Pistol Ammo,
-1476949846253626,N/A,
-1476949846253627,Rifle Ammo,
-1476949846253628,N/A,
-1476949846253629,Shotgun Ammo,
-1476949846253630,N/A,
-1476949816893521,N/A,
-18493643648679936,Sulfur,
-18494150970720256,Used to make black powder,
-18494938812006400,Used to make black powder ammunition,
-18495600417325056,Charcoal,
-18496111153528832,Cotton,
-18734201088524288,Antique Flintlock Pistol,
-19802114969059328,Broken Police Helmet,
-19838683960590336,Broken PM,
-20612830269554688,Percussion Pistol,
-20615383929602048,Broken Percussion Pistol,
-20621025645969408,Broken Football Helmet,
-20662493668458496,Broken Flintlock Pistol,
-20669977741246464,Golden Necklace,
-20670148701077504,Diamond Ring,
-21074384425336832,Lung Function Booster,
-21090289939136512,Orange Coral,
-23339036168388608,Gunpowder,
-20218687402123264,Black Powder,
-20204940121972736,Fine Wood Plank,
-20172185128509440,Blueprint: Double Shelf,
-20172250698063872,Blueprint: TV,
-20172229290336256,Blueprint: French Sofa,
-20172219320475648,Blueprint: Green Leather Couch,
-20172212949327872,Blueprint: Single Leather Couch,
-20172194892849152,Blueprint: Vintage Leather Couch,
-20172193819107328,Blueprint: Leather Couch 1,
-20172192950886400,Blueprint: Armchair,
-20172190098759680,Blueprint: Premium Fireplace,
-20172184293842944,Blueprint: Hanging Clocks,
-20172183383678976,Blueprint: Chandelier 2,
-20172179025797120,Blueprint: Collection Cabinet,
-20172255194357760,Blueprint: Double Bed,
-20172176978976768,Blueprint: Single Bed,
-20172179931766784,Blueprint Double Door Wardrobe,
-20172182410600448,Blueprint: Chandelier 1,
-20172186101587968,Blueprint: Log Desk,
-20172187074666496,Blueprint: Console 3,
-20172187980636160,Blueprint: Counter,
-20172189058572288,Blueprint: Fireplace,
-20172190937620480,Blueprint: Leather Chair 1,
-20172191910699008,Blueprint: Backrest Chair,
-20459118786355200,Blueprint: Black Leather Chair,
-20459135228026880,Blueprint: Black Leather Couch,
-20172224626270208,Blueprint: Makeup Table,
-20172232943575040,Blueprint Round Glass Table,
-20172242913435648,Blueprint Round Table,
-20459090797764608,Blueprint: Cabinet 5,
-20459092542595072,Blueprint: Cabinet 6,
-20459093419204608,Blueprint: Cabinet 7,
-20459094253871104,Blueprint: Cabinet 8,
-20459095063371776,Blueprint: Cabinet 9,
-20459105666572288,Blueprint: Cabinet 10,
-20459111605706752,Blueprint: Cabinet 11,
-20459136268214272,Blueprint: Chair 5,
-20459137006411776,Blueprint: Chair 6,
-20459138851905536,Blueprint: Table 1,
-20459140462518272,Blueprint: Table 2,
-20459115498020864,Blueprint: Wooden Chair 1,
-20459122343124992,Blueprint: Wooden Couch 1,
-20161845162516480,Exquisite Wooden Shelf,
-20161923675693056,Fish Statue,
-20161927505092608,Hanger,
-20161929212174336,Household Desk Lamp,
-20161930084589568,Flashlight,
-20161930994753536,Vanity Mirror,
-20162098527838208,Owl Toy,
-20162099370893312,Pan,
-20162100276862976,Oil Painting(Happy Childhood),
-20162101115723776,Oil Painting(Birds Singing and Flowers Fragrant),
-23434231480287232,Colored Rug,
-20162109466583040,Sand Watch,
-20162111379185664,Weighing Scale,
-20162112524230656,Toy 1,
-20162117217656832,Racing Model,
-20162120002674688,Toy Bear,
-20162122246627328,Wallet,
-20161928406867968,Horse Toy,
-20161931800059904,Neon Cat,
-20162101983944704,Oil Painting(Valley Dusk),
-20162103791689728,Oil Painting(Wilderness Scenery),
-23436392813527040,Record Player Disk 1,
-23436484383571968,Record Player Disk 3,
-23436547063250944,Record Player Disk 2,
-20162104735408128,Algal Rug,
-20162106585096192,Red Rug,
-20162108665470976,Figure Rug,
-20162110376747008,Scales,
-20162097659617280,Neon Route66,
-20162102856359936,Oil Painting(Landscape Dusk),
-20162105645572096,Rug,
-26941845992341504,Stone Hatchet,
-20162096850116608,Neon Guitar,
-27357291417665536,Broken Combat Armor,
-27397761409519616,Model Train,
-27673581495746560,Broken Police Vest,
-27674036225409024,Broken Motorcycle Helmet,
-27674460152102912,Broken Army Vest,
-27675170537177088,Broken Military Vest,
-27680127537610752,Broken Homemade Revolver,
-27681108434321408,Broken Double Barrel Shotgun,
-27685791727058944,Broken GP20,
-27686209580400640,Broken Pump Shotgun,
-27686483518783488,Broken SMG,
-27686742793879552,Broken Hunting Rifle,
-27689003762810880,Broken Old Bolt Action Rifle,
-27689298400083968,Broken AK47,
-27689635357884416,Broken CZ60,
-27689618207375360,Broken Grenade Launcher,
-27689596132753408,Broken M14,
-27689571331833856,Broken M16,
-31410412900425728,Steak Meal,
-31410522455646208,Roasted Lemon Bird,
-31410514532605952,Mushroom Bird Soup,
-31410507247099904,Salad,
-31410499298893824,Seafood Platter,
-31410489400336384,Fish Stew,
-31410476012118016,Vegetable Soup,
-31410467589955584,Crab Cakes,
-31410458060496896,Baked Fish with Lemon,
-31410450208759808,Strawberry And Lemon Smoothie,
-31410440981291008,Coral Smoothie,
-31766593123872768,Steel Ingot,
-31811622979608576,Coffee Bean,
-31814147241779200,Coffee,
-32002716946243584,Blueprint: Modern Garden Lamp,
-32002727209705472,Blueprint: Modern Lamp Post,
-32002741906546688,Blueprint: Modern Wall Lamp,
-32002844348227584,Blueprint: Chaise Leather Couch,
-32002699997061120,Blueprint: Modern Floor Lamp,
-32004283162271744,Blueprint: European Leather Chair,
-32127295479980032,Catamaran Controller,
-32127304506122240,Catamaran Hull,
-32127314308210688,Catamaran Sail,
-32127322256416768,Jetski Controls,
-32127330443698176,Jetski Engine,
-32127342187749376,Jetski Gas Tank,
-32127351687847936,Jetski Jet Pump,
-32127361280221184,Jetstream Bowrider Console,
-32127371019395072,Jetstream Bowrider Engine,
-32127379940679680,Jetstream Bowrider Hull,
-32127491144261632,Marine Fast Boat Console,
-32127501034430464,Marine Fast Boat Engine,
-32127511469858816,Marine Fast Boat Hull,
-32127521133535232,Motorboat Engine,
-32126884643708928,Motorboat Gas Tank,
-32126873876930560,Motorboat Propeller,
-32412201925844992,Leather,
-32415330494947328,Advanced Parts,
-32414883214368768,Marble,
-32415231509372928,Advanced Alloy,
-32415247883935744,Polymer,
-34844983626842112,50 Cal Ammo,
-35577152362356736,Helicopter Console,
-35576868605108224,Motorboat Hull,
-35577165175955456,Helicopter Stabilizer,
-35577175242285056,Helicopter Engine,
-35577288689819648,Helicopter Gas Tank,
-35577332730011648,Helicopter Propeller,
-35579145063604224,Zippo,
-35579061580177408,Cigar,
-35579081175965696,Expensive Wine,
-35579094895534080,High-end  Perfume,
-35579106908020736,High-end Watch,
-35579122678603776,Magazine,
-35579132073844736,Mobile Phone,
-39612230360997888,Blueprint: Floor Tile (European),
-39612213726388224,Blueprint: Floor Tile (White Tiles),
-39612204758966272,Blueprint: Floor Tile (Wooden),
-39612193484677120,Blueprint: Wallpaper (Blue),
-39612184290762752,Blueprint: Wallpaper (Green),
-39612170835435520,Blueprint: Wallpaper (Yellow),
-40042586611609600,Underwater Scooter,
-41006829396312064,Broken Special Force Helmet,
-41007966665064448,Broken Special Force Armor,
-41300802597830656,Candy Bar,
-41302246021414912,Instant Ramen,
-41302510057046016,Baked Beans,
-41302825112190976,Energy Drink,
-41304788033880064,Pudding,
-42990640700551168,Potato Seed,
-42997135316054016,Cabbage Seed,
-44244864527253504,Iron Mace,
-44244937457811456,Iron Sword,
-44271064339464192,Scrap Metal Spear,
-44275345864015872,Military Grenade,
-44291977969680384,Warm Jacket,
-44560055949344768,Tripple Barrel Pistol,
-45646647313055744,Silver Coins,
-46820976486793216,Broken Tactical Vest,
-51180216441651200,Alcohol,
-52822429361782784,DEG 45,
-52822967184801792,Broken DEG 45,
-52856700965240832,Stun SMG,
-52857545198944256,Broken Stun SMG,
-52886179213230080,Scuba Diving Fins,
-53020641783726080,Military Backpack,
-20189215705636864,Claw,
-20459088390234112,Blueprint: Cabinet 4,
-20172180766433280,Blueprint: Cabinet 3,
-53931217939603456,Rubber Duck\x0A,
-54104612024459264,Blueprint: Blue Patterned Chair,
-54104626985541632,Blueprint: Concave Cabinet,
-54104639300018176,Blueprint: Desk,
-54104651211841536,Blueprint: Plaid Couch,
-54104661982814208,Blueprint: Red Cloth Sofa,
-54104672183361536,Blueprint: Solid Wood Cabinet,
-54104682685898752,Blueprint: Square Table,
-54498410552115200,Broken Tactical Helmet,
-56135118091730944,Gummy Ducky,
-56405263047827456,Silly Cookies,
-56422254063349760,Packing Box,
-57693245788758016,Tank-Top E,
-57693308917227520,V Scrub Shirt C,
-57748462577926144,Anime T Shirt,
-57748707835658240,Anime Tank Top,
-57749257469837312,Lobster Hood,
-57749480409677824,Squirrel Hood,
-580733886464,English,
-580754857984,简体中文,
-48851363163885568,Français\x0D,
-48851400908427264,Deutsch,
-48851430067228672,日本語,
-48851450959056896,한국인,
-48851474392633344,Русский,
-48851501106155520,Español,
-48851524539731968,Türkçe,
-208412831744,Mutant Settlement,
-784060084224,Amuzement Park,
-998019919872,Civic Center,
-1522693795840,Twin Rocks,
-3620697239552,Dreadville,
-3827946188800,Faraway Island,
-4224869953536,Gas Station,
-4285658001408,Green Isle,
-4356071976960,Iron Helmet Base,
-4763653468160,Iron Skull Base,
-4839612313600,Loner Base,
-4958952845312,Machine Factory,
-5141879025664,Metal Mine,
-5338759655424,Neptune,
-5450105843712,The Parking Lot,
-5538567909376,Police Station,
-5640468525056,Post Office,
-5701487259648,Radio Island,
-5766809350144,Refinery,
-5828583059456,Small Factory,
-5889987670016,Small Rock Island,
-5965246066688,Stormborn Outpost,
-6054144339968,Submerged Downtown,
-6128094113792,The Bridge,
-6185652547584,The Castaway Island,
-6244666404864,The Cliffton Outpost,
-6335695384576,Ruins Island,
-6524250320896,Trading Outpost,
-6677996728320,Unknown Ruins,
-6765741568000,Village,
-6833504743424,District 43,
-6884767526912,Zion Atoll,
-7076451414016,Marauder Base,
-1242199082156032,Power Plant,
-1242483384664064,Unknown Ruins,
-1242578268209152,Mutants Raft,
-1243071048597504,School,
-1521852866904064,Warehouse,
-1522021104631808,Ashbond Outpost,
-1522561540702208,Castle Island,
-1883015953793024,Radio Telescope Arrays,
-2287595963301888,Frozenland,
-3073544162918400,Highway Passes,
-3333296319119360,Castle Island,
-3739887660974080,Apartments,
-4022897632354304,The Mansion,
-4024731008770048,The Ruins Island,
-4026172012240896,Iceberg,
-4028368036569088,Drowned Downtown,
-6629239818829824,Rubber Duck Island,
-6638092908249088,Rockscape Isle,
-9598765221036032,Government District,
-755640557568,Asia,
-755661529088,Chinese Mainland,
-755661529089,Japan,
-755661529090,Europe,
-755661529091,South America,
-5939716415488,South Korea,
-6371922665472,"USA, East",
-6371926859776,"USA, West",
-6925642096640,Best Region,
-9106973777920,Disconnection Code 0,
-9107003138048,Connection Shutdown by Request.,
-9107003138049,Disconnection Code 1,
-9107003138050,Disconnection caused by internet problems.,
-9107007332352,Disconnection Code 2,
-9107007332353,Not matching game mode. Please contact the developers.,
-9107007332354,Disconnection Code 3,
-9107007332355,Unable to connect to this server or connection refused by the server.,
-9107007332356,Disconnection Code 4,
-9107007332357,Disconnected due to internet errors.,
-9107007332358,Server shutdown,
-9107007332359,The server is shutdown.,
-9107007332360,Disconnection Code 6,
-9107007332361,"Game doesn't exist anymore. But hey, there are many other servers.",
-9107007332362,Disconnection Code 7,
-9107007332363,"The Region is full, try switching to another region.",
-9107007332364,Disconnection Code 8,
-9107007332365,Server disconnected to an unavailable or non-existent Region,
-9107007332366,Disconnection Code 9,
-9107007332367,Session with the same name was already created,
-9107007332368,Game is full,
-9107007332369,Room has reached the max player number.,
-9107007332370,Disconnection Code 11,
-9107007332371,Authentication Values are invalid,
-9107007332372,Disconnection Code 12,
-9107007332373,Authentication has failed for some other reason,
-9107007332374,Disconnection Code 13,
-9107007332375,Raised when the Authentication Ticket has expired,
-9107007332376,Timeout,
-9107007332377,"Connection timeout, please try again.",
-9107007332378,Disconnection Code 15,
-9107007332379,Game is already running .,
-9107007332380,Disconnection Code 16,
-9107007332381,Raised when any of the StartGame arguments does not meet the requirements,
-9107007332382,Disconnection Code 17,
-9107007332383,The host disconnected or timed out.,
-9107007332384,Timeout,
-9107007332385,Connection with a remote server failed by timeout,
-9107007332386,Disconnection Code 19,
-9107007332387,Connection with a remote server failed because it was refused,
-14261715758567424,Removed From Game,
-14261817554325504,You have been removed from the game by the host.,
-16557340390424576,Wrong Server Password,
-16557425010507776,Please check that you have entered the correct server password.,
-28478267392,Set up a base.,
-234234044416,"I find myself on the beach with a pounding headache and no memories except for being tortured in a dark room. Survival is my top priority now, but I have nothing. I'll scour the surroundings for materials to make a shelter and tools. A bed to sleep on and something to satisfy my hunger would be great too.",
-3197191053312,Craft a {0}.,
-270934358351872,Build a {0}.,
-375009410277376,Craft a {0}.,
-375265875189760,Build a {0}.,
-1053104966459392,Eliminate The {0} faction.,
-1054915853017088,Eliminate The Marauders.,
-1054915853017089,"The Marauders are a notorious band of pirates who specifically target weaker and more vulnerable settlements and vessels. Although they may lack advanced equipment compared to other pirate groups, their sheer numbers and ruthless tactics compensate for this. It is undeniable that eliminating them would greatly benefit the people of Sunkenland.",
-1054915853017090,Eliminate The Skull Crushers,
-1054915853017091,"The Skull Crushers, a brutal bandit clan, has seized the sunken downtown area, perching atop submerged skyscrapers. Their threat looms large as they hoard vital resources and launch relentless attacks. It's time to confront and defeat these marauders, ensuring a prosperous future. But beware, they're armed and dangerous.",
-1054915853017092,Eliminate The Scorchers,
-1054915853017093,"Infiltrate and neutralize the Scorchers, a deadly bandit faction occupying the abandoned nuclear power plant. Armed to the teeth and backed by a mutant army, they pose a grave threat. Prepare for radiation exposure, wear protective gear, and carry anti-rad meds. Take down the Scorchers, claim valuable loot, and restore peace to the region.",
-1058677732663296,Eliminate The {0} faction.,
-16944433904238592,A New Chapter,
-16996100183965696,,
-37901667026878464,"-I need to establish a base\x0A\x0A-The terrain is uneven. Need to build on foundations.\x0A\x0A-I should scavenge underwater ruins for materials.\x0A\x0A-I can hunt large fish for food, but I must be cautious of sharks.\x0A\x0A-Considering the long term, I should cultivate fruits for sustainable food sources.\x0A\x0A-Acquiring weapons is a priority as I must be prepared for potential encounters with pirates.\x0A\x0A-Exploring for blueprints or broken items can lead to crafting better gear.",
-37905277190160384,Here is a list of things I should do:,
-6529306624,Toggle,
-61629878272,Hold,
-84539166720,Mixed,
-52540309504,Game Version Mismatch,
-773444698112,Please make sure that you and your Steam friends have the same game version number.,
-929360240640,Away,
-919071612928,Busy,
-906333511680,Online,
-900637646848,Offline,
-970758021120,Snooze,
-977175306240,Looking To Trade,
-1011124002816,Looking To Play,
-1037007052800,Invisible,
-1044149952512,Max,
-162171539456,Server Console,
-67397046272,Kick,
-437724729344,Kick,
-594830774272,Are you sure to kick this player from the game?,
-23711510528,FOV,
-165623619584,Sunkenland,
-271710150656,Start Game,
-416480747520,Settings,
-527021629440,Quit Game,
-32245543854080,General,
-1611015916609536,Default,
-1611015933386752,Back,
-1611015933386753,Done,
-1611015933386754,Cancel,
-1611015933386755,Key Binding,
-1611015933386756,Graphics,
-1611015933386757,Controller,
-1611015933386758,Audio,
-1611015933386759,Master Volume,
-1611015933386760,Music,
-1611015933386761,Sound Effects,
-1611015933386762,Input,
-1611015933386763,Mouse Sensitivity,
-1611015933386764,Invert Mouse X,
-1611015933386765,Invert Mouse Y,
-1611015933386766,Controller Input,
-1611015933386767,Left Stick Deadzone,
-1611015933386768,Right Stick Deadzone,
-1611015933386769,Right Stick Sensitivity,
-1611015933386770,Controller Aim Sensitivity,
-1611015933386771,Voice Chat,
-1611015933386772,Enable Voice Chat,
-1611015933386773,Push-To-Talk,
-1611015933386774,Voice Chat Volume,
-1611015933386775,Microphone Volume,
-1611015933386776,Microphone,
-1611015933386777,Refresh,
-1611015933386778,Move Forward,
-1611015933386779,Move Backward,
-1611015933386780,Move Left,
-1611015933386781,Move Right,
-1611015933386782,Jump,
-1611015933386783,Crouch,
-1611015933386784,Sprint,
-1611015933386785,Fire,
-1611015933386786,Aim,
-1611015933386787,Reload,
-1611015933386788,Inventory,
-1611015933386789,Building Menu,
-1611015933386790,Map Menu,
-1611015933386791,Light,
-1611015933386792,Quick Slot 1,
-1611015933386793,Quick Slot 2,
-1611015933386794,QuickSlot 3,
-1611015933386795,QuickSlot 4,
-1611015933386796,QuickSlot 5,
-1611015933386797,QuickSlot 6,
-1611015933386798,Display Settings,
-1611015933386799,Resolution,
-1611015933386800,Fullscreen Mode,
-1611015933386801,Exclusive Fullscreen,
-1611015933386802,Fullscreen Window,
-1611015933386803,Windowed,
-1611015933386804,On,
-1611015933386805,Off,
-1611015933386806,V-Sync,
-1611015933386807,Low,
-1611015933386808,Mid,
-1611015933386809,High,
-1611015933386810,Highest,
-1611015933386811,Graphic Details,
-1611015933386812,Preset,
-1611015933386813,Shadow Resolution,
-1611015933386814,Shadow Quality,
-1611015933386815,Disabled,
-1611015933386816,Hard Shadow,
-1611015933386817,All,
-1611015933386818,Shadow Distance,
-1611015933386819,Texture Quality,
-1611015933386820,New Character,
-1611015933386821,Select Character,
-1611015933386822,Start,
-1611015933386823,Delete Character,
-1611015933386824,Male,
-1611015933386825,Female,
-1611015933386826,Face,
-1611015933386827,Hair,
-1611015933386828,Hair Color,
-1611015933386829,Name,
-1611015933386830,NOT A VALID NAME,
-1611015933386831,Create Game,
-1611015933386832,Join Game,
-1611015937581056,New World,
-1611015937581057,Delete,
-1611015937581058,Host Server,
-1611015937581059,Single Player,
-1611015937581060,Server Password,
-1611015937581061,Enter Text,
-1611015937581062,Server Region,
-1611015937581063,Easy,
-1611015937581064,Normal,
-1611015937581065,Hard,
-1611015937581066,Insane,
-1611015937581067,Enemy Difficulty,
-1611015937581068,Survival Difficulty,
-1611015937581069,Enemy Raid Frequency,
-1611015937581071,Friendly Fire,
-1611015937581072,Share Research,
-1611015937581073,Share Map,
-1611015937581074,World Name,
-1611015937581076,Create World,
-1611015937581077,Loading...,
-1611015937581078,Inventory,
-1611015937581079,Build,
-1611015937581080,Mission,
-1611015937581081,Backpack,
-1611015937581082,Loot,
-1611015937581083,Simple Crafting,
-1611015937581084,Take All,
-1611015937581085,Sort,
-1611015937581086,Split,
-1611015937581087,Antenna not found,
-1611015937581088,No Incomming Transmission,
-1611015937581089,Reset,
-1611015937581090,Deal,
-1611015937581091,Trader,
-1611015937581092,You,
-1611015937581093,Buy List,
-1611015937581094,Sell List,
-1611015937581095,How much?,
-1611015937581096,Min,
-1611015937581097,Max,
-1611015937581098,OK,
-1611015937581099,Random Respawn,
-1611015937581100,Resume,
-1611015937581101,Options,
-1611015937581102,Save And Logout,
-1611015937581103,Research,
-1611015937581104,Improved Research Table,
-1611015937581105,Upgrade,
-1611015937581106,Study,
-1611015937581107,Crafting,
-1611015937581108,Upgrade,
-1611015937581109,Study,
-1611015937581110,Bleeding. Apply some bandages,
-1641129568100352,Language,
-1743224581382144,Create Character,
-1747993614082048,Skin,
-1942822604234752,Join Server,
-1943345969487872,Join,
-1943345969487873,Refresh,
-2015830022807552,Build,
-2015830043779072,Category,
-2017860833501184,Craft,
-2021010437038080,Turn Off,
-1611015937581111,Hungry. Find something to eat,
-1611015937581112,Thirsty. Drink something,
-1611015937581113,Tired. You need to rest,
-1611015937581114,Freezing. Stay near fire,
-1611015937581115,Increased stamina recovery,
-2080635735760896,Day,
-2080635760926720,HP,
-2080635760926721,EN,
-2080635760926722,Torch,
-2080635760926723,Reel In,
-2080635760926724,Build,
-2080635760926725,Rotate,
-2080635760926726,Return,
-2080635760926727,Quit,
-2080635760926728,Drag,
-2080635760926729,Use,
-2080635760926730,Togge Light,
-2080635760926731,Quit,
-2080635760926732,Forward,
-2080635760926733,Backward,
-49226316857176064,Demolish,
-49223388721278976,Descent,
-2080635760926738,Sail Up,
-2080635760926739,Rotate Sail,
-2080635760926740,Turn Left,
-2080635760926741,Turn Right,
-49223202951360512,Lift,
-2080635760926743,Repair,
-2080635760926744,Left Mouse: Drag,
-2080635760926745,Scrollwheel: Zoom,
-2840119198343168,Armor,
-2840119219314688,Inventory,
-2840119219314689,Swim Speed,
-2840119219314690,Movement Speed,
-2840119219314691,Damage,
-2840119219314692,Hunger,
-2840119219314693,Thirst,
-2840119219314694,Health,
-2840119219314695,Energy,
-2840119219314696,Bleeding,
-2840119219314697,Stamina recovery rate increased,
-21162002794168320,Increased diving time,
-24265803686731776,{0}'s World,
-30360768270528512,Connect,
-30361524792946688,Disconnect,
-30464606629490688,Install Wire (1 Rubber),
-34978377661726720,OK,
-34978377686892544,Create Game,
-34978377686892545,Join Game,
-34978377686892546,Server Description,
-34978377686892547,Max Player,
-34978377691086848,JOIN PLAYER HOSTED SERVERS,
-34978377691086849,REFRESH,
-34978377691086850,{0} SERVERS FOUND,
-34978377691086851,SEARCH SERVER,
-34978377691086852,SERVER NAME,
-34978377691086853,SERVER REGION,
-34978377691086854,HIDE WITH PASSWORD,
-34978377691086855,HIDE FULL,
-34978377691086856,APPLY,
-34978377691086857,Player,
-34978377691086858,Ping,
-34978377691086859,Join,
-34978377691086860,Wrong Password!,
-36856459478532096,No Server Description,
-36988271840296960,Network Error,
-36988271869657088,Back To Main Menu,
-36988271869657089,Reconnect,
-37766130532605952,Refreshing…,
-38116860510593024,Reconnecting...\x0AThis will take a while...,
-39786784894185472,MAP,
-39843965844811776,Faction,
-44740018399338496,Display,
-44864333946019840,HELLO SUNKENLANDER,
-44864333966991360,"Welcome to the uncharted realm of Sunkenland's Early Access! Currently, the game is in active development, which means you may experience bugs, incomplete features, glitches, and a lack of content, but we will keep the updates coming. Some features or content may also be subject to change or removal as part of the development process.\x0D\x0A\x0D\x0A Thank you for participating in Early Access and shaping this game together with us. We look forward to your constructive feedback in the Steam reviews and forum discussions.\x0D\x0A",
-44864333966991361,WHAT IS IN THE CURRENT VERSION,
-44864333966991362,- Scavenge/Loot\x0D\x0A- Craft Items\x0D\x0A- Build Bases\x0D\x0A- Defend Base\x0D\x0A- Raid Enemies\x0D\x0A- Melee/Ranged Combat\x0D\x0A- Singleplayer/Online Coop/Invite Steam Friends\x0D\x0A- Drive Boats/Helicopters\x0D\x0A- Experience Basic Character Customization\x0D\x0A- Engage in Basic Trading\x0D,
-44864647168253952,CONTINUE,
-45512627842936832,Remove Battery,
-47572974201294848,Optional,
-47590461785591808,AutoSave,
-48040510269415424,Select Save File,
-49211809422340096,UPGRADE,
-49214317913927680,BLUEPRINT STUDIED,
-49215841067036672,Unlocked New Item:,
-49216711414476800,Value,
-49218255828512768,Shoot,
-49234383065804800,NOT UNLOCKED YET,
-50220972014129152,Modify,
-50220972043489280,None,
-50220972043489281,Low,
-50220972043489282,Mid,
-50220972043489283,High,
-50220972043489284,Share Flag,
-50220972047683584,Random Birth Place (Not Recommended),
-50220972047683585,Respawn Time,
-50220972047683586,Invalid,
-50220972047683587,World Description,
-50220972047683588,Modify World Setting,
-50220972047683590,Save and return to Main Menu?,
-50220972056072192,Auto Save,
-50246777469489152,Quest Menu,
-50673379511857152,SpeedUp,
-50848305002803200,Attitude,
-50918948308795392,Select Respawn Point.,
-52308344189214720,Please wait for saving to finish.,
-52308344226963456,You must respawn first before logging out.,
-52308344226963457,Invites you to join a game.,
-52308344226963458,Reject,
-52308344226963459,Accept,
-52308344226963460,Error,
-52308344226963461,Please select a Character first and then accept the friend invitation.,
-52308344226963462,You must select a character first!,
-52308344226963463,INVITE STEAM FRIEND,
-52341081226862592,No Server Found,
-52741610266488832,Invite,
-52741686657347584,Invitation Sent,
-53477809729892352,Enemy Garrison Amount,
-53478161338396672,Very High,
-53763508324593664,Share Spawn Point (Bed),
-53867435977043968,Enemies,
-53868154218049536,Islands,
-54058095462596608,WHAT WE WILL ADD LATER,
-54058398295539712,"- Polish the existing features\x0A- Optimize the game\x0A- Add more content, such as buildings, items, weapons, maps, factions, etc.\x0A- Introduce Creative mode\x0A- Develop Lore/Stories/Quests\x0A- Enhance Character Customization\x0A- Include more vehicles\x0A- Implement Ocean Combat\x0A-And more will be discussed during development\x0A",
-54174390891855872,Audio,
-54176492498206720,Camera Shake,
-54176700497936384,Aiming Mode,
-54182653020618752,Click on the item icon to move it to the Buy or Sell list.,
-54753609233481728,DROP,
-54795487794446336,Attention!,
-54795540294549504,"If you last played in v0.1.04 and want to retain your progress, switch to the Olderversion branch now. If you played after the v0.1.10 update (released on Thursday), you're good to go.\x0A\x0A\x0ATo switch to v0.1.04: In the Steam Library, right-click the game, select 'Properties', go to the 'BETAS' tab, and choose 'olderversion0104' from the drop-down menu.\x0AAfter switching, load the game as usual, and place all your inventory items, including the hotbar and equipment, into a storage chest in your base. Then save the game and switch back to the main branch. Please note that blueprints will be affected in any case.\x0A(To switch back, repeat the process and select 'None - opt out of all beta programs'.)\x0A\x0A\x0ALoading saves in this version will erase your inventory and blueprints, but your buildings should remain intact.\x0A\x0A\x0AWe've overhauled the game's core coding to address saving/loading issues, resulting in faster saving and more stable loading. We've also improved world stability (tested with 30k building pieces). Unfortunately, these changes led to save conflicts.",
-55805379913773056,Delete  World,
-55805526081073152,Are you sure to delete the selected world?,
-56485761920233472,Pack Up,
-57002251330080768,Visible to public,
-57019348482486272,Switch Ore Type,
+ID,EN,TH,TH 2097/2096 (100.05%)
+976354820096,Right click to study this blueprint,คลิกขวาเพื่อเรียนรู้พิมพ์เขียวนี้,X0001
+1751827103744,Blueprint: Improved Grill,พิมพ์เขียว: เตาย่างรุ่นปรับปรุง,X0002
+1977031868416,Blueprint: Advanced Purifier,พิมพ์เขียว: เครื่องกลั่นน้ำขั้นสูง,X0003
+2324727087104,Blueprint: Radio Antenna,พิมพ์เขียว: เสาอากาศวิทยุ,X0004
+2557611622400,Blueprint: Radio Station,พิมพ์เขียว: สถานีวิทยุ,X0005
+3623442989056,Blueprint: Sawmill,พิมพ์เขียว: โรงเลื่อย,X0006
+3830712909824,Blueprint: Biofuel Lab,พิมพ์เขียว: แล็บเชื้อเพลิงชีวภาพ,X0007
+4715976860385280,Blueprint: Cabinet (Blue),พิมพ์เขียว: ตู้ (สีน้ำเงิน),X0008
+8811510578511872,Blueprint: Furnace,พิมพ์เขียว: เตาหลอม,X0009
+8811855039922176,Blueprint: Anvil,พิมพ์เขียว: ทั่งตีเหล็ก,X0010
+8812907143331840,Blueprint: Gun Workshop,พิมพ์เขียว: โต๊ะคราฟปืน,X0011
+8821363569033216,Blueprint: Animal Cage,พิมพ์เขียว: กรงสัตว์,X0012
+8839414691627008,Blueprint: Glass Wall,พิมพ์เขียว: ผนังกระจก,X0013
+9112540969140224,Blueprint: Reinforced Structures,พิมพ์เขียว: สิ่งก่อสร้างเหล็ก,X0014
+9119930456178688,Blueprint: Metal Gate,พิมพ์เขียว: ประตูโลหะ,X0015
+9120373311766528,Blueprint: Reinforced Barricade,พิมพ์เขียว: สิ่งกีดขวางเสริมเหล็ก,X0016
+9121808703258624,Blueprint: Artillery,พิมพ์เขียว: ปืนใหญ่,X0017
+9128889128812544,Blueprint: Crystal Chandelier,พิมพ์เขียว: โคมระย้าคริสตัล,X0018
+9129308487909376,Blueprint: European Chandelier,พิมพ์เขียว: โคมระย้าแบบยุโรป,X0019
+9131113280143360,Blueprint: Reinforce Structures,พิมพ์เขียว: เสริมเหล็กสิ่งก่อสร้าง,X0020
+9150375352827904,Blueprint: 40MM Grenade,พิมพ์เขียว: ระเบิดมือ 40 มม.,X0021
+9188064785563648,Blueprint: Battery,พิมพ์เขียว: แบตเตอรี่,X0022
+9192124972498944,Blueprint: Smokeless Powder,พิมพ์เขียว: ผงไร้ควัน,X0023
+13005318517530624,Blueprint: Steel Furnace,พิมพ์เขียว: เตาหลอมเหล็ก,X0024
+13292350296924160,Blueprint: Electric Oven,พิมพ์เขียว: เตาอบไฟฟ้า,X0025
+13292570917314560,Blueprint: Coffee Machine,พิมพ์เขียว: เครื่องชงกาแฟ,X0026
+13292584636882944,Blueprint: Blender,พิมพ์เขียว: เครื่องปั่น,X0027
+13292637522862080,Blueprint: Fish Tank,พิมพ์เขียว: ตู้ปลา,X0028
+13899186121318400,Blueprint: Paint,พิมพ์เขียว: สี,X0029
+16960774065373184,Blueprint: 50 Cal Ammo,พิมพ์เขียว: กระสุน 50 คาลิเบอร์,X0030
+18075543971315712,Blueprint: Percussion Pistol,พิมพ์เขียว: ปืนเพอร์คัสชั่น,X0031
+19442631954100224,Blueprints,พิมพ์เขียว,X0032
+19550129078419456,Blueprint: Antique Flintlock Pistol,พิมพ์เขียว: ปืนพกฟลินท์ล็อค โบราณ,X0033
+26577346684100608,Blueprint: Air Filling Station,พิมพ์เขียว: เครื่องเติมอากาศ,X0034
+26578117056110592,Blueprint: Battery Charger,พิมพ์เขียว: เครื่องชาร์จแบตเตอรี่,X0035
+34356025620971520,Blueprint: Ore Detector,พิมพ์เขียว: เครื่องตรวจจับแร่,X0036
+34359586014642176,Blueprint: Jetski,พิมพ์เขียว: เจ็ตสกี,X0037
+34359733813526528,Blueprint: Jetstream Bowrider,พิมพ์เขียว: เจ็ตสตรีมบาวไรเดอร์,X0038
+34359965771120640,Blueprint: Light Helicopter,พิมพ์เขียว: เฮลิคอปเตอร์น้ำหนักเบา,X0039
+34360342729998336,Blueprint: Large Generator,พิมพ์เขียว: เครื่องปั่นไฟขนาดใหญ่,X0040
+34360475559411712,Blueprint: Marine Fast Boat,พิมพ์เขียว: เรือเร็วนาวิกโยธิน,X0041
+34361238499115008,Blueprint: Military Grenade,พิมพ์เขียว: ระเบิดมือทหาร,X0042
+34371170116059136,Blueprint: Military Backpack,พิมพ์เขียว: กระเป๋าเป้ทหาร,X0043
+34675423992889344,Blueprint: Motor Boat,พิมพ์เขียว: เรือยนต์,X0044
+35589248378576896,Blueprint:  Scuba Diving Fins,พิมพ์เขียว: ตีนกบดำน้ำ,X0045
+35592384623255552,Blueprint: Buoy,พิมพ์เขียว: ทุ่น,X0046
+6881796096,Simple Grill,เตาย่างธรรมดา,X0047
+179515154432,Cooks raw foods for more nutrition.,ปรุงอาหารให้สุก เพื่อให้ถูกสุขลักษณะ,X0048
+1473426542813184,Improved Grill,เตาย่างรุ่นปรับปรุง,X0049
+1473426614116352,"Faster cooking, saving wood, more charcoal.",ปรุงอาหารได้เร็วขึ้น ใช้ไม้น้อยลง ได้ถ่านมากขึ้น,X0050
+1473426618310656,Simple Purifier,เครื่องกลั่นน้ำ อย่างง่าย,X0051
+1473426618310657,Converts seawater into fresh water.,เปลี่ยนน้ำทะเล เป็นน้ำจืด,X0052
+1473426618310658,Advanced Purifier,เครื่องกลั่นน้ำ ขั้นสูง,X0053
+1473426618310659,"Pumps and distills seawater, accelerates purification.",ปั๊มและกลั่นน้ำเกลือ เร่งการทำน้ำจืด,X0054
+1473426618310660,Stove,เตาหุงต้ม,X0055
+1473426618310661,Can be used to cook more nutritious meals.,ใช้ปรุงอาหาร ให้มีโภชนาการมากขึ้น,X0056
+1473426618310662,Improved Stove,เตาหุงต้มรุ่นปรับปรุง,X0057
+1473426618310664,Fishnet,ลอบ,X0058
+1473426618310665,It automatically catches small fish.,ดักจับปลาตัวเล็ก โดยอัตโนมัติ,X0059
+1473426618310666,Planter,แปลงเพ่าะปลูก,X0060
+1473426618310667,"Used for planting various types of fruits, vegetables, and shrubs.",ใช้ปลูกผลไม้ ผัก และไม้พุ่มต่างๆ,X0061
+1473426618310668,Animal Cage,กรงสัตว์,X0062
+1473426618310669,Used for raising small animals.,ใช้เลี้ยงสัตว์ตัวเล็กให้โตขึ้น,X0063
+1473426618310670,Greenhouse,เรือนกระจก,X0064
+1473426618310671,Plants grow faster in the greenhouse.,พืชจะงอกงามได้เร็วขึ้นในเรือนกระจก,X0065
+1473426618310672,Research Table,โต๊ะวิจัย,X0066
+1473426618310673,Used to unlock more constructible items and base facilities.,ใช้เพื่อปลดล็อก ให้สร้างสิ่งต่างๆ ได้มากขึ้น,X0067
+1473426618310674,Furnace,เตาหลอม,X0068
+1473426618310675,Can be used to convert ores into metal ingots.,ใช้เปลี่ยนแร่เป็นแท่งโลหะ,X0069
+2672607370403840,Wooden Wall With Door Slot,ผนังไม้ มีช่องประตู,X0070
+1473426618310678,Gun Workshop,โต๊ะคราฟปืน,X0071
+1473426618310679,Workshop used for crafting modern firearms.\x0A,ที่สำหรับคราฟอาวุธปืนสมัยใหม่\x0A,X0072
+1473426618310680,Ammo Workshop,เครื่องทำกระสุน,X0073
+1473426618310681,Used for crafting modern ammunition.,ใช้ในการคราฟกระสุนสมัยใหม่,X0074
+1473426618310682,Armor Workshop,โต๊ะตัดเย็บ,X0075
+1473426618310683,Used for crafting modern helmets and bulletproof vests.,ใช้คราฟหมวกสมัยใหม่ และเสื้อเกราะกันกระสุน,X0076
+1473426618310684,Heavy Workbench,โต๊ะงานหนัก,X0077
+1473426618310685,Used for crafting complex machinery and tools.,ใช้ในการคราฟเครื่องจักร และเครื่องมือที่ซับซ้อน,X0078
+1473426618310686,Sawmill,โรงเลื่อย,X0079
+1473426618310687,Process regular wooden planks into refined wooden planks.,เปลี่ยนไม้ให้เป็นไม้แปรรูป,X0080
+1473426618310688,Biofuel Lab,แล็บเชื้อเพลิงชีวภาพ,X0081
+1473426618310689,Used for crafting fuel.,ใช้ในการคราฟเชื้อเพลิง,X0082
+1473426618310690,Small Generator,เครื่องปั่นไฟขนาดเล็ก,X0083
+1473426618310691,Provides power to various electrical devices. Consumes fuel.,ผลิตไฟฟ้าสำหรับเครื่องใช้ไฟฟ้าต่างๆ ต้องการเชื้อเพลิง,X0084
+1473426618310692,Radio Antenna,เสาอากาศวิทยุ,X0085
+1473426618310693,Can provide signals to radios.,ใช้ส่งสัญญาณวิทยุ,X0086
+1473426618310694,Radio Station,สถานีวิทยุ,X0087
+1473426618310695,Used to receive external messages.,ใช้รับข้อความจากภายนอก,X0088
+1473426618310696,Wooden Foundation,ฐานไม้,X0089
+1473426618310697,The foundation of base construction.,ฐานสำหรับ สิ่งก่อสร้าง,X0090
+1473426618310698,Metal Foundation,ฐานโลหะ,X0091
+1473426618310700,Reinforced Foundation,ฐานที่ถูกเสริม ความแข็งแกร่ง,X0092
+1473426618310702,Wooden Wall,ผนังไม้,X0093
+2673674124517377,Can only be built on foundations and floors.,สร้างได้,X0094
+1473426618310708,Wooden Floor,พื้นไม้,X0095
+1473426622504961,Wooden Pillar,เสาไม้,X0096
+1473426622504962,Used to support upper structures.,ใช้รองรับ โครงสร้างด้านบน,X0097
+1473426622504963,Wooden Roof,หลังคาไม้,X0098
+1473426622504964,Can only be built on pillars.,สร้างไว้บนเสา เท่านั้น,X0099
+1473426622504965,Metal Wall,ผนังโลหะ,X0100
+1473426622504967,Metal Wall With Door,ผนังโลหะ พร้อมประตู,X0101
+1473426622504969,Metal Wall With Window,ผนังโลหะ พร้อมหน้าต่าง,X0102
+1473426622504971,Glass Wall,ผนังกระจก,X0103
+1473426622504973,Reinforced Wall,ผนังเหล็ก,X0104
+1473426622504975,Reinforced Wall With Door,ผนังเหล็ก พร้อมประตู,X0105
+1473426622504977,Reinforced Wall With Window,ผนังเหล็ก พร้อมหน้าต่าง,X0106
+1473426622504979,Metal Floor,พื้นโลหะ,X0107
+1473426622504981,Metal Column,เสาโลหะ,X0108
+1473426622504983,Wooden Ladder,กระไดไม้,X0109
+1473426622504984,Can be attached to foundations and floors.,ติดตั้งกับฐานและพื้น,X0110
+1473426622504985,Metal Ladder,กระไดโลหะ,X0111
+1473426622504987,Wooden Stairs,บันไดไม้,X0112
+1473426622504988,Can be placed on foundations and floors.,วางบนฐานและพื้น,X0113
+1473426622504989,Metal Roof,หลังคาโลหะ,X0114
+1473426622504995,Metal Door,ประตูโลหะ,X0115
+1473426622504996,Can be attached to door frames.,ติดตั้งกับกรอบประตู,X0116
+1473426622504997,Metal Window,หน้าต่างโลหะ,X0117
+1473426622504998,Can be attached to window frames.,ติดตั้งกับกรอบหน้าต่าง,X0118
+1473426622504999,Reinforced Door,ประตูเหล็ก,X0119
+1473426622505001,Reinforced Window,หน้าต่างเหล็ก,X0120
+1473426622505005,Floor Tile (Wooden),กระเบื้องปูพื้น (ไม้),X0121
+1473426622505006,Can be attached to foundations and floors.,ติดตั้งกับฐานและพื้น,X0122
+1473426622505007,Wallpaper (Green),วอลเปเปอร์ (สีเขียว),X0123
+1473426622505015,Wooden Door,ประตูไม้,X0124
+1473426622505017,Wooden Window,หน้าต่างไม้,X0125
+1473426622505023,Wooden Defensive Wall,กำแพงไม้,X0126
+1473426622505024,Wooden defensive wall that can be used to enclose your base.,กำแพงป้องกันไม้ ใช้ล้อมรอบฐานของคุณได้,X0127
+1473426622505025,Wooden Gate,ประตูไม้,X0128
+1473426622505026,Wooden door that can be opened and closed.,ประตูไม้ที่สามารถเปิดและปิดได้,X0129
+1473426622505027,Artillery,ปืนใหญ่,X0130
+1473426622505028,"Launches homemade projectiles, causing widespread damage to invading enemies.",ใช้ยิงกระสุนที่ทำขึ้นเอง ทำให้เกิดความเสียหายเป็นวงกว้าง แก่ศัตรูที่บุกรุกบ้านของคุณ,X0131
+1473426622505029,Metal Defensive Wall,กำแพงโลหะ,X0132
+1473426622505030,Even sturdier defensive wall.,กำแพงป้องกันที่แข็งแกร่งยิ่งขึ้น,X0133
+1473426622505031,Metal Gate,ประตูโลหะ,X0134
+1473426622505032,Even sturdier metal door that can be opened and closed.,ประตูโลหะที่แข็งแกร่งยิ่งขึ้น สามารถเปิดและปิดได้,X0135
+1473426622505033,Wooden Barricade,แนวกั้นไม้,X0136
+1473426622505034,Simple barricade that can obstruct invaders.,สิ่งกีดขวางธรรมดาที่สามารถขัดขวางผู้บุกรุกได้,X0137
+1473426622505035,Barbed Wire,ลวดหนาม,X0138
+1473426622505036,Simple barricade that can obstruct invaders.,สิ่งกีดขวางธรรมดาที่สามารถขัดขวางผู้บุกรุกได้,X0139
+1473426622505037,Barricade,สิ่งกีดขวาง,X0140
+1473426622505038,Simple wooden cover that can be crouched behind for shooting.,ที่กำบังไม้ธรรมดา ที่สามารถก้มหลบกระสุนที่ด้านหลังมันได้,X0141
+1473426622505039,Reinforced Barricade,สิ่งกีดขวางเหล็ก,X0142
+1473426622505040,"Sturdy metal cover that can withstand gunfire, providing you with maximum protection.",ที่กำบังโลหะ ที่สามารถกันกระสุน และปกป้องคุณได้ดีที่สุด,X0143
+1473426622505041,Metal Armor Plate,แผ่นเกราะโลหะ,X0144
+1473426622505042,Small armor plates that can be attached anywhere to reinforce and provide protection.,แผ่นเกราะขนาดเล็ก ที่สามารถติดได้ทุกที่ เพื่อเสริมเหล็กและให้การปกป้อง,X0145
+1473426622505043,Tire Stack,กองยาง,X0146
+1473426622505044,A pile of discarded tires for creating makeshift cover.,กองยางที่ถูกทิ้งไว้ เพื่อสร้างที่กำบังชั่วคราว,X0147
+1473426622505045,Heavy Machine Gun,ปืนกลหนัก,X0148
+1473426622505046,Stationary heavy weapon that can rotate. Uses large caliber ammunition.,อาวุธหนักไม่เคลื่อนย้าย ที่สามารถหมุนได้ ใช้กระสุนคาลิเบอร์ลูกใหญ่,X0149
+1473426622505047,Siren,ไซเรน,X0150
+1473426622505048,A high pitch alarm system.,ระบบเตือนภัย ที่มีเสียงแหลมสูง,X0151
+1473426622505049,Detector,เครื่องตรวจจับ,X0152
+1473426622505050,Activates nearby alarms when enemies enter its range.\x0D,แจ้งเตือนเมื่อมีศัตรูเข้าสู่ระยะของมัน\x0D,X0153
+1473426622505051,Heavy Crossbow,หน้าไม้แรงสูง,X0154
+1473426622505052,N/A,N/A,X0155
+1473426622505053,Wall Spikes,หนามแหลมติดกำแพง,X0156
+1473426622505054,Mounted on walls and damages enemies upon contact.,ติดตั้งไว้บนกำแพง และสร้างความเสียหาย แก่ศัตรูที่มาสัมผัส,X0157
+1473426622505055,Wall Trap,กับดักติดกำแพง,X0158
+1473426622505056,"Mounted on walls, nearby enemies trigger dropping heavy objects.",ติดตั้งไว้บนกำแพง ของหนักจะหล่นทับ ศัตรูที่เข้ามาใกล้,X0159
+1473426622505057,Simple Bed,เตียงธรรมดา,X0160
+1473426622505058,Sleep to pass the night and restore stamina. Be cautious not to disrupt your sleep schedule.,นอนหลับข้ามคืนและฟื้นฟูแรงกาย ควรนอนหลับ ให้เป็นเวลา,X0161
+1473426622505059,Marker Flag,ธงระบุตำแหน่ง,X0162
+1473426622505060,Place it to mark a location.,วาง,X0163
+1473426622505061,Wooden Chest,หีบไม้,X0164
+49208423507521536,Used for storing items.\x0D,ใช้เก็บไอเท็มต่างๆ\x0D,X0165
+1473426622505063,Metal Chest,หีบโลหะ,X0166
+1473426622505065,Ammo Box,กล่องกระสุน,X0167
+1473426622505066,Can be used for storing items.,ใช้เก็บไอเท็มต่างๆ,X0168
+1473426622505067,Fridge,ตู้เย็น,X0169
+1473426622505068,Store and organize food.,เก็บและจัดระเบียบอาหาร,X0170
+1473426622505069,Wooden Closet,ตู้เสื้อผ้าไม้,X0171
+1473426622505071,Metal Barrel,ถังโลหะ,X0172
+1473426622505073,Wooden Shelving,ชั้นวางไม้,X0173
+1473426622505074,Used for storing wooden planks.,ใช้เก็บไม้,X0174
+1473426622505079,Metal Shelving,ชั้นวางโลหะ,X0175
+1473426622505080,Used for storing scrap metal.,ใช้เก็บเศษโลหะ,X0176
+1473426622505081,Wooden Boat,เรือไม้,X0177
+1473426622505082,A simple boat powered by oars.,เรือธรรมดา ที่ใช้แรงถีบ,X0178
+1473426622505083,Wooden Sailboat,เรือใบไม้,X0179
+1473426622505084,A wooden sailboat that can accommodate 4 people. It has storage space.,เรือใบที่ทำจากไม้ บรรทุกได้ 4 คน และมีพื้นที่เก็บของ,X0180
+1473426626699266,Motor Boat,เรือยนต์,X0181
+1473426626699267,A small gasoline-powered boat that can carry 2 people. It's faster and has storage space.,เรือยนต์ขนาดเล็กที่ใช้พลังงานจากน้ำมันเบนซิน บรรทุกได้ 2 คน มันทั้งเร็วกว่า และจุของได้มากกว่า,X0182
+1473426626699268,Jetski,เจ็ตสกี,X0183
+1473426626699269,Single-person high-speed jet ski. No storage space.,เจ็ตสกีสำหรับคนเดียว ไม่มีพื้นที่เก็บของ,X0184
+1473426626699270,Light Helicopter,เฮลิคอปเตอร์น้ำหนักเบา,X0185
+1473426626699271,A small helicopter that can carry two people. It has storage space. It greatly challenges one's flying skills.,เฮลิคอปเตอร์น้ำหนักเบาที่สามารถบรรทุกได้ 2 คน มีพื้นที่เก็บของ มันท้าทายทักษะการบินอย่างมาก,X0186
+1473426626699272,Standing Torch,คบเพลิงตั้งพื้น,X0187
+1473426626699273,Provide a small scope of illumination.,ให้แสงสว่างในพื้นที่เล็กๆ,X0188
+1473426626699274,Fire Bowl,จานคบเพลิง,X0189
+1473426626699275,The firelight is brighter and has a wider range.,คบเพลิงที่ให้แสงสว่างเป็นวงกว้าง,X0190
+1473426626699276,Hanging Lantern,ตะเกียงแขวน,X0191
+1473426626699277,It can be hung from the ceiling.,แขวนไว้บนเพดานได้,X0192
+1473426626699278,Bonfire,กองไฟ,X0193
+1473426626699279,It can illuminate a wide area. Wood needs to be added. Suitable for lighting up large outdoor spaces.,ให้แสงสว่างเป็นบริเวณกว้าง ต้องใส่ไม้เป็นเชื้อเพลิง เหมาะสำหรับพื้นที่เปิดขนาดใหญ่,X0194
+1473426626699280,Buoy,ทุ่น,X0195
+1473426626699281,Floating flags that can be placed on the sea.,ธงลอยน้ำที่สามารถลอยไว้ในทะเลได้,X0196
+1473426626699282,Floor Lamp,โคมไฟตั้งพื้น,X0197
+1473426626699284,Ceiling Light,ไฟเพดาน,X0198
+1473426626699286,Searchlight,ไฟค้นหา,X0199
+1473426626699287,Direction-controllable searchlight. Requires connection to a generator.,ไฟค้นหาที่บังคับทิศทางได้ ต้องเชื่อมต่อกับเครื่องปั่นไฟ,X0200
+1473426626699288,Table Lamp,โคมไฟตั้งโต๊ะ,X0201
+1473426626699292,Humble Chair,เก้าอี้โง่ๆ,X0202
+1473426626699294,Humble Sofa,โซฟาโง่ๆ,X0203
+1473426626699296,Humble Table,โต๊ะโง่ๆ,X0204
+1473426626699298,Map Board,กระดานแผนที่,X0205
+1473426626699300,Single bed,เตียงเดี่ยว,X0206
+1473426626699302,Double Bed,เตียงคู่,X0207
+1473426626699304,Collection Cabinet,ตู้ของสะสม,X0208
+1473426626699306,Cabinet 2,ตู้ 2,X0209
+1473426626699308,Chandelier 1,โคมระย้า 1,X0210
+1473426626699309,"Luxurious large chandelier, requires connection to a generator.",โคมระย้าขนาดใหญ่ หรูหรา ต้องต่อกับเครื่องปั่นไฟ,X0211
+1473426626699310,Chandelier 2,โคมระย้า 2,X0212
+1473426626699312,Clock 2,นาฬิกา 2,X0213
+1473426626699314,Console 1,คอนโซล 1,X0214
+1473426626699316,Console 2,คอนโซล 2,X0215
+1473426626699318,Console 3,คอนโซล 3,X0216
+1473426626699320,Counter,เคาน์เตอร์,X0217
+1473426626699322,Fireplace 1,เตาผิง 1,X0218
+1473426626699324,Fireplace 2,เตาผิง 2,X0219
+1473426626699326,Leather Chair 1,เก้าอี้หนังสัตว์ 1,X0220
+1473426626699328,Leather Chair 2,เก้าอี้หนังสัตว์ 2,X0221
+1473426626699330,Leather Chair 3,เก้าอี้หนังสัตว์ 3,X0222
+1473426626699332,Leather Couch 1,ม้านั่งหนังสัตว์ 1,X0223
+1473426626699334,Leather Couch 2,ม้านั่งหนังสัตว์ 2,X0224
+1473426626699336,Leather Couch 3,ม้านั่งหนังสัตว์ 3,X0225
+1473426626699338,Leather Couch 4,ม้านั่งหนังสัตว์ 4,X0226
+1473426626699340,Makeup Table,โต๊ะแต่งหน้า,X0227
+1473426626699342,Round Table,โต๊ะกลม,X0228
+1473426626699344,Sofa 1,โซฟา 1,X0229
+1473426626699346,Stand,แท่น,X0230
+1473426626699348,TV,ทีวี,X0231
+2670757384544256,Recycler,เครื่องรีไซเคิล,X0232
+2670757401321472,Drag unused items into it to dismantle and obtain partial raw materials.,ลากไอเท็มที่ไม่ใช้แล้วลงไป เพื่อย่อยให้เป็นวัสดุ,X0233
+2670757401321473,Anvil,ทั่งตีเหล็ก,X0234
+2670757401321474,Used for crafting advanced metal weapons.,ใช้คราฟอาวุธโลหะขั้นสูง,X0235
+27343263379193856,European Chandelier,โคมระย้าแบบยุโรป,X0236
+27343469332103168,Crystal Chandelier,โคมระย้าคริสตัล,X0237
+49198253587001344,A larger generator that can connect more electrical devices and is more fuel-efficient.,เครื่องปั่นไฟขนาดใหญ่ เชื่อมต่ออุปกรณ์ไฟฟ้าได้มากขึ้น และประหยัดเชื้อเพลิงมากขึ้น,X0238
+49204838333902848,Lighting devices. Require connection to a generator.,อุปกรณ์ให้แสงสว่าง ต้องเชื่อมต่อกับเครื่องปั่นไฟ,X0239
+28382930081906688,Concave Cabinet,ตู้ทรงโค้ง,X0240
+28383180431523840,Solid Wood Cabinet,ตู้ไม้เนื้อแข็ง,X0241
+28383144054325248,Simple Cabinet,ตู้ธรรมดา,X0242
+28386959210020864,Double Door Wardrobe,ตู้เสื้อผ้าสองประตู,X0243
+28390549324529664,Blue Patterned Chair,เก้าอี้ลายสีฟ้า,X0244
+28390622875844608,Small Bench,ม้านั่งตัวเล็ก,X0245
+28390858360848384,Square Table,โต๊ะสี่เหลี่ยม,X0246
+28390765985497088,Desk,โต๊ะ,X0247
+28390948957814784,Plaid Couch,โซฟาลายสก๊อต,X0248
+28390891378409472,Red Cloth Sofa,โซฟาผ้าสีแดง,X0249
+28390995162267648,Double Shelf,ชั้นวางสองชั้น,X0250
+28391036300001280,Log Desk,โต๊ะไม้ซุง,X0251
+28391132605415424,Counter,เคาน์เตอร์,X0252
+28391463045267456,Fireplace,เตาผิง,X0253
+28391514622623744,Armchair,เก้าอี้เท้าแขน,X0254
+28391541327757312,Black Leather Chair,เก้าอี้หนังสัตว์สีดำ,X0255
+28391570318786560,Black Leather Couch,โซฟาหนังสีดำ,X0256
+28391488412418048,Backrest Chair,เก้าอี้พนักพิง,X0257
+28391596659015680,Makeup Table,โต๊ะแต่งหน้า,X0258
+28391619140485120,Round Table,โต๊ะกลม,X0259
+28391642662141952,Round Glass Table,โต๊ะกระจกกลม,X0260
+28391679404244992,Hanging Clock,นาฬิกาแขวน,X0261
+28391706251984896,Premium Fireplace,เตาผิงระดับพรีเมียม,X0262
+28391729274519552,European Leather Chair,เก้าอี้หนังยุโรป,X0263
+30963988772646912,Steel Furnace,เตาหลอมเหล็กกล้า,X0264
+31205516120125440,Electric Oven,เตาอบไฟฟ้า,X0265
+31205907939422208,Blender,เครื่องปั่น,X0266
+31206061304147968,Coffee Machine,เครื่องชงกาแฟ,X0267
+31422447179755520,Catamaran,เรือคาตามารัน,X0268
+31430885523812352,Marine Fast Boat,เรือเร็วนาวิกโยธิน,X0269
+31431116969701376,Jetstream Bowrider,เจ็ตสตรีมบาวไรเดอร์,X0270
+31508533726781440,Large Generator,เครื่องปั่นไฟขนาดใหญ่,X0271
+31514827007303680,Wind Turbine,กังหันลม,X0272
+31514791376691200,Power Transmitter,เครื่องส่งกำลัง,X0273
+31801764494548992,Fish Tank,ตู้ปลา,X0274
+31996467903045632,Modern Lamp Post,เสาไฟสมัยใหม่,X0275
+31996378820222976,Modern Garden Lamp,โคมไฟสวนสมัยใหม่,X0276
+31996456901386240,Modern Wall Lamp,โคมไฟติดผนังสมัยใหม่,X0277
+28391754096410624,Chaise Leather Couch,เก้าอี้นวม,X0278
+28391898875396096,French Sofa,โซฟาแบบฝรั่งเศส,X0279
+28391870505123840,Green Leather Couch,โซฟาหนังสีเขียว,X0280
+28391832517312512,Single Leather Couch,โซฟาหนังเดี่ยว,X0281
+28391934485037056,TV,ทีวี,X0282
+28391777584513024,Vintage Leather Couch,โซฟาหนังวินเทจ,X0283
+36603555016622080,Workbench,โต๊ะทำงาน,X0284
+36603689100132352,Craft various items,ใช้คราฟไอเท็มต่างๆ,X0285
+39600873146261504,Floor Tile (White Tiles),กระเบื้องปูพื้น (สีขาว),X0286
+39601581140582400,Floor Tile (European),กระเบื้องปูพื้น (สไตล์ยุโรป),X0287
+39602186428981248,Wallpaper (Yellow),วอลเปเปอร์ (สีเหลือง),X0288
+39602266863149056,Wallpaper (Blue),วอลเปเปอร์ (สีน้ำเงิน),X0289
+42894995206545408,Safe,ตู้เซฟ,X0290
+44430125627830272,Battery Charger,เครื่องชาร์จแบตเตอรี่,X0291
+44482461867929600,Air Filling Station,เครื่องเติมอากาศ,X0292
+44693919026225152,Paddle Boat,เรือถีบ,X0293
+45085746527051776,Tool Box,กล่องเครื่องมือ,X0294
+45086888422121472,Food Container,ลังอาหาร,X0295
+46756038527434752,Very difficult to break.,ทำลายยากมาก,X0296
+49200842097520640,Decorative Furniture,เฟอร์นิเจอร์ตกแต่ง,X0297
+54113330980036608,Wooden Wall With Window,ผนังไม้ มีช่องหน้าต่าง,X0298
+54113856270475264,Can be built on any wall.,สร้างบนผนังใดก็ได้,X0299
+54452364929155072,Manually refills your air tanks.,เติมถังอากาศของคุณด้วยตนเอง,X0300
+56140909246955520,Used to charge batteries. Requires power source.,ใช้ชาร์จแบตเตอรี่ ต้องมีแหล่งไฟฟ้า,X0301
+57582657361952768,Can be placed anywhere.,สามาถวางได้ทุกที่,X0302
+57582898735759360,Wooden Stairs,บันไดไม้,X0303
+58155899552636928,Metal Stairs,บันไดโลหะ,X0304
+58052075554971648,Wooden Stairs,บันไดไม้,X0305
+58862938523398144,Repair Station,โต๊ะซ่อม,X0306
+58863154735575040,Can be used to repair equipment.,ใช้ซ่อมอุปกรณ์ได้,X0307
+40763383808,Gena,เจน่า,X0308
+5526365728770,Quest Menu,เมนูภารกิจ,X0309
+5526365728769,Map Menu,เมนูแผนที่,X0310
+5526365728768,Jump,กระโดด,X0311
+5526361534466,Move,เคลื่อนที่,X0312
+5526361534465,Sprint,วิ่ง,X0313
+5526361534464,Aim Down Sight,เล็งปืน,X0314
+2005679534080,None,ไม่มี,X0315
+5526365728771,Inventory Menu,เปิดกระเป๋า,X0316
+5526365728772,Build Menu,เมนูก่อสร้าง,X0317
+5526365728773,Menu,เมนู,X0318
+5526365728774,Use / Mouse Click,ใช้ / คลิกเม้าส์,X0319
+5526365728775,Switch Standing/Crouch,ยืน / นั่ง,X0320
+5526365728776,Reload,รีโหลด,X0321
+5526365728777,Select Next QuickSlot,เลือกช่องไอเท็มด่วนถัดไป,X0322
+5526365728778,Main Interaction,การกระทำหลัก,X0323
+5526365728779,Secondary Interaction,การกระทำรอง,X0324
+5526365728780,Look / Aim,มอง / เล็ง,X0325
+5526365728781,Use QuickSlot Item,ใช้ของในช่องไอเท็มด่วน,X0326
+379709284352,"Hey there, you must be the new guy I spotted through my binoculars. I'm Gena, nice to meet you!",หวัดดี คุณคงมาใหม่สินะ ฉันเห็นคุณผ่านกล้องส่องทางไกล ฉันชื่อเจน่า ยินดีที่ได้รู้จัก!,X0327
+1299784392704,"Uh, hi. What's up?",เอ่อ หวัดดี ว่าไง?,X0328
+42873118720,None,ไม่มี,X0329
+120291581952,The Sea Vipers,อสรพิษแห่งท้องทะเล,X0330
+20977650512707584,The Krakens,คราเคน,X0331
+20978081615855616,The Marauders,จอมก่อวินาศกรรม,X0332
+20978605442482176,The Warheads Tribe,เผ่าเจ้าสงคราม,X0333
+20987144961540096,The Hunters Union,สมาคมนักล่า,X0334
+20987575729143808,The Slavers,นักล่าทาส,X0335
+20988057243631616,The Skull Crushers,จอมบดกระโหลก,X0336
+20988676612308992,The Scorchers,สกอร์เชอร์,X0337
+20990936260034560,The Salvation Clan,กลุ่มผู้ไถ่บาป,X0338
+20991536762732544,"They are pirates known for targeting weaker settlements. They are less equipped than some other pirate groups, but make up for it with their large number and ruthlessness.",พวกมันเป็นโจรสลัดที่ขึ้นชื่อว่าชอบหมายตาฐานที่อ่อนแอกว่า มีเครื่องไม้เครื่องมือน้อยกว่ากลุ่มโจรสลัดบางกลุ่ม แต่ชดเชยจุดนั้นด้วยการมีพรรคพวกเยอะและนิสัยที่ไร้ความปราณี,X0339
+20991662080147456,"A fearsome pirate clan renowned for their formidable firepower, armed with an arsenal that includes machine guns. They are ruthless and without honor, attacking anyone who dares to come close, even turning against their own at times.",กลุ่มโจรสลัดที่น่าเกรงขาม มีชื่อเสียงด้านอาวุธยุทโธปกรณ์ที่น่ากลัว และครอบครองคลังแสงสรรพาวุธที่เก็บปืนกลต่างๆ ไว้ พวกมันทั้งไร้ปราณีและไร้เกียรติ จะโจมตีใครก็ตามที่เข้ามาใกล้ บางครั้งพวกมันหันมาตีกันเองก็มี,X0340
+20991797996568576,"A formidable clan comprised of exceptionally skilled combatants, sought after by various warring tribes as elite mercenaries.",กลุ่มชนน่าเกรงขามที่มีนักสู้มากฝีมือ ชนเผ่าต่างๆ ที่ทำสงครามล้วนต้องการนักสู้พวกนี้มาเป็นทหารรับจ้างชั้นยอด,X0341
+20991850647666688,"Greedy and ruthless, they capture and enslave people for profit, striking fear into all who resist.",มักมากและโหดเหี้ยม ชอบจับคนมาเป็นทาสเพื่อหาผลประโยชน์ สร้างความกลัวให้กับทุกคนที่ต่อต้าน,X0342
+20991894285205504,"Fearsome warriors, draped in skull-adorned armor, instilling terror. Bound by loyalty and strength, they dominate ruthlessly, leaving a trail of devastation.",นักรบที่น่าสะพรึงกลัว สวมชุดเกราะที่ประดับด้วยหัวกะโหลกน่าขนหัวลุก มีความภักดีต่อกันและพละกำลังที่แข็งแกร่ง พวกมันถนัดใช้ความโหดเหี้ยม ไม่ว่าไปไหนก็จะทิ้งร่องรอยแห่งการทำลายล้างไว้,X0343
+20992079656665088,"Pirates ruling the waterlogged world with ruthless cunning. Their black banner bear the mark of a colossal kraken, bringing doom to all who cross their path.",โจรสลัดที่ครองโลกบาดาลด้วยความเจ้าเล่ห์ไร้ปราณี ธงสีดำของพวกมันมีสัญลักษณ์คราเคนขนาดยักษ์ มักนำหายนะมาสู่ทุกคนที่ขวางทางพวกมัน,X0344
+20992135621263360,"A faction with a fervent belief in their power and inherent right to rule. Rising from the remnants of a ravaged world, they see themselves as the saviors destined to guide humanity towards a new order. ",ฝ่ายที่มีความเชื่อฝังหัวเรื่องอำนาจของตนและสิทธิที่พวกมันสามารถปกครองได้ทุกสิ่ง การที่คืนชีพขึ้นมาจากเศษซากของโลกที่ถูกทำลายล้าง พวกมันจึงมองว่าตัวเองเป็นผู้กอบกู้ที่พระเจ้าลิขิตให้นำทางมนุษยชาติ ไปสู่ระเบียบโลกใหม่,X0345
+20992010500980736,"Notorious bandits thriving in a flooded nuclear power station. Adapted to the radioactive environment, they leave destruction in their wake.",กลุ่มหัวขโมยชื่อกระฉ่อนที่ใช้ชีวิตเติบโตอยู่ในโรงไฟฟ้านิวเคลียร์ที่โดนน้ำท่วม พอพวกมันปรับตัวเข้ากับสภาพแวดล้อมที่ปนเปื้อนสารกัมมันตรังสีได้แล้ว ก็ทำลายล้างทั่วทุกที่ที่เคยไปเหยียบย่ำ,X0346
+20991730258558976,"The bloodthirsty warlords seek relentless expansion and unrivaled dominance. Their insatiable thirst for power drives them to conquer new territories without remorse, leaving only chaos and destruction. ",เหล่าขุนพลผู้กระหายเลือดที่ไม่เคยหยุดแสวงหาการขยายอาณาเขตและความเป็นใหญ่กว่าผู้อื่น ความกระหายอำนาจที่ไม่รู้จักพอ ผลักดันให้พวกมันพิชิตดินแดนใหม่อย่างเลือดเย็น เหลือทิ้งไว้แต่เพียงความเละเทะและความย่อยยับ,X0347
+33607066329825280,Mutants,มนุษย์กลายพันธุ์,X0348
+8494575616,System,ระบบ,X0349
+85069983744,Joined the game.,เข้าร่วมเกมแล้ว,X0350
+9106944000,Inventory Is Full,กระเป๋าเต็ม,X0351
+1924750178603008,Save Error,เกิดข้อผิดพลาดในการเซฟ,X0352
+1929156966043648,Delete Directory Error,เกิดข้อผิดพลาดในการลบโฟลเดอร์,X0353
+1929591735013376,Load Error,เกิดข้อผิดพลาดใน,X0354
+2080966653595648,File Exists Error,ไฟล์ที่มีอยู่เกิดข้อผิดพลาด,X0355
+2081370720260096,Directory Existence Error,โฟลเดอร์ที่มีอยู่เกิดข้อผิดพลาด,X0356
+2081919662379008,Get Directories Error,การเปิดโฟลเดอร์เกิดข้อผิดพลาด,X0357
+12032804609028096,Sleep ({joinMember}/{allMember}),นอนหลับ ({joinMember}/{allMember}),X0358
+27712248338149376,Place The Battery,วางแบตเตอรี่,X0359
+27712598482841600,Take Battery,หยิบแบตเตอรี่,X0360
+27712833510666240,Charging Now,กำลังชาร์จ,X0361
+41475898488090624,Take Air Tank,หยิบถังอากาศ,X0362
+41476171575029760,Place Air Tank,วางถังอากาศ,X0363
+571921653760,Place Item,วางไอเท็ม,X0364
+571942625280,Add Wood ({woodAmount} / {woodCapacity}),ใส่ไม้ ({woodAmount} / {woodCapacity}),X0365
+571942625281,Take Item,หยิบไอเท็ม,X0366
+22783533768705,Can not Add More Wood,ใส่ไม้เพิ่มไม่ได้แล้ว,X0367
+22783533768707,Can not Add More Fuel,ใส่เชื้อเพลิงเพิ่มไม่ได้แล้ว,X0368
+24756559536128,"Ore Smelting, Please Wait ",กำลังหลอมแร่ รอสักครู่,X0369
+10122602481676288,Add Food,ใส่อาหาร,X0370
+10122909009801216,Cook,ปรุง,X0371
+10123108973244416,Take Food,หยิบอาหาร,X0372
+10123238694678528,Eat,กิน,X0373
+10349604639830016,Add Sea Water ({seaWaterAmount} / {seaWaterCapacity}),เติมน้ำทะเล ({seaWaterAmount} / {seaWaterCapacity}),X0374
+10350570160222208,Take Water ({freshWaterAmount} / {freshWaterCapacity}),เก็บน้ำ ({freshWaterAmount} / {freshWaterCapacity}),X0375
+10351023346380800,Drink Water ({freshWaterAmount} / {freshWaterCapacity}),ดื่มน้ำ ({freshWaterAmount} / {freshWaterCapacity}),X0376
+10362935178129408,Take {itemInProduction},หยิบ {itemInProduction},X0377
+10370009018626048,Take Fish ({fishAmount}/{maxFishAmount}),เก็บปลา ({fishAmount}/{maxFishAmount}),X0378
+10378126997549056,Plant,ปลูก,X0379
+10378723498881024,{operation},{operation},X0380
+10386160763236352,Work Station,โต๊ะทำงาน,X0381
+10386716185554944,Avil,ทั่งตีเหล็ก,X0382
+10387557160284160,Ammo Workshop,เครื่องทำกระสุน,X0383
+10387791860953088,Armor Workshop,โต๊ะตัดเย็บ,X0384
+10388094823919616,Heavy Workbench,โต๊ะงานหนัก,X0385
+10393255503949824,Take Wood,หยิบไม้,X0386
+10401156909985792,Add Ingredient ({ingredientAmount} / {ingredientCapacity}),ใส่ส่วนผสม ({ingredientAmount} / {ingredientCapacity}),X0387
+10401553930219520,Take Fuel ({fuelAmount} / {fuelCapacity}),หยิบเชื้อเพลิง ({fuelAmount} / {fuelCapacity}),X0388
+10403200626552832,Radio Station,สถานีวิทยุ,X0389
+10412500635840512,Artillery,ปืนใหญ่,X0390
+10412823026823168,Heavy Machine Gun,ปืนกลหนัก,X0391
+10413112043728896,Heavy Crossbow,หน้าไม้แรงสูง,X0392
+10449659967270912,It's Not Bedtime,ยังไม่ใช่เวลานอน,X0393
+10451567083745280,Change Color,เปลี่ยนสี,X0394
+10452337778716672,Wooden Chest,หีบไม้,X0395
+10452592716902400,Metal Chest,หีบโลหะ,X0396
+10452814981459968,Ammo Box,กล่องกระสุน,X0397
+10453064404135936,Fridge,ตู้เย็น,X0398
+10453275616702464,Wooden Closet,ตู้เสื้อผ้าไม้,X0399
+10453464544931840,Metal Barrel,ถังโลหะ,X0400
+10472845983313920,Add {itemName},ใส่ {itemName},X0401
+10474811597746176,Search Light,ไฟค้นหา,X0402
+10497641991335936,Drive,ขับ,X0403
+10503777180151808,Sit (Passenger),นั่ง (ผู้โดยสาร),X0404
+10508649514364928,Chest,หีบ,X0405
+26379348044902400,Add Iron Ingot ({IronIngotAmount}/{IronIngotRequest}),ใส่แท่งเหล็ก ({IronIngotAmount}/{IronIngotRequest}),X0406
+26380996435734528,Take Steel Ingot,หยิบแผ่นเหล็กกล้า,X0407
+26614973977292800,Working Now,กำลังทำงาน,X0408
+27002417860014080,Add Fuel ({fuelAmount}/{fuelCapacity}),เติมเชื้อเพลิง ({fuelAmount}/{fuelCapacity}),X0409
+27547374345744384,Add Coal ({CoalAmount}/{CoalCapacity}),ใส่ถ่าน ({CoalAmount}/{CoalCapacity}),X0410
+27575776679260160,Enter,เข้าไป,X0411
+30047358479724544,Open,เปิด,X0412
+30084644365889536,Install Explosive,วางระเบิด,X0413
+30124790180179968,Repair,ซ่อม,X0414
+31320611030528000,Helicopter Propeller,ใบพัดเฮลิคอปเตอร์,X0415
+31916752877088768,Don't Decompose Item!,ห้ามย่อยไอเท็ม!,X0416
+31917132612595712,Can not be Decomposed !,ย่อยไม่ได้!,X0417
+31919026206633984,Something is ready to bake!,มีบางอย่างอยู่แล้ว!,X0418
+31920797083725824,Need a bucket filled with seawater,ต้องมีน้ำทะเลในถัง,X0419
+31921114894528512,No empty water bottle in inventory,ไม่มีขวดเปล่าในกระเป๋า,X0420
+31922833615450112,Someone is occupying,มีคนใช้อยู่,X0421
+31927742515605504,Water too deep here,ตรงนี้น้ำลึกเกินไป,X0422
+31928015501881344,Your base is under attack!,ฐานของคุณถูกโจมตี!,X0423
+31930697994170368,The door is not ready now,ประตูยังไม่พร้อมใช้,X0424
+31932157041537024,No dynamite in inventory,ไม่มีไดนาไมต์ในกระเป๋า,X0425
+31932573099716608,Doesn't  connect to  power source,ไม่ได้เชื่อมต่อกับแหล่งพลังงาน,X0426
+31939224921927680,No,ไม่,X0427
+31941938758250496,Out Of Fuel,เชื้อเพลิงหมด,X0428
+31942123081134080,"Short circuit, please repair",ไฟฟ้าลัดวงจร โปรดซ่อม,X0429
+31944485082460160,Out of Power,พลังงานหมด,X0430
+33741680890834944,Dropped Backpack,กระเป๋าเป้ตก,X0431
+34658298898640896,Max Connected Point,เชื่อมต่อเต็มแล้ว,X0432
+35193377030893568,Enemies Nearby!,มีศัตรูอยู่ใกล้ๆ !,X0433
+36153336522567680,Reset Trap,รีเซ็ตกับดัก,X0434
+37334289659949056,Install Battery,ติดตั้งแบตเตอรี่,X0435
+37334920172892160,No battery in inventory need to charge,ไม่มีแบตเตอรี่ที่ต้องชาร์จ,X0436
+37487804206247936,Toggle,เปิด/ปิด,X0437
+38749471854522368,Coal Max,ถ่านเต็ม,X0438
+39839028947677184,There is no battery,ไม่มีแบตเตอรี่,X0439
+39888154959769600,Hold To Operate,กดค้างเพื่อใช้งาน,X0440
+39889139794931712,No air tank in inventory need to fill,ไม่มีถังอากาศที่ต้องเติม,X0441
+39889432087588864,No  air tank to get,ไม่เหลือถังอากาศแล้ว,X0442
+40586221337931776,Remove Battery,เอาแบตเตอรี่ออก,X0443
+40933094603059200,Turn Off,ปิด,X0444
+40933284890243072,Turn On,เปิด,X0445
+40978484522086400,SCAVENGING...,กำลังรื้อค้น...,X0446
+43101866055135232,"The force was too small, and the fish ran away",ออกแรงมากเกินไป ปลาก็เลยหนี,X0447
+43102087770238976,The fish ran away with too much force,ออกแรงน้อยเกินไป ปลาก็เลยหนี,X0448
+44162537702256640,Open Door,เปิดประตู,X0449
+44162697727537152,Close Door,ปิดประตู,X0450
+44162846088458240,Open Window,เปิดหน้าต่าง,X0451
+44162977558917120,Close Window,ปิดหน้าต่าง,X0452
+44578880570224640,[F] FILL WITH SEA WATER,[F] เติมน้ำทะเล,X0453
+44579227409805312,New item added to wishlist,ปักหมุดไอเท็มที่อยากทำแล้ว,X0454
+44579484881350656,Decompose Item,ย่อยสลายไอเท็ม,X0455
+44579661025341440,Can Not Use Underwater,ใช้ใต้น้ำไม่ได้,X0456
+44579917448310784,Discovered New Location,พบสถานที่ใหม่,X0457
+45187956622716928,Use Tools To Collect,ใช้เครื่องมือในการเก็บ,X0458
+45188446899105792,Collect,เก็บ,X0459
+45188661559390208,Craft Failed,คราฟไม่สำเร็จ,X0460
+45188866493083648,Too Far From Workstation,อยู่ห่างจากสถานที่คราฟมาเกินไป,X0461
+45189167929323520,Wrong Tool,เครื่องมือผิด,X0462
+45314788252676096,Are you sure to demolish,แน่ใจหรือว่าต้องการรื้อถอน,X0463
+45774894549975040,Trade,ซื้อขาย,X0464
+48520833754165248,Leave vehicle first,ออกจากพาหนะก่อน,X0465
+48817835767459840,You are not bleeding,คุณไม่มีเลือดออก,X0466
+48862432619098112,Demolish...,รื้อถอน...,X0467
+49082679485755392,Activate,เปิดใช้งาน,X0468
+49096381714886656,Neutral,ไม่มีฝ่าย,X0469
+49515760411701248,Push Boat,ผลักเรือ,X0470
+51815209896996864,The items placed inside of this object will be destroyed. Are you sure to pack it up?,ไอเท็มที่อยู่ในวัตถุนี้จะถูกทำลาย แน่ใจหรือว่าต้องการเก็บมัน?,X0471
+952153686016,Mainly used for crafting black powder ammunition.\x0A,ใช้เป็นหลักในการคราฟกระสุนดินปืน\x0A,X0472
+1889492549632,N/A,N/A,X0473
+8930697166848,Ammunition used in various types of black powder firearms.,กระสุนที่ใช้ในอาวุธยิงต่างๆที่ใช้ดินปืน,X0474
+1681127205871616,Decoration. Right click to place it.,ของตกแต่ง คลิกขวาเพื่อวาง,X0475
+1684948875321344,A bucket to hold seawater.,ถังสำหรับตักน้ำทะเล,X0476
+1684952872493056,The container for fresh water.,ภาชนะใส่น้ำจืด,X0477
+1684954814455808,Used for mining ores.\x0D,ใช้ในการขุดแร่\x0D,X0478
+1684955791728640,Used for repairing and demolishing buildings.,ใช้ซ่อมและทำลายสิ่งก่อสร้าง,X0479
+1684956727058432,Use it to observe distant areas.,ใช้ส่องดูพื้นที่ไกลๆ,X0480
+1684957565919232,Swim rapidly like a fish.,ว่ายน้ำได้เร็วเหมือนปลา,X0481
+1684958538997760,"Identify directions anytime, anywhere.",บอกทิศทางได้ทุกที่ทุกเวลา,X0482
+1684959549825024,It detects anything metallic.,ตรวจจับสิ่งที่เป็นโลหะ,X0483
+1690765456416768,Used for stopping bleeding.,ใช้ในการห้ามเลือด,X0484
+1684962167070720,Used for catching small fish. Requires bait.,ใช้ตกปลาตัวเล็ก ต้องมีเหยื่อ,X0485
+1684963001737216,Provides power for mobile electronic devices. scooters. Drag it to install.,ให้พลังงานแก่อุปกรณ์อิเล็กทรอนิกส์เคลื่อนที่ สกูตเตอร์ ลากเพื่อติดตั้ง,X0486
+1684963844792320,Thrown to illuminate a wide area of land or even the pitch-black seabed.,โยนให้เกิดแสงสว่างบนพื้นเป็นวงกว้าง หรือแม้แต่ก้นทะเลที่มืดสนิท,X0487
+1684965019197440,"A strong headlamp with far-reaching light, perfect for illuminating the dark depths of the sea.",ไฟส่องสว่างเจิดจ้าเป็นระยะทางไกล เหมาะอย่างยิ่งสำหรับการส่องสว่าง ในความมืดมิดของท้องทะเล,X0488
+1686145560584192,Lockpick,อุปกรณ์สะเดาะกุญแจ,X0489
+1690770288254976,Restores a significant amount of health points.,ฟื้นฟูพลังชีวิต จำนวนมาก,X0490
+1690772469293056,It's used to connect things.,ใช้มัดสิ่งต่างๆ,X0491
+1690774482558976,"Basic material used for crafting armor, ropes, and some furniture.",วัสดุพื้นฐานที่ใช้ในการทำชุดเกราะ เชือก และเฟอร์นิเจอร์บางชนิด,X0492
+1690776663597056,Ingredient for modern ammo making.,ส่วนผสมในการทำกระสุนสมัยใหม่,X0493
+1690782095220736,"Items like bolts, wires, nails, and the like.",สิ่งต่างๆ เช่น น็อต สายไฟ ตะปู อะไรพวกนั้น,X0494
+1692984989818880,Used for crafting modern firearms.,ใช้ในการคราฟอาวุธยิงสมัยใหม่,X0495
+1692990190755840,Required for crafting electronic devices.,ต้องใช้ในการคราฟอุปกรณ์อิเล็กทรอนิกส์,X0496
+1692992136912896,Used for crafting luxury furniture.,ใช้คราฟเฟอร์นิเจอร์สุดหรู,X0497
+1692994481528832,Used to craft bottles and some structures.,ใช้คราฟขวดและสิ่งก่อสร้างบางอย่าง,X0498
+1692995458801664,Can be melted in a furnace to create copper ingots.,หลอมได้ที่เตาหลอมเพื่อสร้างแท่งทองแดง,X0499
+1692996431880192,Raw material for crafting fabric.,วัตถุดิบในการคราฟผ้า,X0500
+1692998508060672,Can be melted in a furnace to create iron ingots.,หลอมได้ที่เตาหลอมเพื่อสร้างแท่งเงิน,X0501
+1693000521326592,Has multiple uses.,ใช้ประโยชน์ได้หลายอย่าง,X0502
+1693003176321024,Usually found underwater.,มักพบอยู่ใต้น้ำ,X0503
+1693006699536384,Used to make black powder.,ใช้ทำดินปืน,X0504
+1693008041713664,Has a wide range of uses. Obtained by chopping down trees or wooden furniture.,ใช้งานได้หลากหลาย หาได้จากการตัดต้นไม้ หรือเฟอร์นิเจอร์ไม้,X0505
+17676552326627328,"Quite valuable, selling to traders might yield a significant profit.",ค่อนข้างมีค่า หากขายให้กับพ่อค้าแม่ค้า อาจได้กำไรมากโข,X0506
+19399958027268096,Reduces hunger and thirst rate.,ลดอัตราความหิวและความกระหาย,X0507
+20965663695192064,Increases diving time.,เพิ่มเวลาในการดำน้ำ,X0508
+21426795427360768,Can increase swimming speed.,เพิ่มความเร็วในการว่ายน้ำ,X0509
+30684847221469184,Advanced crafting material.,วัสดุคราฟขั้นสูง,X0510
+24210172382035968,Used to unlock boats on the research table.,ใช้เพื่อปลดล็อกเรือที่โต๊ะวิจัย,X0511
+25372100915642368,Increases diving time temporarily,เพิ่มเวลาในการดำน้ำชั่วคราว,X0512
+30684581654917120,Advanced crafting material.,วัสดุคราฟขั้นสูง,X0513
+28247058335416320,Ammo for crossbow.,กระสุนสำหรับหน้าไม้,X0514
+29627205194104832,"+30 hydration and food level, increases stamina recovery speed.\x0D",ระดับน้ำและอาหาร +30 เพิ่มความเร็วในการฟื้นฟูแรงกาย\x0D,X0515
+29631897206800384,Completely restores food level and increases maximum health by 50.,ฟื้นฟูระดับอาหารจนเต็ม และเพิ่มพลังชีวิตสูงสุด 50,X0516
+29637467737440256,"Completely restores hydration and food level, and enhances swimming and diving abilities.",ฟื้นฟูความกระหาย และระดับอาหารจนเต็ม และเพิ่มความสามารถในการว่ายน้ำและดำน้ำ,X0517
+30369775171944448,Improves swimming speed and diving duration.,เพิ่มความเร็วในการว่ายน้ำ และเวลาในการดำน้ำ,X0518
+30370115229335552,Increases maximum health by 50.,เพิ่มพลังชีวิตสูงสุด 50,X0519
+30371329341931520,Used for crafting molotov cocktails.,ใช้ในการคราฟระเบิดขวดค็อกเทล,X0520
+30655032313475072,Restores a small amount of health points.,ฟื้นฟูพลังชีวิต เล็กน้อย,X0521
+30682035951464448,Simple lighting tool that can illuminate a small area.,อุปกรณ์ให้แสงสว่างอย่างง่าย ที่สามารถส่องสว่างในพื้นที่ขนาดเล็กได้,X0522
+30683320767442944,Can target enemies further away.,สามารถเล็งศัตรูที่อยู่ไกลออกไปได้,X0523
+30683675806887936,Add more backpack capacity,เพิ่มความจุของกระเป๋า,X0524
+30683915955957760,Can increase some backpack capacity,ใช้เพิ่มความจุ ของกระเป๋าได้,X0525
+19981379968135168,Temporarily increases diving duration.,เพิ่มเวลาในการดำน้ำชั่วคราว,X0526
+19982244896534528,Temporarily increases stamina recovery speed.,เพิ่มความเร็วในการฟื้นฟูแรงกายชั่วคราว,X0527
+30684987915202560,Harder than iron.,แข็งยิ่งกว่าเหล็ก,X0528
+30685061017726976,Used for home decoration.,ใช้ตกแต่งบ้าน,X0529
+30685176369475584,Used for advanced machinery.,ใช้สำหรับเครื่องจักรขั้นสูง,X0530
+30685290907529216,Used for creating wallpapers and floors.\x0D,ใช้ทำวอลเปเปอร์และพื้น\x0D,X0531
+30685407714701312,"Used for making ammo, producing gas, and more.",ใช้สำหรับทำกระสุน ผลิตแก๊ส และอื่นๆ,X0532
+30685934775136256,Used for crafting advanced armor.,ใช้คราฟเกราะขั้นสูง,X0533
+30686054371520512,Used for building home decorations.,ใช้สร้างของตกแต่งบ้าน,X0534
+30687137684746240,Used for crafting modern ammo and electronic devices.\x0D,ใช้ในการคราฟกระสุน และอุปกรณ์อิเล็กทรอนิกส์สมัยใหม่\x0D,X0535
+30688812810072064,Ammunition for modern pistols.,กระสุนสำหรับปืนพกสมัยใหม่,X0536
+30688861916983296,Ammunition for modern rifles.,กระสุนสำหรับปืนไรเฟิลสมัยใหม่,X0537
+30688909711077376,Ammunition for modern shotguns.,กระสุนสำหรับปืนลูกซองสมัยใหม่,X0538
+30688734846349312,"A glass bottle filled with gasoline, which can cause sustained area burning when exploded.",ขวดแก้วบรรจุน้ำมันเบนซิน เมื่อระเบิดอาจทำให้เกิดการเผาไหม้ ในบริเวณนั้นเป็นเวลานาน,X0539
+30688639161692160,Powerful modern military grenade.,ระเบิดมือทหารสมัยใหม่อันทรงพลัง,X0540
+30688583306145792,Improvised explosive made from scrap metal.,ระเบิดที่ทำขึ้นมาอย่างลวกๆ จากเศษโลหะ,X0541
+30688398047932416,Ammunition for large-caliber machine guns and rifles.,กระสุนสำหรับปืนกล และปืนไรเฟิลลำกล้องใหญ่,X0542
+30687570658553856,Might be used in crafting certain items.,อาจใช้คราฟอะไรได้,X0543
+30687484956340224,"Can be used to craft various items such as diving fins, armor, and more.",ใช้ในการคราฟไอเท็มต่างๆ เช่น ตีนกบดำน้ำ เกราะ และอื่นๆ,X0544
+30687391213645824,Perhaps could be used to craft some props.,น่าจะใช้คราฟอะไรได้,X0545
+30687299186421760,Obtained from animals and can be processed into leather.\x0D,ได้จากสัตว์ และสามารถแปรรูปเป็นหนังได้\x0D,X0546
+30687213702311936,Used to provide engine power for boats and can also be used for generating electricity.,ใช้เป็นพลังงานให้เครื่องยนต์ และยังใช้ผลิตไฟฟ้าได้อีกด้วย,X0547
+35467332524982272,Diving time increased,เวลาในการดำน้ำเพิ่มขึ้น,X0548
+35994771449724928,Can be crafted into a functional gun in a gun workshop.,นำไปคราฟเป็นปืนได้ที่โต๊ะคราฟปืน,X0549
+35997568555565056,Can be crafted into a new armor in an armor workshop.,นำไปคราฟเป็นชุดเกราะได้ที่โต๊ะตัดเย็บ,X0550
+38280086098505728,Used to pack placed objects back into your inventory.,ใช้เก็บวัตุที่วางไว้แล้ว กลับไปไว้ในกระเป๋า,X0551
+27329028096,Crude Axe,ขวานหยาบๆ,X0552
+1476949783339008,Twohand Axe,ขวานสองมือ,X0553
+1476949800116224,N/A,N/A,X0554
+1476949800116225,Iron Axe,ขวานเหล็ก,X0555
+1476949800116227,Wooden Spear,หอกไม้,X0556
+1476949800116228,N/A,N/A,X0557
+1476949800116229,Iron Spear,หอกเหล็ก,X0558
+1476949800116230,N/A,N/A,X0559
+1476949800116231,Bow,ธนู,X0560
+1476949800116233,Crossbow,หน้าไม้,X0561
+1476949800116235,Arrow,ลูกธนู,X0562
+1476949800116236,The ammunition for bows.,กระสุนของธนู,X0563
+1476949800116237,Crossbow Bolt,ลูกศร,X0564
+1476949800116238,Ammunition for crossbow,กระสุนของหน้าไม้,X0565
+1476949804310529,Machete,มาเชเต้,X0566
+1476949804310530,N/A,N/A,X0567
+1476949804310531,Spiked Club,กระบองหนาม,X0568
+1476949804310532,N/A,N/A,X0569
+1476949804310533,Wooden Knife,มีดไม้,X0570
+1476949804310534,It cuts...I hope...,หวังว่ามัน...จะใช้ตัดได้...,X0571
+1476949804310535,Pipe Pistol,ลำกล้องปืนพก,X0572
+1476949804310536,N/A,N/A,X0573
+1476949804310537,Scrap Pistol,ปืนพกเศษเหล็ก,X0574
+1476949804310538,N/A,N/A,X0575
+1476949804310539,Homemade Revolver,ปืนพกประดิษฐ์,X0576
+1476949804310540,N/A,N/A,X0577
+1476949804310541,Double Barrel Shotgun,ปืนลูกซองสองลำกล้อง,X0578
+1476949804310542,N/A,N/A,X0579
+1476949804310543,PM,ปืน PM,X0580
+1476949804310544,N/A,N/A,X0581
+1476949804310545,GP20,ปืน GP20,X0582
+1476949804310546,N/A,N/A,X0583
+1476949804310547,Pump Shotgun,ปืนลูกซองปั๊ม,X0584
+1476949804310548,N/A,N/A,X0585
+1476949804310549,SMG,ปืน SMG,X0586
+1476949804310550,N/A,N/A,X0587
+1476949804310551,Hunting Rifle,ปืนไรเฟิลล่าสัตว์,X0588
+1476949804310552,N/A,N/A,X0589
+1476949804310553,Old Bolt Action Rifle,ปืนไรเฟิลเก่า,X0590
+1476949804310554,N/A,N/A,X0591
+1476949804310555,AK47,ปืน AK47,X0592
+1476949804310556,N/A,N/A,X0593
+1476949804310557,CZ60,ปืน CZ60,X0594
+1476949804310558,N/A,N/A,X0595
+1476949804310559,Grenade Launcher,เครื่องยิงลูกระเบิด,X0596
+1476949804310560,N/A,N/A,X0597
+1476949804310561,M14,ปืน M14,X0598
+1476949804310562,N/A,N/A,X0599
+1476949804310563,M16,ปืน M16,X0600
+1476949804310564,N/A,N/A,X0601
+1476949804310565,Broken GP20,ซากปืน GP20,X0602
+1476949804310566,Not functioning any more. But can be used to craft a new gun.,ใช้ไม่ได้แล้ว แต่เอาไปคราฟเป็นปืนใหม่ได้,X0603
+1476949804310567,Broken PM,ซากปืน PM,X0604
+1476949804310568,Not functioning any more. But can be used to craft a new gun.,ใช้ไม่ได้แล้ว แต่เอาไปคราฟเป็นปืนใหม่ได้,X0605
+1476949804310569,Broken Revolver,ซากปืนพก,X0606
+1476949804310570,Not functioning any more. But can be used to craft a new gun.,ใช้ไม่ได้แล้ว แต่เอาไปคราฟเป็นปืนใหม่ได้,X0607
+1476949804310571,Broken Bolt Action Rifle,ซากปืนไรเฟิลเก่า,X0608
+1476949804310572,Not functioning any more. But can be used to craft a new gun.,ใช้ไม่ได้แล้ว แต่เอาไปคราฟเป็นปืนใหม่ได้,X0609
+1476949804310573,Broken Pump Shotgun,ซากปืนลูกซองปั๊ม,X0610
+1476949804310574,Not functioning any more. But can be used to craft a new gun.,ใช้ไม่ได้แล้ว แต่เอาไปคราฟเป็นปืนใหม่ได้,X0611
+1476949804310575,Broken SMG,ซากปืน SMG,X0612
+1476949804310576,Not functioning any more. But can be used to craft a new gun.,ใช้ไม่ได้แล้ว แต่เอาไปคราฟเป็นปืนใหม่ได้,X0613
+1476949804310577,Broken AK47,ซากปืน AK47,X0614
+1476949804310578,Not functioning any more. But can be used to craft a new gun.,ใช้ไม่ได้แล้ว แต่เอาไปคราฟเป็นปืนใหม่ได้,X0615
+1476949804310579,Broken M14,ซากปืน M14,X0616
+1476949804310580,Not functioning any more. But can be used to craft a new gun.,ใช้ไม่ได้แล้ว แต่เอาไปคราฟเป็นปืนใหม่ได้,X0617
+1476949804310581,Toy Bike,รถของเล่น,X0618
+1476949804310582,Right click to place it,คลิกขวาเพื่อวาง,X0619
+1476949804310583,Candlestick,เชิงเทียน,X0620
+1476949804310584,Right click to place it,คลิกขวาเพื่อวาง,X0621
+1476949804310585,Carpet,พรม,X0622
+1476949804310586,Right click to place it,คลิกขวาเพื่อวาง,X0623
+1476949804310587,Sofa Chair,เก้าอี้โซฟา,X0624
+1476949804310588,Right click to place it,คลิกขวาเพื่อวาง,X0625
+1476949804310589,Red Sofa Chair,เก้าอี้โซฟาสีแดง,X0626
+1476949804310590,Right click to place it,คลิกขวาเพื่อวาง,X0627
+1476949804310591,Wooden Chair,เก้าอี้ไม้,X0628
+1476949804310592,Right click to place it,คลิกขวาเพื่อวาง,X0629
+1476949804310593,Cooling Chair,เก้าอี้ระบายความร้อน,X0630
+1476949804310594,Right click to place it,คลิกขวาเพื่อวาง,X0631
+1476949804310595,Delicate Chandelier,โคมระย้างานละเอียด,X0632
+1476949804310596,Right click to place it,คลิกขวาเพื่อวาง,X0633
+1476949804310597,Moire Ceramic,เครื่องเคลือบลายมัวเร,X0634
+1476949804310598,Right click to place it,คลิกขวาเพื่อวาง,X0635
+1476949804310599,Patterned Circular Porcelain,เครื่องลายครามทรงกลม,X0636
+1476949804310600,Right click to place it,คลิกขวาเพื่อวาง,X0637
+1476949804310601,Ceramic Bottle,ขวดเซรามิค,X0638
+1476949804310602,Right click to place it,คลิกขวาเพื่อวาง,X0639
+1476949804310603,Patterned Bronze Ware,ภาชนะลายสำริด,X0640
+1476949804310604,Right click to place it,คลิกขวาเพื่อวาง,X0641
+1476949808504832,Patterned Blue and White Pottery,เครื่องปั้นดินเผา ลายน้ำเงินขาว,X0642
+1476949808504833,Right click to place it,คลิกขวาเพื่อวาง,X0643
+1476949808504834,Blue Oil Bottle,ขวดน้ำมันสีน้ำเงิน,X0644
+1476949808504835,Right click to place it,คลิกขวาเพื่อวาง,X0645
+1476949808504836,Old Clock,นาฬิกาโบราณ,X0646
+1476949808504837,Right click to place it,คลิกขวาเพื่อวาง,X0647
+1476949808504838,Exquisite Wooden Table,โต๊ะไม้ประณีต,X0648
+1476949808504839,Right click to place it,คลิกขวาเพื่อวาง,X0649
+1476949808504840,Solid Wood Shelf,โต๊ะไม้เนื้อแข็ง,X0650
+1476949808504841,Right click to place it,คลิกขวาเพื่อวาง,X0651
+1476949808504842,Old Style Storage Shelf,ชั้นวางของสไตล์โบราณ,X0652
+1476949808504843,Right click to place it,คลิกขวาเพื่อวาง,X0653
+1476949808504844,Console 8,คอนโซล 8,X0654
+1476949808504845,Right click to place it,คลิกขวาเพื่อวาง,X0655
+1476949808504846,Darts Target,เป้าลูกดอก,X0656
+1476949808504847,Right click to place it,คลิกขวาเพื่อวาง,X0657
+1476949808504848,Decorative Plate Stand,ที่วางจานประดับ,X0658
+1476949808504849,Right click to place it,คลิกขวาเพื่อวาง,X0659
+1476949808504850,Desk Clock,นาฬิกาตั้งโต๊ะ,X0660
+1476949808504851,Right click to place it,คลิกขวาเพื่อวาง,X0661
+1476949808504852,Covered Easel,ขาตั้งกระดานวาดรูป ที่ถูกคลุมไว้,X0662
+1476949808504853,Right click to place it,คลิกขวาเพื่อวาง,X0663
+1476949808504854,Fish Statue,รูปปั้นปลา,X0664
+1476949808504855,Right click to place it,คลิกขวาเพื่อวาง,X0665
+1476949808504856,Game Console,เครื่องเล่นเกม,X0666
+1476949808504857,Right click to place it,คลิกขวาเพื่อวาง,X0667
+1476949808504858,Small Globe,ลูกโลกขนาดเล็ก,X0668
+1476949808504859,Right click to place it,คลิกขวาเพื่อวาง,X0669
+1476949808504860,Globe,ลูกโลก,X0670
+1476949808504861,Right click to place it,คลิกขวาเพื่อวาง,X0671
+1476949808504862,Hanger,ไม้แขวน,X0672
+1476949808504863,Right click to place it,คลิกขวาเพื่อวาง,X0673
+1476949808504864,Horse Statue,รูปปั้นม้า,X0674
+1476949808504865,Right click to place it,คลิกขวาเพื่อวาง,X0675
+1476949808504866,Toy Horse,ม้าของเล่น,X0676
+1476949808504867,Right click to place it,คลิกขวาเพื่อวาง,X0677
+1476949808504868,Jewelry Casket,กล่องเครื่องประดับ,X0678
+1476949808504869,Right click to place it,คลิกขวาเพื่อวาง,X0679
+1476949808504870,Modern Floor Lamp,โคมไฟตั้งพื้นสมัยใหม่,X0680
+1476949808504871,Right click to place it,คลิกขวาเพื่อวาง,X0681
+1476949808504872,Table Lamp,โคมไฟตั้งโต๊ะ,X0682
+1476949808504873,Right click to place it,คลิกขวาเพื่อวาง,X0683
+1476949808504874,Lamp Table 2,โคมไฟตั้งโต๊ะ 2,X0684
+1476949808504875,Right click to place it,คลิกขวาเพื่อวาง,X0685
+1476949808504876,Old Desk Lamp,โคมไฟตั้งโต๊ะโบราณ,X0686
+1476949808504877,Right click to place it,คลิกขวาเพื่อวาง,X0687
+1476949808504878,Wall Lamp,โคมไฟติดผนัง,X0688
+1476949808504879,Right click to place it,คลิกขวาเพื่อวาง,X0689
+1476949808504880,Lantern,ตะเกียง,X0690
+1476949808504881,Right click to place it,คลิกขวาเพื่อวาง,X0691
+1476949808504882,Large Vase,แจกันใบใหญ่,X0692
+1476949808504883,Right click to place it,คลิกขวาเพื่อวาง,X0693
+1476949808504884,Mirror,กระจกเงา,X0694
+1476949808504885,Right click to place it,คลิกขวาเพื่อวาง,X0695
+1476949808504886,Mirror 2,กระจกเงา 2,X0696
+1476949808504887,Right click to place it,คลิกขวาเพื่อวาง,X0697
+1476949808504888,Floor Mirror,กระจกตั้งพื้น,X0698
+1476949808504889,Right click to place it,คลิกขวาเพื่อวาง,X0699
+1476949808504890,Neon Bestdayever,ไฟนีออนวันที่ดีที่สุด,X0700
+1476949808504891,Right click to place it,คลิกขวาเพื่อวาง,X0701
+1476949808504892,Neon Cat,ไฟนีออนรูปแมว,X0702
+1476949808504893,Right click to place it,คลิกขวาเพื่อวาง,X0703
+1476949808504894,Neon Gamer,ไฟนีออนเกมเมอร์,X0704
+1476949808504895,Right click to place it,คลิกขวาเพื่อวาง,X0705
+1476949808504896,Neon Guitar,ไฟนีออนรูปกีตาร์,X0706
+1476949808504897,Right click to place it,คลิกขวาเพื่อวาง,X0707
+1476949808504898,Neon Hotel,ไฟนีออนโรงแรม,X0708
+1476949808504899,Right click to place it,คลิกขวาเพื่อวาง,X0709
+1476949808504900,Neon Money,ไฟนีออนรูปเงิน,X0710
+1476949808504901,Right click to place it,คลิกขวาเพื่อวาง,X0711
+1476949808504902,Neon Nightclub,ไฟนีออนไนท์คลับ,X0712
+1476949808504903,Right click to place it,คลิกขวาเพื่อวาง,X0713
+1476949808504904,Neon Peace,ไฟนีออนความสงบ,X0714
+1476949808504905,Right click to place it,คลิกขวาเพื่อวาง,X0715
+1476949808504906,Neon Route66,ไฟนีออนรูท66,X0716
+1476949808504907,Right click to place it,คลิกขวาเพื่อวาง,X0717
+1476949808504908,Neon Woman 1,ไฟนีออนรูปผู้หญิง 1,X0718
+1476949808504909,Right click to place it,คลิกขวาเพื่อวาง,X0719
+1476949808504910,Neon Woman 2,ไฟนีออนรูปผู้หญิง 2,X0720
+1476949808504911,Right click to place it,คลิกขวาเพื่อวาง,X0721
+1476949808504912,Owl Toy,ตุ๊กตานกฮูก,X0722
+1476949808504913,Right click to place it,คลิกขวาเพื่อวาง,X0723
+1476949808504914,Pan,กระทะ,X0724
+1476949808504915,Right click to place it,คลิกขวาเพื่อวาง,X0725
+1476949808504916,Picture 1,รูปภาพ 1,X0726
+1476949808504917,Right click to place it,คลิกขวาเพื่อวาง,X0727
+1476949808504918,Oil Painting(Comfortable),ภาพสีน้ำมัน (ความสะดวกสบาย),X0728
+1476949808504919,Right click to place it,คลิกขวาเพื่อวาง,X0729
+1476949812699136,Oil Painting(Lotus),ภาพสีน้ำมัน (ดอกบัว),X0730
+1476949812699137,Right click to place it,คลิกขวาเพื่อวาง,X0731
+1476949812699138,Oil Painting (Fox in Birch Forest),ภาพสีน้ำมัน (จิ้งจอกในป่าเบิร์ช),X0732
+1476949812699139,Right click to place it,คลิกขวาเพื่อวาง,X0733
+1476949812699140,Picture 5,รูปภาพ 5,X0734
+1476949812699141,Right click to place it,คลิกขวาเพื่อวาง,X0735
+1476949812699142,Oil Painting (Rural Life),ภาพสีน้ำมัน (ชีวิตในชนบท),X0736
+1476949812699143,Right click to place it,คลิกขวาเพื่อวาง,X0737
+1476949812699144,Oil Painting (Divine Tree),ภาพสีน้ำมัน (ต้นไม้ศักดิ์สิทธิ์),X0738
+1476949812699145,Right click to place it,คลิกขวาเพื่อวาง,X0739
+1476949812699146,Oil Painting (Small Stream in the Forest),ภาพสีน้ำมัน (ลำธารเล็กๆในป่า),X0740
+1476949812699147,Right click to place it,คลิกขวาเพื่อวาง,X0741
+1476949812699148,Picture 9,รูปภาพ 9,X0742
+1476949812699149,Right click to place it,คลิกขวาเพื่อวาง,X0743
+1476949812699150,Oil Painting(Desert Oasis),ภาพสีน้ำมัน (โอเอซิสในทะเลทราย),X0744
+1476949812699151,Right click to place it,คลิกขวาเพื่อวาง,X0745
+1476949812699152,Picture 11,รูปภาพ 11,X0746
+1476949812699153,Right click to place it,คลิกขวาเพื่อวาง,X0747
+1476949812699154,Oil Painting(Deep in the Valley),ภาพสีน้ำมัน (ลึกเข้าไปในหุบเขา),X0748
+1476949812699155,Right click to place it,คลิกขวาเพื่อวาง,X0749
+1476949812699156,Picture 13,รูปภาพ 13,X0750
+1476949812699157,Right click to place it,คลิกขวาเพื่อวาง,X0751
+1476949812699158,Oil Painting(Forgotten Castle),ภาพสีน้ำมัน (ปราสาทที่ถูกลืม),X0752
+1476949812699159,Right click to place it,คลิกขวาเพื่อวาง,X0753
+1476949812699160,Oil Painting(King Castle),ภาพสีน้ำมัน (ปราสาทราชา),X0754
+1476949812699161,Right click to place it,คลิกขวาเพื่อวาง,X0755
+1476949812699162,Toy Plane,เครื่องบินของเล่น,X0756
+1476949812699163,Right click to place it,คลิกขวาเพื่อวาง,X0757
+1476949812699164,Radio,วิทยุ,X0758
+1476949812699165,Right click to place it,คลิกขวาเพื่อวาง,X0759
+1476949812699166,Record Player Disk 1,แผ่นเสียง 1,X0760
+1476949812699167,Right click to place it,คลิกขวาเพื่อวาง,X0761
+1476949812699168,Record Player Disk 2,แผ่นเสียง 2,X0762
+1476949812699169,Right click to place it,คลิกขวาเพื่อวาง,X0763
+1476949812699170,Record Player Disk 3,แผ่นเสียง 3,X0764
+1476949812699171,Right click to place it,คลิกขวาเพื่อวาง,X0765
+1476949812699172,Rug 1,พรม 1,X0766
+1476949812699173,Right click to place it,คลิกขวาเพื่อวาง,X0767
+1476949812699174,Retro Rug,พรมลายย้อนยุค,X0768
+1476949812699175,Right click to place it,คลิกขวาเพื่อวาง,X0769
+1476949812699176,Striped Rug,พรมลายทาง,X0770
+1476949812699177,Right click to place it,คลิกขวาเพื่อวาง,X0771
+1476949812699178,Rug 4,พรม 4,X0772
+1476949812699179,Right click to place it,คลิกขวาเพื่อวาง,X0773
+1476949812699180,Rug 5,พรม 5,X0774
+1476949812699181,Right click to place it,คลิกขวาเพื่อวาง,X0775
+1476949812699182,Rug 6,พรม 6,X0776
+1476949812699183,Right click to place it,คลิกขวาเพื่อวาง,X0777
+1476949812699184,Rug 7,พรม 7,X0778
+1476949812699185,Right click to place it,คลิกขวาเพื่อวาง,X0779
+1476949812699186,Sand Watch,นาฬิกาทราย,X0780
+1476949812699187,Right click to place it,คลิกขวาเพื่อวาง,X0781
+1476949812699188,Scales 1,ตาชั่ง 1,X0782
+1476949812699189,Right click to place it,คลิกขวาเพื่อวาง,X0783
+1476949812699190,Scales 2,ตาชั่ง 2,X0784
+1476949812699191,Right click to place it,คลิกขวาเพื่อวาง,X0785
+1476949812699192,Moire,ลายมัวเร,X0786
+1476949812699193,Right click to place it,คลิกขวาเพื่อวาง,X0787
+1476949812699194,Stone Elephant,ช้างไชโย,X0788
+1476949812699195,Right click to place it,คลิกขวาเพื่อวาง,X0789
+1476949812699196,Wanghai Reef,ปะการังวังไห่,X0790
+1476949812699197,Right click to place it,คลิกขวาเพื่อวาง,X0791
+1476949812699198,Leather Suitcase,กระเป๋าเดินทางหนังสัตว์,X0792
+1476949812699199,Right click to place it,คลิกขวาเพื่อวาง,X0793
+1476949812699200,Handbag,กระเป๋าถือ,X0794
+1476949812699201,Right click to place it,คลิกขวาเพื่อวาง,X0795
+1476949812699202,Decorative Sword,ดาบประดับ,X0796
+1476949812699203,Right click to place it,คลิกขวาเพื่อวาง,X0797
+1476949812699204,Old Telephone,โทรศัพเก่า,X0798
+1476949812699205,Right click to place it,คลิกขวาเพื่อวาง,X0799
+1476949812699206,Toy 1,ของเล่น 1,X0800
+1476949812699207,Right click to place it,คลิกขวาเพื่อวาง,X0801
+1476949812699208,Toy 2,ของเล่น 2,X0802
+1476949812699209,Right click to place it,คลิกขวาเพื่อวาง,X0803
+1476949812699210,Toy Bear,ตุ๊กตาหมี,X0804
+1476949812699211,Right click to place it,คลิกขวาเพื่อวาง,X0805
+1476949812699212,Vinyl Machine,เครื่องทำไวนิล,X0806
+1476949812699213,Right click to place it,คลิกขวาเพื่อวาง,X0807
+1476949812699214,Violin,ไวโอลิน,X0808
+1476949812699215,Right click to place it,คลิกขวาเพื่อวาง,X0809
+1476949812699216,Wall Clock,นาฬิกาติดผนัง,X0810
+1476949812699217,Right click to place it,คลิกขวาเพื่อวาง,X0811
+1476949812699218,Wallet,กระเป๋าตัง,X0812
+1476949812699219,Right click to place it,คลิกขวาเพื่อวาง,X0813
+1476949812699220,Torch,คบเพลิง,X0814
+1476949812699221,N/A,N/A,X0815
+1476949812699222,Seawater Bucket,ถังน้ำทะเล,X0816
+1476949812699223,A bucket to hold seawater.,ถังสำหรับตักน้ำทะเล,X0817
+1476949812699224,Water Bottle,ขวดน้ำ,X0818
+1476949812699225,The container for fresh water.,ภาชนะสำหรับใส่น้ำจืด,X0819
+1476949812699226,Sack,ถุงผ้า,X0820
+1476949812699227,N/A,N/A,X0821
+1476949812699228,Backpack,กระเป๋าเป้,X0822
+1476949812699229,N/A,N/A,X0823
+1476949816893440,Pickaxe,อีเต้อ,X0824
+1476949816893441,To mine ores.,ใช้ขุดแร่,X0825
+1476949816893442,Diving Fins,ตีนกบดำน้ำ,X0826
+1476949816893443,Swim fast like a fish.,ว่ายน้ำได้เร็วเหมือนปลา,X0827
+1476949816893444,Binocular,กล้องส่องทางไกล,X0828
+1476949816893445,I can finally see hope.,ได้เห็นความหวังสักที,X0829
+1476949816893446,Compass,เข็มทิศ,X0830
+1476949816893447,It tells the north.,บอกได้ว่าทางไหนทิศเหนือ,X0831
+1476949816893448,Ore Detector,เครื่องตรวจจับแร่,X0832
+1476949816893449,It detects anything metallic.,ตรวจจับสิ่งที่เป็นโลหะ,X0833
+1476949816893450,Reparing Hammer,ค้อนซ่อมแซม,X0834
+1476949816893451,Just a hammer to repair my boat.,ก็แค่ค้อนไว้ซ่อมเรือ,X0835
+1476949816893452,Coordinator,เครื่องบอกพิกัด,X0836
+1476949816893453,N/A,N/A,X0837
+1476949816893454,Fishing Rod,เบ็ดตกปลา,X0838
+1476949816893455,Catches small fishes.,ตกปลาตัวเล็กๆ,X0839
+1476949816893456,Battery,แบตเตอรี่,X0840
+1476949816893457,To power small electronics.,ใช่จ่ายไฟให้อุปกรณ์อิเล็กทรอนิกส์ขนาดเล็ก,X0841
+1476949816893458,Flare,แฟลร์,X0842
+1476949816893459,Use it to light up the night sky.,ใช้ส่องสว่างท้องฟ้ายามค่ำคืน,X0843
+1476949816893460,Headlight,ไฟฉายคาดหัว,X0844
+1476949816893461,I won't worry about night anymore.,กลางคืนไม่น่ากังวลอีกต่อไปแล้ว,X0845
+1476949816893462,Lockpick,อุปกรณ์สะเดาะกุญแจ,X0846
+1476949816893463,Lockpick,อุปกรณ์สะเดาะกุญแจ,X0847
+1476949816893464,Small Air Tank,ถังอากาศเล็ก,X0848
+1476949816893465,Use it to breathe underwater.,ใช้ในการหายใจใต้น้ำ,X0849
+1476949816893468,Construction Hammer,ค้อนก่อสร้าง,X0850
+1476949816893469,N/A,N/A,X0851
+1476949816893470,Feather,ขนนก,X0852
+1476949816893471,N/A,N/A,X0853
+1476949816893472,Flare Projectile,กระสุนแฟลร์,X0854
+1476949816893473,N/A,N/A,X0855
+1476949816893474,Grenade Projectile,กระสุนระเบิด,X0856
+1476949816893475,N/A,N/A,X0857
+1476949816893476,Molotov Projectile,กระสุนระเบิดขวด,X0858
+1476949816893477,N/A,N/A,X0859
+1476949816893478,Reddot Gun Sight,ศูนย์เล็งจุดแดง,X0860
+1476949816893479,N/A,N/A,X0861
+1476949816893480,Combat Knife,มีดต่อสู้,X0862
+1476949816893481,N/A,N/A,X0863
+1476949816893482,Skull Crusher,จอมบดกระโหลก,X0864
+1476949816893483,N/A,N/A,X0865
+1476949816893484,Bandage,ผ้าพันแผล,X0866
+1476949816893485,Stops bleeding.,ห้ามเลือด,X0867
+1476949816893486,Herbal Medicine,ยาสมุนไพร,X0868
+1476949816893487,N/A,N/A,X0869
+1476949816893488,Stamina Herbal Mix,สมุนไพรผสมฟื้นฟูแรงกาย,X0870
+1476949816893489,N/A,N/A,X0871
+1476949816893490,Alcohol,แอลกอฮอล์,X0872
+1476949816893491,N/A,N/A,X0873
+1476949816893492,Antibiotics,ยาปฏิชีวนะ,X0874
+1476949816893494,Herbal Energy Drink,เครื่องดื่มสมุนไพรชูกำลัง,X0875
+1476949816893495,N/A,N/A,X0876
+1476949816893496,Herbal Health Booster,สมุนไพรเสริมสุขภาพ,X0877
+1476949816893497,N/A,N/A,X0878
+1476949816893498,Rope,เชือก,X0879
+1476949816893499,It's used to connect things,ใช้มัดสิ่งต่างๆ,X0880
+1476949816893500,Cloth,ผ้า,X0881
+1476949816893501,A basic material.,วัสดุทั่วไป,X0882
+1476949816893502,Ballistic Fiber,ผ้าใยแก้ว,X0883
+1476949816893503,N/A,N/A,X0884
+1476949816893504,Components,เศษวัสดุ,X0885
+1476949816893505,"Bolts, wires, nails, that kind of stuff.",น็อต สายไฟ ตะปู อะไรพวกนี้แหละ,X0886
+1476949816893506,Gun Parts,ชิ้นส่วนปืน,X0887
+1476949816893507,Components for crafting firearms.,ส่วนประกอบที่ใช้ในการคราฟปืน,X0888
+1476949816893508,Electronic Parts,ชิ้นส่วนอิเล็กทรอนิกส์,X0889
+1476949816893509,Needed for building electronic applicants.,ใช้ในการสร้างอุปกรณ์อิเล็กทรอนิกส์,X0890
+1476949816893510,Black Powder,ดินปืน,X0891
+1476949816893511,Used for luxury furniture,ใช้สำหรับเฟอร์นิเจอร์สุดหรู,X0892
+1476949816893512,Glass,แก้ว,X0893
+1476949816893513,Used to craft bottles and weapons.,ใช้ในการคราฟขวดและอาวุธ,X0894
+1476949816893514,Copper Ingot,แท่งทองแดง,X0895
+1476949816893515,N/A,N/A,X0896
+1476949816893516,Copper Ore,แร่ทองแดง,X0897
+1476949816893517,Can be melt into Copper Ingot using furnance.,หลอมเป็นแท่งทองแดงได้โดยใช้เตาหลอม,X0898
+1476949816893518,Cotton,ฝ้าย,X0899
+1476949816893519,The raw ingredient for making cloth.,วัตถุดิบสำหรับทำผ้า,X0900
+1476949816893520,Duct Tape,สก็อตเทป,X0901
+1476949816893522,Hide,หนัง,X0902
+1476949816893523,N/A,N/A,X0903
+1476949816893524,Gasoline,น้ำมันเบนซิน,X0904
+1476949821087744,N/A,N/A,X0905
+1476949821087745,Iron Ingot,แท่งเหล็ก,X0906
+1476949821087746,N/A,N/A,X0907
+1476949821087747,Iron Ore,แร่เหล็ก,X0908
+1476949821087748,Can be melt into Iron Ingot using furnance.,หลอมเป็นแท่งเงินแดงได้โดยใช้เตาหลอม,X0909
+1476949821087749,Chemical Substance,สารเคมี,X0910
+1476949821087750,"Used to make gunpowders, gasoline, etc",ใช้ในการทำดินปืน น้ำมันเบนซิน และอื่นๆ,X0911
+1476949821087751,Marlin Fish Skin,หนังปลามาร์ลิน,X0912
+1476949821087752,N/A,N/A,X0913
+1476949821087753,Rubber,ยาง,X0914
+1476949821087754,Has multiple uses,ใช้ประโยชน์ได้หลายอย่าง,X0915
+1476949821087755,Scrap Metal,เศษโลหะ,X0916
+1476949821087756,Typically found underwater.,มักจะพบอยู่ใต้น้ำ,X0917
+1476949821087757,Shark Skin,หนังฉลาม,X0918
+1476949821087758,N/A,N/A,X0919
+1476949821087759,Paint,สี,X0920
+1476949821087760,N/A,N/A,X0921
+1476949821087761,SubCannon,SubCannon,X0922
+1476949821087762,SubCannon,SubCannon,X0923
+1476949821087763,Wood Plank,ไม้,X0924
+1476949821087764,Mostly used for constructions.,ส่วนใหญ่ใช้ในการก่อสร้าง,X0925
+1476949821087766,N/A,N/A,X0926
+1476949821087768,N/A,N/A,X0927
+1476949821087770,N/A,N/A,X0928
+1476949821087772,N/A,N/A,X0929
+1476949821087773,Treasure Map Item,แผนที่สมบัติ,X0930
+1476949821087774,N/A,N/A,X0931
+1476949821087775,Purple Flower,ดอกไม้สีม่วง,X0932
+1476949821087776,N/A,N/A,X0933
+1476949821087777,Red Flower,ดอกไม้สีแดง,X0934
+1476949821087778,N/A,N/A,X0935
+1476949821087779,White Flower,ดอกไม้สีขาว,X0936
+1476949821087780,N/A,N/A,X0937
+1476949821087781,Battery,แบตเตอรี่,X0938
+1476949821087782,N/A,N/A,X0939
+1476949821087783,Motor Engine,มอเตอร์เครื่องยนต์,X0940
+1476949821087784,The combustion engine for boats.,เครื่องยนต์สันดาปสำหรับเรือ,X0941
+1476949821087785,Bottle Of Water,ขวดน้ำ,X0942
+1476949821087786,N/A,N/A,X0943
+1476949821087787,Roasted Wahoo,ปลาวาฮูย่าง,X0944
+1476949821087788,N/A,N/A,X0945
+1476949821087789,Roasted Wahoo,ปลาวาฮูย่าง,X0946
+1476949821087790,N/A,N/A,X0947
+1476949821087791,Roasted Red Snapper,ปลากะพงแดงย่าง,X0948
+1476949821087792,N/A,N/A,X0949
+1476949821087793,Roasted Bream,ปลาทรายแดงย่าง,X0950
+1476949821087794,N/A,N/A,X0951
+1476949821087795,Fishing Bait,เหยื่อตกปลา,X0952
+1476949821087796,N/A,N/A,X0953
+1476949821087797,Food Can,อาหารกระป๋อง,X0954
+1476949821087798,N/A,N/A,X0955
+1476949821087799,Roasted Bird Meat,เนื้อนกย่าง,X0956
+1476949821087800,N/A,N/A,X0957
+1476949821087801,Roasted Cabbage,กะหล่ำปลีย่าง,X0958
+1476949821087802,N/A,N/A,X0959
+1476949821087803,Roasted Crab,ปูย่าง,X0960
+1476949821087804,N/A,N/A,X0961
+1476949821087805,Roasted Fish,ปลาย่าง,X0962
+1476949821087806,N/A,N/A,X0963
+1476949821087807,Roasted Meat,เนื้อย่าง,X0964
+1476949821087808,N/A,N/A,X0965
+1476949821087809,Roasted Mushroom,เห็ดย่าง,X0966
+1476949821087810,N/A,N/A,X0967
+1476949821087811,Roasted Potato,มันฝรั่งย่าง,X0968
+1476949821087812,N/A,N/A,X0969
+1476949821087813,Roasted Scallop,หอยเชลล์ย่าง,X0970
+1476949821087814,N/A,N/A,X0971
+1476949821087815,Soda,โซดา,X0972
+1476949821087816,N/A,N/A,X0973
+1476949821087817,Water,น้ำ,X0974
+1476949821087818,N/A,N/A,X0975
+1476949821087819,Cola,โคล่า,X0976
+1476949821087820,N/A,N/A,X0977
+1476949821087821,Egg,ไข่,X0978
+1476949821087822,Egg,ไข่,X0979
+1476949821087823,Amberjack,ปลาสำลีหิน,X0980
+1476949821087824,N/A,N/A,X0981
+1476949821087825,Roasted Amberjack,ปลาสำลีหินย่าง,X0982
+1476949821087826,N/A,N/A,X0983
+1476949821087827,Roasted Tuna,ปลาทูน่าย่าง,X0984
+1476949821087828,N/A,N/A,X0985
+1476949821087829,Tuna,ปลาทูน่า,X0986
+1476949821087830,N/A,N/A,X0987
+1476949821087831,Dorado,ปลาอีโต้มอญ,X0988
+1476949821087832,N/A,N/A,X0989
+1476949821087833,Roasted Dorado,ปลาอีโต้มอญย่าง,X0990
+1476949821087834,N/A,N/A,X0991
+1476949821087835,Roasted Steenbras,ปลายทรายแดงหินย่าง,X0992
+1476949821087836,N/A,N/A,X0993
+1476949825282048,Steenbras,ปลายทรายแดงหิน,X0994
+1476949825282049,N/A,N/A,X0995
+1476949825282050,Onion,หัวหอม,X0996
+1476949825282051,N/A,N/A,X0997
+1476949825282052,Bird Meat,เนื้อนก,X0998
+1476949825282053,N/A,N/A,X0999
+1476949825282054,Cabbage,กะหล่ำปลี,X1000
+1476949825282055,N/A,N/A,X1001
+1476949825282056,Crab Meat,เนื้อปู,X1002
+1476949825282057,N/A,N/A,X1003
+1476949825282058,Tarpon,ปลาตาเหลือก,X1004
+1476949825282059,N/A,N/A,X1005
+1476949825282060,Wahoo,ปลาวาฮู,X1006
+1476949825282061,N/A,N/A,X1007
+1476949825282062,Red Snapper,ปลากะพงแดง,X1008
+1476949825282063,N/A,N/A,X1009
+1476949825282064,Bream,ปลาทรายแดง,X1010
+1476949825282065,N/A,N/A,X1011
+1476949825282066,Large Fish Meat,เนื้อปลาชิ้นใหญ่,X1012
+1476949825282067,N/A,N/A,X1013
+1476949825282068,Lemon,มะนาว,X1014
+1476949825282069,N/A,N/A,X1015
+1476949825282070,Mushroom,เห็ด,X1016
+1476949825282071,N/A,N/A,X1017
+1476949825282072,Potato,มันฝรั่ง,X1018
+1476949825282073,N/A,N/A,X1019
+1476949825282074,Raw Meat,เนื้อสด,X1020
+1476949825282075,N/A,N/A,X1021
+1476949825282076,Red Algae,สาหร่ายสีแดง,X1022
+1476949825282077,N/A,N/A,X1023
+1476949825282078,Scallop,หอยเชลล์,X1024
+1476949825282079,N/A,N/A,X1025
+1476949825282080,Strawberry,สตรอว์เบอร์รี่,X1026
+1476949825282081,N/A,N/A,X1027
+1476949825282082,Bush Seed,เมล็ดไม้พุ่ม,X1028
+1476949825282083,N/A,N/A,X1029
+1476949825282084,Cotton Seeds,เมล็ดฝ้าย,X1030
+1476949825282085,N/A,N/A,X1031
+1476949825282086,Lemon Seeds,เมล็ดมะนาว,X1032
+1476949825282087,N/A,N/A,X1033
+1476949825282088,Strawberry Seeds,เมล็ดสตรอว์เบอร์รี่,X1034
+1476949825282089,N/A,N/A,X1035
+1476949825282090,Fish Stew,สตูว์ปลา,X1036
+1476949825282091,N/A,N/A,X1037
+1476949825282092,Fruit Salad,สลัดผลไม้,X1038
+1476949825282093,N/A,N/A,X1039
+1476949825282094,Meat Stew,สตูว์เนื้อ,X1040
+1476949825282095,N/A,N/A,X1041
+1476949825282096,Mixed Vegetables,ผักรวม,X1042
+1476949825282097,N/A,N/A,X1043
+1476949825282098,Mushroom Soup,ซุปเห็ด,X1044
+1476949825282099,N/A,N/A,X1045
+1476949825282100,Seafood Soup,ซุปซีฟู้ด,X1046
+1476949825282101,N/A,N/A,X1047
+1476949825282102,CookBookA,คู่มือทำอาหาร A,X1048
+1476949825282103,N/A,N/A,X1049
+1476949825282104,CookBookB,คู่มือทำอาหาร B,X1050
+1476949825282105,N/A,N/A,X1051
+1476949825282106,CookBookC,คู่มือทำอาหาร C,X1052
+1476949825282107,N/A,N/A,X1053
+1476949825282108,Crude TShirt,เสื้อยืดหยาบๆ,X1054
+1476949825282109,N/A,N/A,X1055
+1476949825282110,Baggy Pants,กางเกงขาใหญ่,X1056
+1476949825282111,N/A,N/A,X1057
+1476949825282112,Zip Shoes,รองเท้าซิป,X1058
+1476949825282113,N/A,N/A,X1059
+1476949825282114,Scrap Armor,เกราะเศษเหล็ก,X1060
+1476949825282115,N/A,N/A,X1061
+1476949825282116,Scrap Helmet,หมวกเศษเหล็ก,X1062
+1476949825282117,N/A,N/A,X1063
+1476949825282118,Tactical Helmet,หมวกยุทธวิธี,X1064
+1476949825282119,N/A,N/A,X1065
+1476949825282120,Leather Armor,เกราะผ้าหนา,X1066
+1476949825282121,N/A,N/A,X1067
+1476949825282122,Combat Armor,เกราะต่อสู้,X1068
+1476949825282123,N/A,N/A,X1069
+1476949825282124,Police Vest,เสื้อเกราะตำรวจ,X1070
+1476949825282125,N/A,N/A,X1071
+1476949825282126,Tactical Vest,เสื้อเกราะยุทธวิธี,X1072
+1476949825282127,N/A,N/A,X1073
+1476949825282128,Army Vest,เสื้อเกราะทหาร,X1074
+1476949825282129,N/A,N/A,X1075
+1476949825282130,Spetznaz Vest,เสื้อเกราะหน่วยรบพิเศษ,X1076
+1476949825282131,N/A,N/A,X1077
+1476949825282132,Football Helmet,หมวกอเมริกันฟุตบอล,X1078
+1476949825282133,N/A,N/A,X1079
+1476949825282134,Motorcycle Helmet,หมวกกันน็อค,X1080
+1476949825282135,N/A,N/A,X1081
+1476949825282136,Police Helmet,หมวกตำรวจ,X1082
+1476949825282137,N/A,N/A,X1083
+1476949825282138,Spetsnaz Helmet,หมวกหน่วยรบพิเศษ,X1084
+1476949825282139,N/A,N/A,X1085
+1476949825282140,Broken Combat Armor,เกราะต่อสู้หมดสภาพ,X1086
+1476949829476352,"Too broken to wear, but can be used as crafting material.",สวมใส่ไม่ได้แล้ว แต่ใช้เป็นวัสดุในการคราฟได้,X1087
+1476949829476353,Broken Football Helmet,หมวกอเมริกันฟุตบอลหมดสภาพ,X1088
+1476949829476354,"Too broken to wear, but can be used as crafting material.",สวมใส่ไม่ได้แล้ว แต่ใช้เป็นวัสดุในการคราฟได้,X1089
+1476949829476355,Broken Police Helmet,หมวกตำรวจหมดสภาพ,X1090
+1476949829476356,"Too broken to wear, but can be used as crafting material.",สวมใส่ไม่ได้แล้ว แต่ใช้เป็นวัสดุในการคราฟได้,X1091
+1476949829476357,Broken Police Vest,เสื้อเกราะตำรวจหมดสภาพ,X1092
+1476949829476358,"Too broken to wear, but can be used as crafting material.",สวมใส่ไม่ได้แล้ว แต่ใช้เป็นวัสดุในการคราฟได้,X1093
+1476949829476359,Broken Army Helmet,หมวกทหารหมดสภาพ,X1094
+1476949829476360,"Too broken to wear, but can be used as crafting material.",สวมใส่ไม่ได้แล้ว แต่ใช้เป็นวัสดุในการคราฟได้,X1095
+1476949829476361,Broken Army Vest,เสื้อเกราะทหารหมดสภาพ,X1096
+1476949829476362,"Too broken to wear, but can be used as crafting material.",สวมใส่ไม่ได้แล้ว แต่ใช้เป็นวัสดุในการคราฟได้,X1097
+1476949829476363,Broken Military Vest,เสื้อเกราะทหารหมดสภาพ,X1098
+1476949829476364,"Too broken to wear, but can be used as crafting material.",สวมใส่ไม่ได้แล้ว แต่ใช้เป็นวัสดุในการคราฟได้,X1099
+1476949829476365,Broken Motorcycle Helmet,หมวกกันน็อคหมดสภาพ,X1100
+1476949829476366,"Too broken to wear, but can be used as crafting material.",สวมใส่ไม่ได้แล้ว แต่ใช้เป็นวัสดุในการคราฟได้,X1101
+1476949829476367,Broken Spetznaz Helmet,หมวกหน่วยรบพิเศษหมดสภาพ,X1102
+1476949829476368,"Too broken to wear, but can be used as crafting material.",สวมใส่ไม่ได้แล้ว แต่ใช้เป็นวัสดุในการคราฟได้,X1103
+1476949829476369,Broken Spetznaz Vest,เสื้อเกราะหน่วยรบพิเศษหมดสภาพ,X1104
+1476949829476370,"Too broken to wear, but can be used as crafting material.",สวมใส่ไม่ได้แล้ว แต่ใช้เป็นวัสดุในการคราฟได้,X1105
+1476949829476371,Shanty Shirt,เสื้อแชนตี้,X1106
+1476949829476372,N/A,N/A,X1107
+1476949829476373,Shanty Pants,กางเกงแชนตี้,X1108
+1476949829476374,N/A,N/A,X1109
+1476949829476375,Shanty Hat,หมวกแชนตี้,X1110
+1476949829476376,N/A,N/A,X1111
+1476949829476377,Shemagh,ผ้าคลุมหน้า,X1112
+1476949829476378,N/A,N/A,X1113
+1476949829476379,Fish Skin Pants,กางเกงหนังปลา,X1114
+1476949829476380,N/A,N/A,X1115
+1476949829476381,Fish Skin Boots,รองเท้าหนังปลา,X1116
+1476949829476382,N/A,N/A,X1117
+1476949829476383,Scrap Metal Pants,กางเกงเศษโลหะ,X1118
+1476949829476384,N/A,N/A,X1119
+1476949829476385,Reinforced Leather Boots,รองเท้าหนังเสริมเหล็ก,X1120
+1476949829476386,N/A,N/A,X1121
+1476949829476387,Crude Shirt,เสื้อหยาบๆ,X1122
+1476949829476388,N/A,N/A,X1123
+1476949829476389,Iron Armor,เกราะเหล็ก,X1124
+1476949829476390,N/A,N/A,X1125
+1476949829476391,Reinforced Armor Pants,กางเกงเกราะเสริมเหล็ก,X1126
+1476949829476392,N/A,N/A,X1127
+1476949829476393,Reinforced Armor,เกราะเสริมเหล็ก,X1128
+1476949829476394,N/A,N/A,X1129
+1476949829476395,Leather Helmet,หมวกผ้าหนา,X1130
+1476949829476396,N/A,N/A,X1131
+1476949829476397,Iron Helmet,หมวกเหล็ก,X1132
+1476949829476398,N/A,N/A,X1133
+1476949829476399,Soft Hat,หมวกบางเบา,X1134
+1476949829476400,N/A,N/A,X1135
+1476949829476401,Vest A,เสื้อเกราะ A,X1136
+1476949829476402,N/A,N/A,X1137
+1476949829476403,Vest B,เสื้อเกราะ B,X1138
+1476949829476404,N/A,N/A,X1139
+1476949829476405,Vest Black,เสื้อเกราะสีดำ,X1140
+1476949829476406,N/A,N/A,X1141
+1476949829476407,Vest C,เสื้อเกราะ C,X1142
+1476949829476408,N/A,N/A,X1143
+1476949829476409,Vest1 Forest,เสื้อเกราะ1 พรางป่า,X1144
+1476949829476410,N/A,N/A,X1145
+1476949829476411,Navy Vest,เสื้อเกราะนาวิก,X1146
+1476949829476412,N/A,N/A,X1147
+1476949829476413,Vest1 Sand,เสื้อเกราะ1 ทะเลทราย,X1148
+1476949829476414,N/A,N/A,X1149
+1476949829476415,Forest Combat Vest,เสื้อเกราะต่อสู้พรางป่า,X1150
+1476949829476416,N/A,N/A,X1151
+1476949829476417,Vest3 Navy,เสื้อเกราะ3 นาวิก,X1152
+1476949829476418,N/A,N/A,X1153
+1476949829476419,Vest3 Sand,เสื้อเกราะ3 ทะเลทราย,X1154
+1476949829476420,N/A,N/A,X1155
+1476949829476421,Iron Armor,เกราะเหล็ก,X1156
+1476949829476422,N/A,N/A,X1157
+1476949829476423,2Layer TShirt B,เสื้อยืด 2 ชั้น B,X1158
+1476949829476424,N/A,N/A,X1159
+1476949829476425,2Layer TShirt E,เสื้อยืด 2 ชั้น E,X1160
+1476949829476426,N/A,N/A,X1161
+1476949829476427,Bandage Boots,รองเท้าบูทผ้าพันแผล,X1162
+1476949829476428,N/A,N/A,X1163
+1476949829476429,Bandana Mouth Black,ผ้าปิดปากสีดำ,X1164
+1476949829476430,N/A,N/A,X1165
+1476949829476431,Bandana Mouth Olive,ผ้าปิดปากสีเขียว,X1166
+1476949829476432,N/A,N/A,X1167
+1476949829476433,Bandana Neck Black,ผ้าพันคอสีดำ,X1168
+1476949829476434,N/A,N/A,X1169
+1476949829476435,Bandana Neck Sand,ผ้าพันคอทะเลทราย,X1170
+1476949829476436,N/A,N/A,X1171
+1476949829476437,Boots D,รองเท้าบูท D,X1172
+1476949829476438,N/A,N/A,X1173
+1476949829476439,Boots Forest,รองเท้าบูทพรางป่า,X1174
+1476949829476440,N/A,N/A,X1175
+1476949829476441,Boots Navy,รองเท้าบูทนาวิก,X1176
+1476949833670656,N/A,N/A,X1177
+1476949833670657,Boots1 A,รองเท้าบูท1 A,X1178
+1476949833670658,N/A,N/A,X1179
+1476949833670659,Boots2 A,รองเท้าบูท2 A,X1180
+1476949833670660,N/A,N/A,X1181
+1476949833670661,Bracer C,เกราะแขน C,X1182
+1476949833670662,N/A,N/A,X1183
+1476949833670663,Bracer,เกราะแขน,X1184
+1476949833670664,N/A,N/A,X1185
+1476949833670665,Breechcloth Pants,กางเกงผ้าขาบาน,X1186
+1476949833670666,N/A,N/A,X1187
+1476949833670667,Camisole A,เสื้อชั้นใน A,X1188
+1476949833670668,N/A,N/A,X1189
+1476949833670669,Camisole B,เสื้อชั้นใน B,X1190
+1476949833670670,N/A,N/A,X1191
+1476949833670671,Camisole D,เสื้อชั้นใน D,X1192
+1476949833670672,N/A,N/A,X1193
+1476949833670673,Camisole,เสื้อชั้นใน,X1194
+1476949833670674,N/A,N/A,X1195
+1476949833670675,Canvas Shoes B,รองเท้าผ้าใบ B,X1196
+1476949833670676,N/A,N/A,X1197
+1476949833670677,Canvas Shoes C,รองเท้าผ้าใบ C,X1198
+1476949833670678,N/A,N/A,X1199
+1476949833670679,Canvas Shoes D,รองเท้าผ้าใบ D,X1200
+1476949833670680,N/A,N/A,X1201
+1476949833670681,Cargo Pants B,กางเกงคาร์โก้ B,X1202
+1476949833670682,N/A,N/A,X1203
+1476949833670683,Cargo Pants C,กางเกงคาร์โก้ C,X1204
+1476949833670684,N/A,N/A,X1205
+1476949833670685,Cargo Shorts A,กางเกงคาร์โก้ขาสั้น A,X1206
+1476949833670686,N/A,N/A,X1207
+1476949833670687,Cargo Shorts B,กางเกงคาร์โก้ขาสั้น B,X1208
+1476949833670688,N/A,N/A,X1209
+1476949833670689,Cargo Shorts C,กางเกงคาร์โก้ขาสั้น C,X1210
+1476949833670690,N/A,N/A,X1211
+1476949833670691,Close collar longsleeves shirt C,เสื้อเชิ้ตแขนยาวคอปิด C,X1212
+1476949833670692,N/A,N/A,X1213
+1476949833670693,Close collar longsleeves shirt D,เสื้อเชิ้ตแขนยาวคอปิด D,X1214
+1476949833670694,N/A,N/A,X1215
+1476949833670695,Close collar short sleeves shirt E,เสื้อเชิ้ตแขนสั้นคอปิด E,X1216
+1476949833670696,N/A,N/A,X1217
+1476949833670697,Corset B,เสื้อคอร์เซ็ต B,X1218
+1476949833670698,N/A,N/A,X1219
+1476949833670699,Corset C,เสื้อคอร์เซ็ต C,X1220
+1476949833670700,N/A,N/A,X1221
+1476949833670701,Fingerless Gloves Black,ถุงมือนิ้วสั้นสีดำ,X1222
+1476949833670702,N/A,N/A,X1223
+1476949833670703,Fingerless Gloves Brown,ถุงมือนิ้วสั้นสีน้ำตาล,X1224
+1476949833670704,N/A,N/A,X1225
+1476949833670705,Flip-flops A,รองเท้าแตะ A,X1226
+1476949833670706,N/A,N/A,X1227
+1476949833670707,Flip-flops C,รองเท้าแตะ C,X1228
+1476949833670708,N/A,N/A,X1229
+1476949833670709,Flip-flops D,รองเท้าแตะ D,X1230
+1476949833670710,N/A,N/A,X1231
+1476949833670711,Gas Mask A,หน้ากากกันแก๊สพิษ A,X1232
+1476949833670712,N/A,N/A,X1233
+1476949833670713,Gas Mask B,หน้ากากกันแก๊สพิษ B,X1234
+1476949833670714,N/A,N/A,X1235
+1476949833670715,Googles A,แว่น A,X1236
+1476949833670716,N/A,N/A,X1237
+1476949833670717,Henley Longsleeve A,เสื้อเชิ้ตแขนยาวเฮนรี่ A,X1238
+1476949833670718,N/A,N/A,X1239
+1476949833670719,Henley Longsleeve B,เสื้อเชิ้ตแขนยาวเฮนรี่ B,X1240
+1476949833670720,N/A,N/A,X1241
+1476949833670721,Henley Longsleeve D,เสื้อเชิ้ตแขนยาวเฮนรี่ D,X1242
+1476949833670722,N/A,N/A,X1243
+1476949833670723,High-heels A,รองเท้าส้นสูง A,X1244
+1476949833670724,N/A,N/A,X1245
+1476949833670725,High-heels B,รองเท้าส้นสูง B,X1246
+1476949833670726,N/A,N/A,X1247
+1476949833670727,High-heels C,รองเท้าส้นสูง C,X1248
+1476949833670728,N/A,N/A,X1249
+1476949833670729,High-heels D,รองเท้าส้นสูง D,X1250
+1476949833670730,N/A,N/A,X1251
+1476949833670731,Jeans B,กางเกงยีนส์ B,X1252
+1476949833670732,N/A,N/A,X1253
+1476949833670733,Jeans C,กางเกงยีนส์ C,X1254
+1476949833670734,N/A,N/A,X1255
+1476949833670735,Jeans E,กางเกงยีนส์ E,X1256
+1476949833670736,N/A,N/A,X1257
+1476949833670737,Jeans Rivets,หมุดยีนส์,X1258
+1476949833670738,N/A,N/A,X1259
+1476949833670739,Knee Boots B,รองเท้าหุ้มข้อ B,X1260
+1476949833670740,N/A,N/A,X1261
+1476949833670741,Knee Boots C,รองเท้าหุ้มข้อ C,X1262
+1476949833670742,N/A,N/A,X1263
+1476949833670743,Knee Boots D,รองเท้าหุ้มข้อ D,X1264
+1476949833670744,N/A,N/A,X1265
+1476949837864960,Leather Jeans,กางเกงยีนส์หนัง,X1266
+1476949837864961,N/A,N/A,X1267
+1476949837864962,Low-rise Shorts B,กางเกงขาสั้นเอวต่ำ B,X1268
+1476949837864963,N/A,N/A,X1269
+1476949837864964,Low-rise Shorts C,กางเกงขาสั้นเอวต่ำ C,X1270
+1476949837864965,N/A,N/A,X1271
+1476949837864966,Low-rise Shorts D,กางเกงขาสั้นเอวต่ำ D,X1272
+1476949837864967,N/A,N/A,X1273
+1476949837864968,Mini Skirt (Red),กระโปรงสั้น (สีแดง),X1274
+1476949837864969,N/A,N/A,X1275
+1476949837864970,Mini Skirt D,กระโปรงสั้น D,X1276
+1476949837864971,N/A,N/A,X1277
+1476949837864972,Moccasins Boots,รองเท้าหนังนิ่ม,X1278
+1476949837864973,N/A,N/A,X1279
+1476949837864974,Open collar longsleeves shirt C,เสื้อเชิ้ตแขนยาวคอเปิด C,X1280
+1476949837864975,N/A,N/A,X1281
+1476949837864976,Open collar longsleeves shirt F,เสื้อเชิ้ตแขนยาวคอเปิด F,X1282
+1476949837864977,N/A,N/A,X1283
+1476949837864978,Open collar longsleeves shirt H,เสื้อเชิ้ตแขนยาวคอเปิด H,X1284
+1476949837864979,N/A,N/A,X1285
+1476949837864980,Open collar longsleeves shirt I,เสื้อเชิ้ตแขนยาวคอเปิด I,X1286
+1476949837864981,N/A,N/A,X1287
+1476949837864982,Tucked-SH Forest,เสื้อจับจีบพรางป่า,X1288
+1476949837864983,N/A,N/A,X1289
+1476949837864984,Tucked-SH Navy,เสื้อจับจีบนาวิก,X1290
+1476949837864985,N/A,N/A,X1291
+1476949837864986,Tucked-SH Sand,เสื้อจับจีบทะเลทราย,X1292
+1476949837864987,N/A,N/A,X1293
+1476949837864988,Pants1 A,กางเกง1 A,X1294
+1476949837864989,N/A,N/A,X1295
+1476949837864990,Pants1 B,กางเกง1 B,X1296
+1476949837864991,N/A,N/A,X1297
+1476949837864992,Pants2 A,กางเกง2 A,X1298
+1476949837864993,N/A,N/A,X1299
+1476949837864994,Pants2 B,กางเกง2 B,X1300
+1476949837864995,N/A,N/A,X1301
+1476949837864996,Patched Pants,กางเกงปุปะ,X1302
+1476949837864997,N/A,N/A,X1303
+1476949837864998,Pencil Skirt A,กระโปรงทรงสอบ A,X1304
+1476949837864999,N/A,N/A,X1305
+1476949837865000,Pencil Skirt D,กระโปรงทรงสอบ D,X1306
+1476949837865001,N/A,N/A,X1307
+1476949837865002,Pencil Skirt E,กระโปรงทรงสอบ E,X1308
+1476949837865003,N/A,N/A,X1309
+1476949837865004,Rocker Jeans,กางเกงยีนส์ชาวร็อค,X1310
+1476949837865005,N/A,N/A,X1311
+1476949837865006,Forest Camouflage Top,เสื้อลายพรางป่า,X1312
+1476949837865007,N/A,N/A,X1313
+1476949837865008,Navy Camouflage Top,เสื้อลายพรางนาวิก,X1314
+1476949837865009,N/A,N/A,X1315
+1476949837865010,Desert Camouflage Top,เสื้อลายพรางทะเลทราย,X1316
+1476949837865011,N/A,N/A,X1317
+1476949837865012,Scrub Pants A,กางเกงสครับ A,X1318
+1476949837865013,N/A,N/A,X1319
+1476949837865014,Scrub Pants B,กางเกงสครับ B,X1320
+1476949837865015,N/A,N/A,X1321
+1476949837865016,Scrub Pants C,กางเกงสครับ C,X1322
+1476949837865017,N/A,N/A,X1323
+1476949837865018,Scrub Pants E,กางเกงสครับ E,X1324
+1476949837865019,N/A,N/A,X1325
+1476949837865020,Shirt B,เสื้อ B,X1326
+1476949837865021,N/A,N/A,X1327
+1476949837865022,Shirt E,เสื้อ E,X1328
+1476949837865023,N/A,N/A,X1329
+1476949837865024,Shirt-Standard Forest,เสื้อพรางป่า,X1330
+1476949837865025,N/A,N/A,X1331
+1476949837865026,Shirt-Standard Navy,เสื้อนาวิก,X1332
+1476949837865027,N/A,N/A,X1333
+1476949837865028,Shirt-Standard Sand,เสื้อทะเลทราย,X1334
+1476949837865029,N/A,N/A,X1335
+1476949837865030,Shirt-Tactical Forest,เสื้อยุทวิธีพรางป่า,X1336
+1476949837865031,N/A,N/A,X1337
+1476949837865032,Shirt-Tactical Navy,เสื้อยุทวิธีนาวิก,X1338
+1476949837865033,N/A,N/A,X1339
+1476949837865034,Shirt-Tactical Sand,เสื้อยุทวิธีทะเลทราย,X1340
+1476949837865035,N/A,N/A,X1341
+1476949837865036,Combat Kneepads,สนับเข่าต่อสู้,X1342
+1476949837865037,N/A,N/A,X1343
+1476949837865038,Ski Mask A,หน้ากากสกี A,X1344
+1476949837865039,N/A,N/A,X1345
+1476949837865040,Ski Mask B,หน้ากากสกี B,X1346
+1476949837865041,N/A,N/A,X1347
+1476949837865042,Skinny Pants C,กางเกงสกินนี่ C,X1348
+1476949837865043,N/A,N/A,X1349
+1476949837865044,Skinny Pants D,กางเกงสกินนี่ D,X1350
+1476949837865045,N/A,N/A,X1351
+1476949837865046,Slacks B,กางเกงสแล็ก B,X1352
+1476949837865047,N/A,N/A,X1353
+1476949837865048,Slacks C,กางเกงสแล็ก C,X1354
+1476949837865049,N/A,N/A,X1355
+1476949842059264,Sleeves Top B,เสื้อแขนยาว B,X1356
+1476949842059265,N/A,N/A,X1357
+1476949842059266,Sleeves Top C,เสื้อแขนยาว C,X1358
+1476949842059267,N/A,N/A,X1359
+1476949842059268,Sleeves Top D,เสื้อแขนยาว D,X1360
+1476949842059269,N/A,N/A,X1361
+1476949842059270,Slip-ons A,รองเท้าหุ้มส้น A,X1362
+1476949842059271,N/A,N/A,X1363
+1476949842059272,Slip-ons B,รองเท้าหุ้มส้น B,X1364
+1476949842059273,N/A,N/A,X1365
+1476949842059274,Slip-ons C,รองเท้าหุ้มส้น C,X1366
+1476949842059275,N/A,N/A,X1367
+1476949842059276,Slit Skirt B,กระโปรงผ่าข้าง B,X1368
+1476949842059277,N/A,N/A,X1369
+1476949842059278,Slit Skirt C,กระโปรงผ่าข้าง C,X1370
+1476949842059279,N/A,N/A,X1371
+1476949842059280,Slit Skirt D,กระโปรงผ่าข้าง D,X1372
+1476949842059281,N/A,N/A,X1373
+1476949842059282,Sneakers B,รองเท้าผ้าใบ B,X1374
+1476949842059283,N/A,N/A,X1375
+1476949842059284,Sneakers C,รองเท้าผ้าใบ C,X1376
+1476949842059285,N/A,N/A,X1377
+1476949842059286,Sneakers D,รองเท้าผ้าใบ D,X1378
+1476949842059287,N/A,N/A,X1379
+1476949842059288,Style 2,สไตล์ 2,X1380
+1476949842059289,N/A,N/A,X1381
+1476949842059290,Style 3,สไตล์ 3,X1382
+1476949842059291,N/A,N/A,X1383
+1476949842059292,Style 5,สไตล์ 5,X1384
+1476949842059293,N/A,N/A,X1385
+1476949842059294,Style 6,สไตล์ 6,X1386
+1476949842059295,N/A,N/A,X1387
+1476949842059296,T-shirt A,เสื้อยืด A,X1388
+1476949842059297,N/A,N/A,X1389
+1476949842059298,T-shirt C,เสื้อยืด C,X1390
+1476949842059299,N/A,N/A,X1391
+1476949842059300,T-shirt D,เสื้อยืด D,X1392
+1476949842059301,N/A,N/A,X1393
+1476949842059302,Tank Top B,เสื้อกล้าม B,X1394
+1476949842059303,N/A,N/A,X1395
+1476949842059304,Tank Top C,เสื้อกล้าม C,X1396
+1476949842059305,N/A,N/A,X1397
+1476949842059306,Tank Top D,เสื้อกล้าม D,X1398
+1476949842059307,N/A,N/A,X1399
+1476949842059308,Tank-Top Black,เสื้อกล้ามสีดำ,X1400
+1476949842059309,N/A,N/A,X1401
+1476949842059310,Tank-Top Coyote,เสื้อกล้ามสีน้ำตาล,X1402
+1476949842059311,N/A,N/A,X1403
+1476949842059312,T-Shirt Black,เสื้อยืดสีดำ,X1404
+1476949842059313,N/A,N/A,X1405
+1476949842059314,T-Shirt Coyote,เสื้อยืดสีน้ำตาล,X1406
+1476949842059315,N/A,N/A,X1407
+1476949842059316,Tucked Pants,กางเกงซับใน,X1408
+1476949842059317,N/A,N/A,X1409
+1476949842059318,V Scrub Shirt A,เสื้อวีสครับ A,X1410
+1476949842059319,N/A,N/A,X1411
+1476949842059320,V Scrub Shirt D,เสื้อวีสครับ D,X1412
+1476949842059321,N/A,N/A,X1413
+1476949842059322,White Gloves C,ถุงมือสีขาว C,X1414
+1476949842059323,N/A,N/A,X1415
+1476949842059324,White Gloves D,ถุงมือสีขาว D,X1416
+1476949842059325,N/A,N/A,X1417
+1476949842059326,Work Gloves A,ถุงมือทำงาน A,X1418
+1476949842059327,N/A,N/A,X1419
+1476949842059328,Work Gloves B,ถุงมือทำงาน B,X1420
+1476949842059329,N/A,N/A,X1421
+1476949842059330,Work Gloves C,ถุงมือทำงาน C,X1422
+1476949842059331,N/A,N/A,X1423
+1476949842059332,Crude Outfit,ชุดหยาบๆ,X1424
+1476949842059333,N/A,N/A,X1425
+1476949842059334,Casual Outfit 1,ชุดลำลอง 1,X1426
+1476949842059335,N/A,N/A,X1427
+18519925153349632,Black Powder Ammo,กระสุนดินปืน,X1428
+1476949846253617,40MM Grenade,ลูกระเบิดขนาด 40 มม.,X1429
+1476949846253618,N/A,N/A,X1430
+1476949846253619,Smokeless Powder,ผงไร้ควัน,X1431
+1476949846253620,Ingredient for modern ammo making,ส่วนผสมในการทำกระสุนสมัยใหม่,X1432
+1476949846253621,Crude Grenade,ระเบิดมือหยาบๆ,X1433
+1476949846253622,N/A,N/A,X1434
+1476949846253623,Molotov,ระเบิดขวด,X1435
+1476949846253624,N/A,N/A,X1436
+1476949846253625,Pistol Ammo,กระสุนปืนพก,X1437
+1476949846253626,N/A,N/A,X1438
+1476949846253627,Rifle Ammo,กระสุนปืนไรเฟิล,X1439
+1476949846253628,N/A,N/A,X1440
+1476949846253629,Shotgun Ammo,กระสุนปืนลูกซอง,X1441
+1476949846253630,N/A,N/A,X1442
+1476949816893521,N/A,N/A,X1443
+18493643648679936,Sulfur,กำมะถัน,X1444
+18494150970720256,Used to make black powder,ใช้ทำดินปืน,X1445
+18494938812006400,Used to make black powder ammunition,ใช้ทำดินปืน,X1446
+18495600417325056,Charcoal,ถ่าน,X1447
+18496111153528832,Cotton,ฝ้าย,X1448
+18734201088524288,Antique Flintlock Pistol,ปืนพกฟลินท์ล็อคโบราณ,X1449
+19802114969059328,Broken Police Helmet,หมวกตำรวจหมดสภาพ,X1450
+19838683960590336,Broken PM,ซากปืน PM,X1451
+20612830269554688,Percussion Pistol,ปืนเพอร์คัสชั่น,X1452
+20615383929602048,Broken Percussion Pistol,ซากปืนเพอร์คัสชั่น,X1453
+20621025645969408,Broken Football Helmet,หมวกอเมริกันฟุตบอลหมดสภาพ,X1454
+20662493668458496,Broken Flintlock Pistol,ซากปืนพกฟลินท์ล็อค,X1455
+20669977741246464,Golden Necklace,สร้อยคอทองคำ,X1456
+20670148701077504,Diamond Ring,แหวนเพชร,X1457
+21074384425336832,Lung Function Booster,ยาเสริมพลังปอด,X1458
+21090289939136512,Orange Coral,ปะการังสีส้ม,X1459
+23339036168388608,Gunpowder,ดินปืน,X1460
+20218687402123264,Black Powder,ดินปืน,X1461
+20204940121972736,Fine Wood Plank,ไม้แปรรูป,X1462
+20172185128509440,Blueprint: Double Shelf,พิมพ์เขียว: ชั้นวางสองชั้น,X1463
+20172250698063872,Blueprint: TV,พิมพ์เขียว: ทีวี,X1464
+20172229290336256,Blueprint: French Sofa,พิมพ์เขียว: โซฟาฝรั่งเศส,X1465
+20172219320475648,Blueprint: Green Leather Couch,พิมพ์เขียว: โซฟาหนังสีเขียว,X1466
+20172212949327872,Blueprint: Single Leather Couch,พิมพ์เขียว: โซฟาหนังเดี่ยว,X1467
+20172194892849152,Blueprint: Vintage Leather Couch,พิมพ์เขียว: โซฟาหนังวินเทจ,X1468
+20172193819107328,Blueprint: Leather Couch 1,พิมพ์เขียว: โซฟาหนัง 1,X1469
+20172192950886400,Blueprint: Armchair,พิมพ์เขียว: เก้าอี้เท้าแขน,X1470
+20172190098759680,Blueprint: Premium Fireplace,พิมพ์เขียว: เตาผิงระดับพรีเมียม,X1471
+20172184293842944,Blueprint: Hanging Clocks,พิมพ์เขียว: นาฬิกาแขวน,X1472
+20172183383678976,Blueprint: Chandelier 2,พิมพ์เขียว: โคมระย้า 2,X1473
+20172179025797120,Blueprint: Collection Cabinet,พิมพ์เขียว: ตู้ของสะสม,X1474
+20172255194357760,Blueprint: Double Bed,พิมพ์เขียว: เตียงคู่,X1475
+20172176978976768,Blueprint: Single Bed,พิมพ์เขียว: เตียงเดี่ยว,X1476
+20172179931766784,Blueprint Double Door Wardrobe,พิมพ์เขียวตู้เสื้อผ้าสองประตู,X1477
+20172182410600448,Blueprint: Chandelier 1,พิมพ์เขียว: โคมระย้า 1,X1478
+20172186101587968,Blueprint: Log Desk,พิมพ์เขียว: โต๊ะไม้ซุง,X1479
+20172187074666496,Blueprint: Console 3,พิมพ์เขียว: คอนโซล 3,X1480
+20172187980636160,Blueprint: Counter,พิมพ์เขียว: เคาน์เตอร์,X1481
+20172189058572288,Blueprint: Fireplace,พิมพ์เขียว: เตาผิง,X1482
+20172190937620480,Blueprint: Leather Chair 1,พิมพ์เขียว: เก้าอี้หนัง 1,X1483
+20172191910699008,Blueprint: Backrest Chair,พิมพ์เขียว: เก้าอี้พนักพิง,X1484
+20459118786355200,Blueprint: Black Leather Chair,พิมพ์เขียว: เก้าอี้หนังสีดำ,X1485
+20459135228026880,Blueprint: Black Leather Couch,พิมพ์เขียว: โซฟาหนังสีดำ,X1486
+20172224626270208,Blueprint: Makeup Table,พิมพ์เขียว: โต๊ะแต่งหน้า,X1487
+20172232943575040,Blueprint Round Glass Table,พิมพ์เขียวโต๊ะกระจกกลม,X1488
+20172242913435648,Blueprint Round Table,พิมพ์เขียวโต๊ะกลม,X1489
+20459090797764608,Blueprint: Cabinet 5,พิมพ์เขียว: ตู้ 5,X1490
+20459092542595072,Blueprint: Cabinet 6,พิมพ์เขียว: ตู้ 6,X1491
+20459093419204608,Blueprint: Cabinet 7,พิมพ์เขียว: ตู้ 7,X1492
+20459094253871104,Blueprint: Cabinet 8,พิมพ์เขียว: ตู้ 8,X1493
+20459095063371776,Blueprint: Cabinet 9,พิมพ์เขียว: ตู้ 9,X1494
+20459105666572288,Blueprint: Cabinet 10,พิมพ์เขียว: ตู้ 10,X1495
+20459111605706752,Blueprint: Cabinet 11,พิมพ์เขียว: ตู้ 11,X1496
+20459136268214272,Blueprint: Chair 5,พิมพ์เขียว: เก้าอี้ 5,X1497
+20459137006411776,Blueprint: Chair 6,พิมพ์เขียว: เก้าอี้ 6,X1498
+20459138851905536,Blueprint: Table 1,พิมพ์เขียว: โต๊ะ 1,X1499
+20459140462518272,Blueprint: Table 2,พิมพ์เขียว: โต๊ะ 2,X1500
+20459115498020864,Blueprint: Wooden Chair 1,พิมพ์เขียว: เก้าอี้ไม้ 1,X1501
+20459122343124992,Blueprint: Wooden Couch 1,พิมพ์เขียว: โซฟาไม้ 1,X1502
+20161845162516480,Exquisite Wooden Shelf,ชั้นวางไม้ประณีต,X1503
+20161923675693056,Fish Statue,รูปปั้นปลา,X1504
+20161927505092608,Hanger,ไม้แขวน,X1505
+20161929212174336,Household Desk Lamp,โคมไฟตั้งโต๊ะทั่วไป,X1506
+20161930084589568,Flashlight,ไฟฉาย,X1507
+20161930994753536,Vanity Mirror,กระจกเงา,X1508
+20162098527838208,Owl Toy,ตุ๊กตานกฮูก,X1509
+20162099370893312,Pan,กระทะ,X1510
+20162100276862976,Oil Painting(Happy Childhood),ภาพสีน้ำมัน (ความสุขในวัยเด็ก),X1511
+20162101115723776,Oil Painting(Birds Singing and Flowers Fragrant),ภาพสีน้ำมัน (นกร้องเพลงและดอกไม้ส่งกลิ่นหอม),X1512
+23434231480287232,Colored Rug,พรมหลากสี,X1513
+20162109466583040,Sand Watch,นาฬิกาทราย,X1514
+20162111379185664,Weighing Scale,ตาชั่ง,X1515
+20162112524230656,Toy 1,ของเล่น 1,X1516
+20162117217656832,Racing Model,โมเดลรถแข่ง,X1517
+20162120002674688,Toy Bear,หมีของเล่น,X1518
+20162122246627328,Wallet,กระเป๋าตัง,X1519
+20161928406867968,Horse Toy,ม้าของเล่น,X1520
+20161931800059904,Neon Cat,ไฟนีออนรูปแมว,X1521
+20162101983944704,Oil Painting(Valley Dusk),ภาพสีน้ำมัน (หุบเขายามพลบค่ำ),X1522
+20162103791689728,Oil Painting(Wilderness Scenery),ภาพสีน้ำมัน (ทิวทัศน์ที่รกร้าง),X1523
+23436392813527040,Record Player Disk 1,แผ่นเสียง 1,X1524
+23436484383571968,Record Player Disk 3,แผ่นเสียง 2,X1525
+23436547063250944,Record Player Disk 2,แผ่นเสียง 3,X1526
+20162104735408128,Algal Rug,พรมสาหร่าย,X1527
+20162106585096192,Red Rug,พรมแดง,X1528
+20162108665470976,Figure Rug,พรมลายดอกไม้,X1529
+20162110376747008,Scales,ตาชั่ง,X1530
+20162097659617280,Neon Route66,ไฟนีออนรูท66,X1531
+20162102856359936,Oil Painting(Landscape Dusk),ภาพสีน้ำมัน (ทิวทัศน์ยามพลบค่ำ),X1532
+20162105645572096,Rug,พรม,X1533
+26941845992341504,Stone Hatchet,ขวานหิน,X1534
+20162096850116608,Neon Guitar,ไฟนีออนรูปกีตาร์,X1535
+27357291417665536,Broken Combat Armor,เกราะต่อสู้หมดสภาพ,X1536
+27397761409519616,Model Train,รถไฟจำลอง,X1537
+27673581495746560,Broken Police Vest,เสื้อเกราะตำรวจหมดสภาพ,X1538
+27674036225409024,Broken Motorcycle Helmet,หมวกกันน็อคหมดสภาพ,X1539
+27674460152102912,Broken Army Vest,เสื้อเกราะทหารหมดสภาพ,X1540
+27675170537177088,Broken Military Vest,เสื้อเกราะทหารหมดสภาพ,X1541
+27680127537610752,Broken Homemade Revolver,ซากปืนพกประดิษฐ์,X1542
+27681108434321408,Broken Double Barrel Shotgun,ซากปืนลูกซองสองลำกล้อง,X1543
+27685791727058944,Broken GP20,ซากปืน GP20,X1544
+27686209580400640,Broken Pump Shotgun,ซากปืนลูกซองปั๊ม,X1545
+27686483518783488,Broken SMG,ซากปืน SMG,X1546
+27686742793879552,Broken Hunting Rifle,ซากปืนไรเฟิลล่าสัตว์,X1547
+27689003762810880,Broken Old Bolt Action Rifle,ซากปืนไรเฟิลเก่า,X1548
+27689298400083968,Broken AK47,ซากปืน AK47,X1549
+27689635357884416,Broken CZ60,ซากปืน CZ60,X1550
+27689618207375360,Broken Grenade Launcher,ซากเครื่องยิงลูกระเบิด,X1551
+27689596132753408,Broken M14,ซากปืน M14,X1552
+27689571331833856,Broken M16,ซากปืน M16,X1553
+31410412900425728,Steak Meal,สเต็ก,X1554
+31410522455646208,Roasted Lemon Bird,นกย่างมะนาว,X1555
+31410514532605952,Mushroom Bird Soup,ซุปเห็ดนก,X1556
+31410507247099904,Salad,สลัด,X1557
+31410499298893824,Seafood Platter,เซ็ตอาหารทะเล,X1558
+31410489400336384,Fish Stew,สตูว์ปลา,X1559
+31410476012118016,Vegetable Soup,ซุปผัก,X1560
+31410467589955584,Crab Cakes,เค้กปู,X1561
+31410458060496896,Baked Fish with Lemon,ปลาอบมะนาว,X1562
+31410450208759808,Strawberry And Lemon Smoothie,สมูทตี้สตรอว์เบอร์รี่มะนาว,X1563
+31410440981291008,Coral Smoothie,สมูทตี้ปะการัง,X1564
+31766593123872768,Steel Ingot,แผ่นเหล็กกล้า,X1565
+31811622979608576,Coffee Bean,เมล็ดกาแฟ,X1566
+31814147241779200,Coffee,กาแฟ,X1567
+32002716946243584,Blueprint: Modern Garden Lamp,พิมพ์เขียว: โคมไฟสวนสมัยใหม่,X1568
+32002727209705472,Blueprint: Modern Lamp Post,พิมพ์เขียว: เสาไฟสมัยใหม่,X1569
+32002741906546688,Blueprint: Modern Wall Lamp,พิมพ์เขียว: โคมไฟติดผนังสมัยใหม่,X1570
+32002844348227584,Blueprint: Chaise Leather Couch,พิมพ์เขียว: เก้าอี้นวม,X1571
+32002699997061120,Blueprint: Modern Floor Lamp,พิมพ์เขียว: โคมไฟตั้งพื้นสมัยใหม่,X1572
+32004283162271744,Blueprint: European Leather Chair,พิมพ์เขียว: เก้าอี้หนังยุโรป,X1573
+32127295479980032,Catamaran Controller,แผงควบคุมเรือคาตามารัน,X1574
+32127304506122240,Catamaran Hull,ลำเรือของเรือคาตามารัน,X1575
+32127314308210688,Catamaran Sail,ใบเรือคาตามารัน,X1576
+32127322256416768,Jetski Controls,แผงควบคุมเจ็ตสกี,X1577
+32127330443698176,Jetski Engine,เครื่องยนต์เจ็ตสกี,X1578
+32127342187749376,Jetski Gas Tank,ถังน้ำมันเจ็ตสกี,X1579
+32127351687847936,Jetski Jet Pump,ปั๊มเจ็ตของเจ็ตสกี,X1580
+32127361280221184,Jetstream Bowrider Console,แผงควบคุมเจ็ตสตรีมบาวไรเดอร์,X1581
+32127371019395072,Jetstream Bowrider Engine,เครื่องยนต์เจ็ตสตรีมบาวไรเดอร์,X1582
+32127379940679680,Jetstream Bowrider Hull,ลำเรือของเจ็ตสตรีมบาวไรเดอร์,X1583
+32127491144261632,Marine Fast Boat Console,แผงควบคุมเรือเร็วนาวิกโยธิน,X1584
+32127501034430464,Marine Fast Boat Engine,เครื่องยนต์เรือเร็วนาวิกโยธิน,X1585
+32127511469858816,Marine Fast Boat Hull,ลำเรือของเรือเร็วนาวิกโยธิน,X1586
+32127521133535232,Motorboat Engine,เครื่องยนต์เรือยนต์,X1587
+32126884643708928,Motorboat Gas Tank,ถังน้ำมันเรือยนต์,X1588
+32126873876930560,Motorboat Propeller,ใบพัดเรือยนต์,X1589
+32412201925844992,Leather,หนังสัตว์,X1590
+32415330494947328,Advanced Parts,ชิ้นส่วนขั้นสูง,X1591
+32414883214368768,Marble,หินอ่อน,X1592
+32415231509372928,Advanced Alloy,โลหะผสมขั้นสูง,X1593
+32415247883935744,Polymer,โพลีเมอร์,X1594
+34844983626842112,50 Cal Ammo,กระสุน 50 คาลิเบอร์,X1595
+35577152362356736,Helicopter Console,แผงควบคุมเฮลิคอปเตอร์,X1596
+35576868605108224,Motorboat Hull,ลำเรือของเรือยนต์,X1597
+35577165175955456,Helicopter Stabilizer,อุปกรณ์ทรงตัวเฮลิคอปเตอร์,X1598
+35577175242285056,Helicopter Engine,เครื่องยนต์เฮลิคอปเตอร์,X1599
+35577288689819648,Helicopter Gas Tank,ถังน้ำมันเฮลิคอปเตอร์,X1600
+35577332730011648,Helicopter Propeller,ใบพัดเฮลิคอปเตอร์,X1601
+35579145063604224,Zippo,ซิปโป้,X1602
+35579061580177408,Cigar,ซิการ์,X1603
+35579081175965696,Expensive Wine,ไวน์ราคาแพง,X1604
+35579094895534080,High-end  Perfume,น้ำหอมระดับไฮเอนด์,X1605
+35579106908020736,High-end Watch,นาฬิการะดับไฮเอนด์,X1606
+35579122678603776,Magazine,นิตยสาร,X1607
+35579132073844736,Mobile Phone,โทรศัพท์มือถือ,X1608
+39612230360997888,Blueprint: Floor Tile (European),พิมพ์เขียว: กระเบื้องปูพื้น (สไตล์ยุโรป),X1609
+39612213726388224,Blueprint: Floor Tile (White Tiles),พิมพ์เขียว: กระเบื้องปูพื้น (สีขาว),X1610
+39612204758966272,Blueprint: Floor Tile (Wooden),พิมพ์เขียว: กระเบื้องปูพื้น (ไม้),X1611
+39612193484677120,Blueprint: Wallpaper (Blue),พิมพ์เขียว: วอลเปเปอร์ (สีน้ำเงิน),X1612
+39612184290762752,Blueprint: Wallpaper (Green),พิมพ์เขียว: วอลเปเปอร์ (สีเขียว),X1613
+39612170835435520,Blueprint: Wallpaper (Yellow),พิมพ์เขียว: วอลเปเปอร์ (สีเหลือง),X1614
+40042586611609600,Underwater Scooter,สกู๊ตเตอร์ใต้น้ำ,X1615
+41006829396312064,Broken Special Force Helmet,หมวกกองกำลังพิเศษหมดสภาพ,X1616
+41007966665064448,Broken Special Force Armor,เกราะกองกำลังพิเศษหมดสภาพ,X1617
+41300802597830656,Candy Bar,ขนมอัดแท่ง,X1618
+41302246021414912,Instant Ramen,บะหมี่กึ่งสำเร็จรูป,X1619
+41302510057046016,Baked Beans,ถั่วอบ,X1620
+41302825112190976,Energy Drink,เครื่องดื่มชูกำลัง,X1621
+41304788033880064,Pudding,พุดดิ้ง,X1622
+42990640700551168,Potato Seed,เมล็ดมันฝรั่ง,X1623
+42997135316054016,Cabbage Seed,เมล็ดกะหล่ำปลี,X1624
+44244864527253504,Iron Mace,กระบองเหล็ก,X1625
+44244937457811456,Iron Sword,ดาบเหล็ก,X1626
+44271064339464192,Scrap Metal Spear,หอกเศษโลหะ,X1627
+44275345864015872,Military Grenade,ระเบิดมือทหาร,X1628
+44291977969680384,Warm Jacket,เสื้อแจ็คเก็ต,X1629
+44560055949344768,Tripple Barrel Pistol,ปืนพก 3 ลำกล้อง,X1630
+45646647313055744,Silver Coins,เหรียญเงิน,X1631
+46820976486793216,Broken Tactical Vest,เสื้อเกราะยุทธวิธีหมดสภาพ,X1632
+51180216441651200,Alcohol,แอลกอฮอล์,X1633
+52822429361782784,DEG 45,ปืน DEG 45,X1634
+52822967184801792,Broken DEG 45,ซากปืน DEG 45,X1635
+52856700965240832,Stun SMG,ปืน SMG สตัน,X1636
+52857545198944256,Broken Stun SMG,ซากปืน SMG สตัน,X1637
+52886179213230080,Scuba Diving Fins,ตีนกบดำน้ำ,X1638
+53020641783726080,Military Backpack,กระเป๋าเป้ทหาร,X1639
+20189215705636864,Claw,กรงเล็บ,X1640
+20459088390234112,Blueprint: Cabinet 4,พิมพ์เขียว: ตู้ 4,X1641
+20172180766433280,Blueprint: Cabinet 3,พิมพ์เขียว: ตู้ 3,X1642
+53931217939603456,Rubber Duck\x0A,เป็ดยาง\x0A,X1643
+54104612024459264,Blueprint: Blue Patterned Chair,พิมพ์เขียว: เก้าอี้ลายสีน้ำเงิน,X1644
+54104626985541632,Blueprint: Concave Cabinet,พิมพ์เขียว: ตู้ทรงโค้ง,X1645
+54104639300018176,Blueprint: Desk,พิมพ์เขียว: โต๊ะ,X1646
+54104651211841536,Blueprint: Plaid Couch,พิมพ์เขียว: โซฟาลายสก๊อต,X1647
+54104661982814208,Blueprint: Red Cloth Sofa,พิมพ์เขียว: โซฟาผ้าสีแดง,X1648
+54104672183361536,Blueprint: Solid Wood Cabinet,พิมพ์เขียว: ตู้ไม้เนื้อแข็ง,X1649
+54104682685898752,Blueprint: Square Table,พิมพ์เขียว: โต๊ะสี่เหลี่ยม,X1650
+54498410552115200,Broken Tactical Helmet,หมวกยุทธวิธีหมดสภาพ,X1651
+56135118091730944,Gummy Ducky,กัมมี่ดั๊คกี้,X1652
+56405263047827456,Silly Cookies,คุกกี้โง่ๆ,X1653
+56422254063349760,Packing Box,กล่องแพ็กของ,X1654
+57693245788758016,Tank-Top E,เสื้อกล้าม E,X1655
+57693308917227520,V Scrub Shirt C,เสื้อวีสครับC,X1656
+57748462577926144,Anime T Shirt,เสื้อยืดอนิเมะ,X1657
+57748707835658240,Anime Tank Top,เสื้อกล้ามอนิเมะ,X1658
+57749257469837312,Lobster Hood,ฮู้ดล็อบสเตอร์,X1659
+57749480409677824,Squirrel Hood,ฮู้ดกระรอก,X1660
+580733886464,English,ไทย,X1661
+580754857984,简体中文,จีน,X1662
+48851363163885568,Français\x0D,ฝรั่งเศษ,X1663
+48851400908427264,Deutsch,เยอรมัน,X1664
+48851430067228672,日本語,ญี่ปุ่น,X1665
+48851450959056896,한국인,เกาหลี,X1666
+48851474392633344,Русский,รัสเซีย,X1667
+48851501106155520,Español,สเปน,X1668
+48851524539731968,Türkçe,ตุรกี,X1669
+208412831744,Mutant Settlement,ชุมชนมนุษย์กลายพันธุ์,X1670
+784060084224,Amuzement Park,สวนสนุก,X1671
+998019919872,Civic Center,ศูนย์ราชการ,X1672
+1522693795840,Twin Rocks,เกาะหินแฝด,X1673
+3620697239552,Dreadville,เดรดวิลล์,X1674
+3827946188800,Faraway Island,เกาะสันโดษ,X1675
+4224869953536,Gas Station,ปั้มน้ำมัน,X1676
+4285658001408,Green Isle,เกาะเขียวขจี,X1677
+4356071976960,Iron Helmet Base,ฐานหมวกเหล็ก,X1678
+4763653468160,Iron Skull Base,ฐานกระโหลกเหล็ก,X1679
+4839612313600,Loner Base,ฐานผู้สันโดษ,X1680
+4958952845312,Machine Factory,โรงงานเครื่องจักร,X1681
+5141879025664,Metal Mine,เหมืองโลหะ,X1682
+5338759655424,Neptune,เนปจูน,X1683
+5450105843712,The Parking Lot,ลานจอดรถ,X1684
+5538567909376,Police Station,สถานีตำรวจ,X1685
+5640468525056,Post Office,ที่ทำการไปรษณีย์,X1686
+5701487259648,Radio Island,เกาะวิทยุ,X1687
+5766809350144,Refinery,โรงกลั่น,X1688
+5828583059456,Small Factory,โรงงานขนาดเล็ก,X1689
+5889987670016,Small Rock Island,เกาะหินเล็ก,X1690
+5965246066688,Stormborn Outpost,ด่านสตอร์มบอร์น,X1691
+6054144339968,Submerged Downtown,เมืองใต้น้ำ,X1692
+6128094113792,The Bridge,สะพาน,X1693
+6185652547584,The Castaway Island,เกาะร้าง,X1694
+6244666404864,The Cliffton Outpost,ด่านคลิฟตัน,X1695
+6335695384576,Ruins Island,เกาะพินาศ,X1696
+6524250320896,Trading Outpost,โป๊ะซื้อขาย,X1697
+6677996728320,Unknown Ruins,ซากเมืองที่ไม่รู้จัก,X1698
+6765741568000,Village,หมู่บ้าน,X1699
+6833504743424,District 43,เขตที่ 43,X1700
+6884767526912,Zion Atoll,ไซออนอะทอล,X1701
+7076451414016,Marauder Base,ฐานจอมก่อวินาศกรรม,X1702
+1242199082156032,Power Plant,โรงไฟฟ้า,X1703
+1242483384664064,Unknown Ruins,ซากเมืองที่ไม่รู้จัก,X1704
+1242578268209152,Mutants Raft,แพมนุษย์กลายพันธุ์,X1705
+1243071048597504,School,โรงเรียน,X1706
+1521852866904064,Warehouse,โกดัง,X1707
+1522021104631808,Ashbond Outpost,ด่านแอชบอนด์,X1708
+1522561540702208,Castle Island,เกาะปราสาท,X1709
+1883015953793024,Radio Telescope Arrays,สถานีกล้องโทรทรรศน์,X1710
+2287595963301888,Frozenland,ดินแดนเยือกแข็ง,X1711
+3073544162918400,Highway Passes,ถนนไฮเวย์,X1712
+3333296319119360,Castle Island,เกาะปราสาท,X1713
+3739887660974080,Apartments,อพาร์ตเมนต์,X1714
+4022897632354304,The Mansion,แมนชั่น,X1715
+4024731008770048,The Ruins Island,เกาะซากหักพัง,X1716
+4026172012240896,Iceberg,ภูเขาน้ำแข็ง,X1717
+4028368036569088,Drowned Downtown,ใจกลางเมือง,X1718
+6629239818829824,Rubber Duck Island,เกาะเป็ดยาง,X1719
+6638092908249088,Rockscape Isle,เกาะร็อคสเคป,X1720
+9598765221036032,Government District,เขตรัฐบาล,X1721
+755640557568,Asia,เอเชีย,X1722
+755661529088,Chinese Mainland,จีนแผ่นดินใหญ่,X1723
+755661529089,Japan,ญี่ปุ่น,X1724
+755661529090,Europe,ยุโรป,X1725
+755661529091,South America,อเมริกาใต้,X1726
+5939716415488,South Korea,เกาหลีใต้,X1727
+6371922665472,"USA, East","USA, ตะวันออก",X1728
+6371926859776,"USA, West","USA, ตะวันตก",X1729
+6925642096640,Best Region,ภูมิภาคที่ดีที่สุด,X1730
+9106973777920,Disconnection Code 0,ตกลง,X1731
+9107003138048,Connection Shutdown by Request.,ตัดการเชื่อมต่อตามคำขอ,X1732
+9107003138049,Disconnection Code 1,รหัสตัดการเชื่อมต่อ 1,X1733
+9107003138050,Disconnection caused by internet problems.,ตัดการเชื่อมต่อเนื่องจากปัญหาอินเทอร์เน็ต,X1734
+9107007332352,Disconnection Code 2,รหัสตัดการเชื่อมต่อ 2,X1735
+9107007332353,Not matching game mode. Please contact the developers.,โหมดเกมไม่ตรงกัน,X1736
+9107007332354,Disconnection Code 3,รหัสตัดการเชื่อมต่อ 3,X1737
+9107007332355,Unable to connect to this server or connection refused by the server.,ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์นี้ หรือการเชื่อมต่อถูกปฏิเสธโดยเซิร์ฟเวอร์,X1738
+9107007332356,Disconnection Code 4,รหัสตัดการเชื่อมต่อ 4,X1739
+9107007332357,Disconnected due to internet errors.,ถูกตัดการเชื่อมต่อ เนื่องจากข้อผิดพลาดทางอินเทอร์เน็ต,X1740
+9107007332358,Server shutdown,เซิร์ฟเวอร์ปิด,X1741
+9107007332359,The server is shutdown.,เซิร์ฟเวอร์ปิด,X1742
+9107007332360,Disconnection Code 6,ไม่พบเกม,X1743
+9107007332361,"Game doesn't exist anymore. But hey, there are many other servers.",ไม่มีเซิร์ฟเวอร์อยู่อีกแล้ว แต่ยังมีเซิร์ฟเวอร์อื่นอยู่นะ,X1744
+9107007332362,Disconnection Code 7,รหัสตัดการเชื่อมต่อ 7,X1745
+9107007332363,"The Region is full, try switching to another region.",ภูมิภาคนี้เต็มแล้ว ลองเปลี่ยนไปภูมิภาคอื่น,X1746
+9107007332364,Disconnection Code 8,รหัสตัดการเชื่อมต่อ 8,X1747
+9107007332365,Server disconnected to an unavailable or non-existent Region,เซิร์ฟเวอร์ถูกตัดการเชื่อมต่อ กับภูมิภาคที่ไม่พร้อมใช้งานหรือไม่มีอยู่,X1748
+9107007332366,Disconnection Code 9,รหัสตัดการเชื่อมต่อ 9,X1749
+9107007332367,Session with the same name was already created,มีเซสชันที่มีชื่อเดียวกันอยู่แล้ว,X1750
+9107007332368,Game is full,คนเต็ม,X1751
+9107007332369,Room has reached the max player number.,ผู้เล่นในห้องเต็มแล้ว,X1752
+9107007332370,Disconnection Code 11,รหัสตัดการเชื่อมต่อ 11,X1753
+9107007332371,Authentication Values are invalid,การเข้ารหัสไม่ถูกต้อง,X1754
+9107007332372,Disconnection Code 12,รหัสตัดการเชื่อมต่อ 12,X1755
+9107007332373,Authentication has failed for some other reason,การเข้ารหัสล้มเหลวด้วยเหตุผลบางอย่าง,X1756
+9107007332374,Disconnection Code 13,รหัสตัดการเชื่อมต่อ 13,X1757
+9107007332375,Raised when the Authentication Ticket has expired,ตั๋วเข้ารหัสหมดอายุ,X1758
+9107007332376,Timeout,หมดเวลา,X1759
+9107007332377,"Connection timeout, please try again.",ขาดการเชื่อมต่อ โปรดลองใหม่อีกครั้ง,X1760
+9107007332378,Disconnection Code 15,รหัสตัดการเชื่อมต่อ 14,X1761
+9107007332379,Game is already running .,เกมถูกเปิดอยู่แล้ว,X1762
+9107007332380,Disconnection Code 16,รหัสตัดการเชื่อมต่อ 15,X1763
+9107007332381,Raised when any of the StartGame arguments does not meet the requirements,เปิดจาการ์กิวเมนต์เริ่มเกมไม่ตรงตามข้อกำหนด,X1764
+9107007332382,Disconnection Code 17,รหัสตัดการเชื่อมต่อ 16,X1765
+9107007332383,The host disconnected or timed out.,เจ้าของห้องตัดการเชื่อมต่อหรือสัญญาณขาดหาย,X1766
+9107007332384,Timeout,หมดเวลา,X1767
+9107007332385,Connection with a remote server failed by timeout,การเชื่อมต่อกับรีโมทเซิร์ฟเวอร์ล้มเหลว เนื่องจากหมดเวลา,X1768
+9107007332386,Disconnection Code 19,รหัสตัดการเชื่อมต่อ 17,X1769
+9107007332387,Connection with a remote server failed because it was refused,การเชื่อมต่อกับรีโมทเซิร์ฟเวอร์ล้มเหลว เนื่องจากถูกปฏิเสธ,X1770
+14261715758567424,Removed From Game,ถูกลบออกจากเกม,X1771
+14261817554325504,You have been removed from the game by the host.,คุณถูกเจ้าของห้องลบออกจากเกม,X1772
+16557340390424576,Wrong Server Password,รหัสผ่านผิด,X1773
+16557425010507776,Please check that you have entered the correct server password.,โปรดใส่รหัสผ่านให้ถูกต้อง,X1774
+28478267392,Set up a base.,ตั้งฐานที่มั่น,X1775
+234234044416,"I find myself on the beach with a pounding headache and no memories except for being tortured in a dark room. Survival is my top priority now, but I have nothing. I'll scour the surroundings for materials to make a shelter and tools. A bed to sleep on and something to satisfy my hunger would be great too.",ฉันโผล่มาอยู่ที่ชายหาด รู้สึกปวดหัวตุบๆ\x0Aและจำอะไรไม่ได้เลยนอกจากตอนโดนทรมานในห้องมืด\x0Aตอนนี้การมีชีวิดรอดคือสิ่งที่ฉันต้องให้ความสำคัญมากที่สุด\x0Aแต่ดันไม่มีอะไรเลยสักอย่างเดียว\x0Aฉันจะหาวัสดุแถวนี้ให้ทั่วทุกซอกทุกมุมเพื่อเอามาสร้างที่พัก\x0Aกับเครื่องมือ แล้วถ้าได้ที่นอนไว้พักเหนื่อยกับของกินสักอย่าง\x0Aไว้ยาไส้ก็คงจะดีใช่ย่อย,X1776
+3197191053312,Craft a {0}.,คราฟ{0},X1777
+270934358351872,Build a {0}.,สร้าง{0},X1778
+375009410277376,Craft a {0}.,คราฟ{0},X1779
+375265875189760,Build a {0}.,สร้าง{0},X1780
+1053104966459392,Eliminate The {0} faction.,กำจัดฝ่าย{0},X1781
+1054915853017088,Eliminate The Marauders.,กำจัดพวกจอมก่อวินาศกรรม,X1782
+1054915853017089,"The Marauders are a notorious band of pirates who specifically target weaker and more vulnerable settlements and vessels. Although they may lack advanced equipment compared to other pirate groups, their sheer numbers and ruthless tactics compensate for this. It is undeniable that eliminating them would greatly benefit the people of Sunkenland.",จอมก่อวินาศกรรมเป็นกลุ่มโจรสลัดทีขึ้นชื่อว่าชอบหมายตาฐานที่อ่อนแอกว่า แม้ว่าพวกมันอาจจะมีเครื่องไม้เครื่องมือน้อยกว่ากลุ่มโจรสลัดอื่นๆ แต่พวกมันชดเชยจุดนั้นด้วยการมีพรรคพวกเยอะ และนิสัยที่ไร้ความปราณี ปฏิเสธไม่ได้ว่าการกำจัดพวกมันจะเป็นประโยชน์อย่างมากต่อผู้คนใน Sunkenland,X1783
+1054915853017090,Eliminate The Skull Crushers,กำจัดพวกจอมบดกระโหลก,X1784
+1054915853017091,"The Skull Crushers, a brutal bandit clan, has seized the sunken downtown area, perching atop submerged skyscrapers. Their threat looms large as they hoard vital resources and launch relentless attacks. It's time to confront and defeat these marauders, ensuring a prosperous future. But beware, they're armed and dangerous.",จอมบดกระโหลกเป็นกลุ่มโจรโหดเหี้ยม ที่ได้ยึดพื้นที่ใจกลางเมืองและอยู่บนยอดตึกระฟ้าที่จมอยู่ใต้น้ำ พวกมันกลายเป็นภัยคุกคามมากขึ้นเมื่อเริ่มสะสมทรัพยากรที่สำคัญ และทำการโจมตีไม่หยุด ถึงเวลาเผชิญหน้าและเอาชนะพวกโจรเหล่านี้ เพื่อสร้างอนาคตที่รุ่งเรือง แต่ก็ต้องระวังอาวุธและความอันตรายของพวกมันด้วย,X1785
+1054915853017092,Eliminate The Scorchers,กำจัดพวกสกอร์เชอร์,X1786
+1054915853017093,"Infiltrate and neutralize the Scorchers, a deadly bandit faction occupying the abandoned nuclear power plant. Armed to the teeth and backed by a mutant army, they pose a grave threat. Prepare for radiation exposure, wear protective gear, and carry anti-rad meds. Take down the Scorchers, claim valuable loot, and restore peace to the region.",แทรกซึมและเอาชนะพวกสกอร์เชอร์ ซึ่งเป็นกลุ่มอาชญากรที่ยึดครองโรงไฟฟ้านิวเคลียร์ที่ถูกทิ้งร้างไว้ พวกมันเป็นภัยคุกคามร้ายแรงด้วยเพราะอาวุธที่แข็งแกร่ง และมีกองทัพมนุษย์กลายพันธุ์เป็นแนวหลัง เตรียมตัวเผชิญกับรังสี สวมอุปกรณ์ป้องกัน และพกยาป้องกันรังสีไว้ให้ดี กำจัดพวกสกอร์เชอร์ ชิงของมีค่า และคืนความสงบสุขให้กับภูมิภาคนี้,X1787
+1058677732663296,Eliminate The {0} faction.,กำจัดฝ่าย {0},X1788
+16944433904238592,A New Chapter,บทใหม่,X1789
+16996100183965696,,65696,X1790
+37901667026878464,"-I need to establish a base\x0A\x0A-The terrain is uneven. Need to build on foundations.\x0A\x0A-I should scavenge underwater ruins for materials.\x0A\x0A-I can hunt large fish for food, but I must be cautious of sharks.\x0A\x0A-Considering the long term, I should cultivate fruits for sustainable food sources.\x0A\x0A-Acquiring weapons is a priority as I must be prepared for potential encounters with pirates.\x0A\x0A-Exploring for blueprints or broken items can lead to crafting better gear.",-ฉันต้องสร้างฐานที่มั่น\x0A\x0A-ภูมิประเทศไม่สม่ำเสมอ ต้องสร้างไว้บนฐาน\x0A\x0A-ฉันควรจะไปรื้อค้นพวกซากปรักหักพังใต้น้ำเพื่อหาวัสดุ\x0A\x0A-ฉันล่าปลาตัวใหญ่เป็นอาหารได้ แต่ก็ต้องระวังพวกฉลาม\x0A\x0A-ถ้าคิดว่าจะอยู่ไปอีกนาน ก็น่าจะปลูกผลไม้ไว้เป็นแหล่งอาหารที่ยั่งยืน\x0A\x0A-อาวุธเป็นสิ่งสำคัญที่ต้องมีไว้เป็นอันดับแรก เพราะอาจต้องเผชิญกับพวกโจรสลัด\x0A\x0A-ถ้ามีพิมพ์เขียวหรือของที่พังแล้ว อาจทำให้คราฟอุปกรณ์ที่ดีขึ้นได้,X1791
+37905277190160384,Here is a list of things I should do:,รายการสิ่งที่ควรทำ,X1792
+6529306624,Toggle,เปิด/ปิด,X1793
+61629878272,Hold,กดค้าง,X1794
+84539166720,Mixed,ผสมกัน,X1795
+52540309504,Game Version Mismatch,เวอร์ชั่นเกมไม่ตรงกัน,X1796
+773444698112,Please make sure that you and your Steam friends have the same game version number.,โปรดตรวจสอบให้แน่ใจว่าเวอร์ชั่นเกมของคุณกับเพื่อนตรงกัน,X1797
+929360240640,Away,ไม่อยู่,X1798
+919071612928,Busy,ไม่ว่าง,X1799
+906333511680,Online,ออนไลน์,X1800
+900637646848,Offline,ออฟไลน์,X1801
+970758021120,Snooze,งีบหลับ,X1802
+977175306240,Looking To Trade,ต้องการซื้อขาย,X1803
+1011124002816,Looking To Play,ต้องการเล่น,X1804
+1037007052800,Invisible,ไม่ระบุ,X1805
+1044149952512,Max,สูงสุด,X1806
+162171539456,Server Console,ควบคุมเซิร์ฟเวอร์,X1807
+67397046272,Kick,เตะ,X1808
+437724729344,Kick,เตะ,X1809
+594830774272,Are you sure to kick this player from the game?,แน่ใจหรือว่าต้องการเตะผู้เล่นคนนี้ออกจากเกม?,X1810
+23711510528,FOV,ขอบเขตการมองเห็น,X1811
+165623619584,Sunkenland,Sunkenland,X1812
+271710150656,Start Game,เริ่มเกม,X1813
+416480747520,Settings,ตั้งค่า,X1814
+527021629440,Quit Game,ออก,X1815
+32245543854080,General,ทั่วไป,X1816
+1611015916609536,Default,ค่าเริ่มต้น,X1817
+1611015933386752,Back,ย้อนกลับ,X1818
+1611015933386753,Done,เสร็จสิ้น,X1819
+1611015933386754,Cancel,ยกเลิก,X1820
+1611015933386755,Key Binding,กำหนดปุ่ม,X1821
+1611015933386756,Graphics,กราฟิก,X1822
+1611015933386757,Controller,คอนโทรลเลอร์,X1823
+1611015933386758,Audio,เสียง,X1824
+1611015933386759,Master Volume,เสียงโดยรวม,X1825
+1611015933386760,Music,เสียงดนตรี,X1826
+1611015933386761,Sound Effects,เสียงเอฟเฟกต์,X1827
+1611015933386762,Input,อินพุต,X1828
+1611015933386763,Mouse Sensitivity,ความไวเม้าส์,X1829
+1611015933386764,Invert Mouse X,กลับด้านเม้าส์แนวนอน,X1830
+1611015933386765,Invert Mouse Y,กลับด้านเม้าส์แนวตั้ง,X1831
+1611015933386766,Controller Input,อินพุตคอนโทรลเลอร์,X1832
+1611015933386767,Left Stick Deadzone,เดดโซนอนาล็อกซ้าย,X1833
+1611015933386768,Right Stick Deadzone,เดดโซนอนาล็อกขวา,X1834
+1611015933386769,Right Stick Sensitivity,ความไวอนาล็อกขวา,X1835
+1611015933386770,Controller Aim Sensitivity,ความไวการเล็งคอนโทรลเลอร์,X1836
+1611015933386771,Voice Chat,แชทเสียง,X1837
+1611015933386772,Enable Voice Chat,เปิดแชทเสียง,X1838
+1611015933386773,Push-To-Talk,กดเพื่อพูด,X1839
+1611015933386774,Voice Chat Volume,ระดับเสียงแชท,X1840
+1611015933386775,Microphone Volume,ระดับเสียงไมค์,X1841
+1611015933386776,Microphone,ไมโครโฟน,X1842
+1611015933386777,Refresh,รีเฟรช,X1843
+1611015933386778,Move Forward,เดินหน้า,X1844
+1611015933386779,Move Backward,ถอยหลัง,X1845
+1611015933386780,Move Left,ไปทางซ้าย,X1846
+1611015933386781,Move Right,ไปทางขวา,X1847
+1611015933386782,Jump,กระโดด,X1848
+1611015933386783,Crouch,ย่อตัว,X1849
+1611015933386784,Sprint,วิ่ง,X1850
+1611015933386785,Fire,ยิง,X1851
+1611015933386786,Aim,เล็ง,X1852
+1611015933386787,Reload,รีโหลด,X1853
+1611015933386788,Inventory,กระเป๋า,X1854
+1611015933386789,Building Menu,เมนูก่อสร้าง,X1855
+1611015933386790,Map Menu,เมนูแผนที่,X1856
+1611015933386791,Light,ไฟส่องสว่าง,X1857
+1611015933386792,Quick Slot 1,ช่องไอเท็มด่วน 1,X1858
+1611015933386793,Quick Slot 2,ช่องไอเท็มด่วน 2,X1859
+1611015933386794,QuickSlot 3,ช่องไอเท็มด่วน 3,X1860
+1611015933386795,QuickSlot 4,ช่องไอเท็มด่วน 4,X1861
+1611015933386796,QuickSlot 5,ช่องไอเท็มด่วน 5,X1862
+1611015933386797,QuickSlot 6,ช่องไอเท็มด่วน 6,X1863
+1611015933386798,Display Settings,ตั้งค่าหน้าจอ,X1864
+1611015933386799,Resolution,ความละเอียด,X1865
+1611015933386800,Fullscreen Mode,โหมดหน้าจอ,X1866
+1611015933386801,Exclusive Fullscreen,เต็มหน้าจอ,X1867
+1611015933386802,Fullscreen Window,หน้าต่างเต็มหน้าจอ,X1868
+1611015933386803,Windowed,หน้าต่าง,X1869
+1611015933386804,On,เปิด,X1870
+1611015933386805,Off,ปิด,X1871
+1611015933386806,V-Sync,V-Sync,X1872
+1611015933386807,Low,ต่ำ,X1873
+1611015933386808,Mid,กลาง,X1874
+1611015933386809,High,สูง,X1875
+1611015933386810,Highest,สูงสุด,X1876
+1611015933386811,Graphic Details,รายละเอียดกราฟิก,X1877
+1611015933386812,Preset,พรีเซ็ต,X1878
+1611015933386813,Shadow Resolution,ความละเอียดเงา,X1879
+1611015933386814,Shadow Quality,คุณภาพเงา,X1880
+1611015933386815,Disabled,ปิดใช้,X1881
+1611015933386816,Hard Shadow,เงาทื่อ,X1882
+1611015933386817,All,ทั้งหมด,X1883
+1611015933386818,Shadow Distance,ระยะเงา,X1884
+1611015933386819,Texture Quality,คุณภาพพื้นผิว,X1885
+1611015933386820,New Character,สร้างตัวละครใหม่,X1886
+1611015933386821,Select Character,เลือกตัวละคร,X1887
+1611015933386822,Start,เริ่ม,X1888
+1611015933386823,Delete Character,ลบตัวละคร,X1889
+1611015933386824,Male,ชาย,X1890
+1611015933386825,Female,หญิง,X1891
+1611015933386826,Face,ใบหน้า,X1892
+1611015933386827,Hair,ทรงผม,X1893
+1611015933386828,Hair Color,สีผม,X1894
+1611015933386829,Name,ชื่อ,X1895
+1611015933386830,NOT A VALID NAME,ชื่อไม่ถูกต้อง,X1896
+1611015933386831,Create Game,เริ่มเกม,X1897
+1611015933386832,Join Game,เข้าร่วมเกม,X1898
+1611015937581056,New World,สร้างใหม่,X1899
+1611015937581057,Delete,ลบ,X1900
+1611015937581058,Host Server,เปิดเซิร์ฟเวอร์,X1901
+1611015937581059,Single Player,เล่นคนเดียว,X1902
+1611015937581060,Server Password,รหัสผ่าน,X1903
+1611015937581061,Enter Text,กรอกข้อความ,X1904
+1611015937581062,Server Region,ภูมิภาคของเซิร์ฟเวอร์,X1905
+1611015937581063,Easy,ง่าย,X1906
+1611015937581064,Normal,ปกติ,X1907
+1611015937581065,Hard,ยาก,X1908
+1611015937581066,Insane,ยากที่สุด,X1909
+1611015937581067,Enemy Difficulty,ความยากของศัตรู,X1910
+1611015937581068,Survival Difficulty,ความยากในการเอาชีวิตรอด,X1911
+1611015937581069,Enemy Raid Frequency,ความถี่การบุกโจมตีของศัตรู,X1912
+1611015937581071,Friendly Fire,การทำร้ายเพื่อน,X1913
+1611015937581072,Share Research,แบ่งปันการวิจัย,X1914
+1611015937581073,Share Map,แบ่งปันแผนที่,X1915
+1611015937581074,World Name,ชื่อโลก,X1916
+1611015937581076,Create World,สร้างโลก,X1917
+1611015937581077,Loading...,"แปลไทยโดย: ว่างๆก็หาเกมมาแปล, ชุ่มฉ่ำการแปล",X1918
+1611015937581078,Inventory,กระเป๋า,X1919
+1611015937581079,Build,ก่อสร้าง,X1920
+1611015937581080,Mission,ภารกิจ,X1921
+1611015937581081,Backpack,กระเป๋า,X1922
+1611015937581082,Loot,ไอเท็ม,X1923
+1611015937581083,Simple Crafting,คราฟอย่างง่าย,X1924
+1611015937581084,Take All,หยิบทั้งหมด,X1925
+1611015937581085,Sort,จัดเรียง,X1926
+1611015937581086,Split,แบ่ง,X1927
+1611015937581087,Antenna not found,ไม่พบเสาอากาศ,X1928
+1611015937581088,No Incomming Transmission,ไม่มีการส่งสัญญาณเข้ามา,X1929
+1611015937581089,Reset,รีเซ็ต,X1930
+1611015937581090,Deal,ซื้อขาย,X1931
+1611015937581091,Trader,คนขาย,X1932
+1611015937581092,You,คุณ,X1933
+1611015937581093,Buy List,รายการซื้อ,X1934
+1611015937581094,Sell List,รายการขาย,X1935
+1611015937581095,How much?,เท่าไหร่?,X1936
+1611015937581096,Min,ต่ำสุด,X1937
+1611015937581097,Max,สูงสุด,X1938
+1611015937581098,OK,ตกลง,X1939
+1611015937581099,Random Respawn,เกิดใหม่,X1940
+1611015937581100,Resume,เล่นต่อ,X1941
+1611015937581101,Options,ตัวเลือก,X1942
+1611015937581102,Save And Logout,เซฟแล้วออก,X1943
+1611015937581103,Research,วิจัย,X1944
+1611015937581104,Improved Research Table,โต๊ะวิจัยรุ่นปรับปรุง,X1945
+1611015937581105,Upgrade,อัปเกรด,X1946
+1611015937581106,Study,เรียนรู้,X1947
+1611015937581107,Crafting,คราฟ,X1948
+1611015937581108,Upgrade,อัปเกรด,X1949
+1611015937581109,Study,เรียนรู้,X1950
+1611015937581110,Bleeding. Apply some bandages,เลือดไหล ควรใช้ผ้าพันแผล,X1951
+1641129568100352,Language,ภาษา,X1952
+1743224581382144,Create Character,สร้างตัวละคร,X1953
+1747993614082048,Skin,สีผิว,X1954
+1942822604234752,Join Server,เข้าร่วมเซิร์ฟเวอร์,X1955
+1943345969487872,Join,เข้าร่วม,X1956
+1943345969487873,Refresh,รีเฟรช,X1957
+2015830022807552,Build,สร้าง,X1958
+2015830043779072,Category,หมวดหมู่,X1959
+2017860833501184,Craft,คราฟ,X1960
+2021010437038080,Turn Off,ปิด,X1961
+1611015937581111,Hungry. Find something to eat,หิว หาอะไรมากินหน่อย,X1962
+1611015937581112,Thirsty. Drink something,คอแห้ง ดื่มอะไรสักหน่อย,X1963
+1611015937581113,Tired. You need to rest,เหนื่อย พักบ้างอะไรบ้าง,X1964
+1611015937581114,Freezing. Stay near fire,หนาวจัด อยู่ใกล้ๆ ไฟไว้,X1965
+1611015937581115,Increased stamina recovery,เพิ่มการฟื้นฟูแรงกาย,X1966
+2080635735760896,Day,วันที่,X1967
+2080635760926720,HP,HP,X1968
+2080635760926721,EN,EN,X1969
+2080635760926722,Torch,คบเพลิง,X1970
+2080635760926723,Reel In,หมุนรอก,X1971
+2080635760926724,Build,สร้าง,X1972
+2080635760926725,Rotate,หมุน,X1973
+2080635760926726,Return,ย้อนกลับ,X1974
+2080635760926727,Quit,ออก,X1975
+2080635760926728,Drag,ลาก,X1976
+2080635760926729,Use,ใช้,X1977
+2080635760926730,Togge Light,เปิด/ปิด ไฟส่องสว่าง,X1978
+2080635760926731,Quit,ออก,X1979
+2080635760926732,Forward,เดินหน้า,X1980
+2080635760926733,Backward,ถอยหลัง,X1981
+49226316857176064,Demolish,รื้อถอน,X1982
+49223388721278976,Descent,บินลง,X1983
+2080635760926738,Sail Up,ชักใบเรือ,X1984
+2080635760926739,Rotate Sail,หมุนใบเรือ,X1985
+2080635760926740,Turn Left,เลี้ยวซ้าย,X1986
+2080635760926741,Turn Right,เลี้ยวขวา,X1987
+49223202951360512,Lift,บินขึ้น,X1988
+2080635760926743,Repair,ซ่อม,X1989
+2080635760926744,Left Mouse: Drag,คลิกซ้าย: ลาก,X1990
+2080635760926745,Scrollwheel: Zoom,ลูกกลิ้งเม้าส์: ซูม,X1991
+2840119198343168,Armor,เกราะ,X1992
+2840119219314688,Inventory,กระเป๋า,X1993
+2840119219314689,Swim Speed,ความเร็วการว่ายน้ำ,X1994
+2840119219314690,Movement Speed,ความเร็วการเคลื่อนที่,X1995
+2840119219314691,Damage,พลังโจมตี,X1996
+2840119219314692,Hunger,ความหิว,X1997
+2840119219314693,Thirst,ความกระหาย,X1998
+2840119219314694,Health,พลังชีวิต,X1999
+2840119219314695,Energy,พลังงาน,X2000
+2840119219314696,Bleeding,เลือดออก,X2001
+2840119219314697,Stamina recovery rate increased,อัตราฟื้นฟูพละกำลังเพิ่มขึ้น,X2002
+21162002794168320,Increased diving time,ดำน้ำได้นานขึ้น,X2003
+24265803686731776,{0}'s World,โลกของ {0},X2004
+30360768270528512,Connect,เชื่อมต่อ,X2005
+30361524792946688,Disconnect,ตัดการเชื่อมต่อ,X2006
+30464606629490688,Install Wire (1 Rubber),ติดตั้งสายไฟ (ยาง 1 เส้น),X2007
+34978377661726720,OK,ตกลง,X2008
+34978377686892544,Create Game,สร้างเกม,X2009
+34978377686892545,Join Game,เข้าร่วมเกม,X2010
+34978377686892546,Server Description,รายละเอียดเซิร์ฟเวอร์,X2011
+34978377686892547,Max Player,จำนวนผู้เล่นสูงสุด,X2012
+34978377691086848,JOIN PLAYER HOSTED SERVERS,ค้นหาเซิร์ฟเวอร์,X2013
+34978377691086849,REFRESH,รีเฟรช,X2014
+34978377691086850,{0} SERVERS FOUND,พบ {0} เซิร์ฟเวอร์,X2015
+34978377691086851,SEARCH SERVER,ค้นหาเซิร์ฟเวอร์,X2016
+34978377691086852,SERVER NAME,ชื่อเซิร์ฟเวอร์,X2017
+34978377691086853,SERVER REGION,ภูมิภาคของเซิร์ฟเวอร์,X2018
+34978377691086854,HIDE WITH PASSWORD,ซ่อนเซิร์ฟเวอร์ที่มีรหัสผ่าน,X2019
+34978377691086855,HIDE FULL,ซ่อนเซิร์ฟเวอร์ที่เต็มแล้ว,X2020
+34978377691086856,APPLY,ใช้,X2021
+34978377691086857,Player,ผู้เล่น,X2022
+34978377691086858,Ping,ปิง,X2023
+34978377691086859,Join,เข้าร่วม,X2024
+34978377691086860,Wrong Password!,รหัสผ่านผิด!,X2025
+36856459478532096,No Server Description,ไม่มีข้อมูลเซิร์ฟเวอร์,X2026
+36988271840296960,Network Error,เกิดข้อผิดพลาดทางเครือข่าย,X2027
+36988271869657088,Back To Main Menu,กลับสู่เมนูหลัก,X2028
+36988271869657089,Reconnect,เชื่อมต่ออีกครั้ง,X2029
+37766130532605952,Refreshing…,กำลังรีเฟรช...,X2030
+38116860510593024,Reconnecting...\x0AThis will take a while...,กำลังเชื่อมต่อใหม่...\x0Aอาจใช้เวลาสักครู่...,X2031
+39786784894185472,MAP,แผนที่,X2032
+39843965844811776,Faction,ฝ่าย,X2033
+44740018399338496,Display,หน้าจอ,X2034
+44864333946019840,HELLO SUNKENLANDER,สวัสดีผู้เล่น SUNKENLAND,X2035
+44864333966991360,"Welcome to the uncharted realm of Sunkenland's Early Access! Currently, the game is in active development, which means you may experience bugs, incomplete features, glitches, and a lack of content, but we will keep the updates coming. Some features or content may also be subject to change or removal as part of the development process.\x0D\x0A\x0D\x0A Thank you for participating in Early Access and shaping this game together with us. We look forward to your constructive feedback in the Steam reviews and forum discussions.\x0D\x0A",• ถ้าเห็นข้อความนี้แสดงว่าม็อดใช้ได้\x0D\x0A\x0D\x0A• ม็อดนี้ต้องโหลดใหม่ทุกครั้งที่เกมมีการอัปเดต\x0D\x0A\x0D\x0A• ถ้าเกมอัปเดตให้รอโหลดใหม่ที่หน้าเว็บเหมือนเดิม\x0D\x0A\x0D\x0A• จะไม่มีการบอกว่าจะอัปเดตเมื่อไหร่ ต้องเช็กเอง,X2036
+44864333966991361,WHAT IS IN THE CURRENT VERSION,ภาษาไทยโดย,X2037
+44864333966991362,- Scavenge/Loot\x0D\x0A- Craft Items\x0D\x0A- Build Bases\x0D\x0A- Defend Base\x0D\x0A- Raid Enemies\x0D\x0A- Melee/Ranged Combat\x0D\x0A- Singleplayer/Online Coop/Invite Steam Friends\x0D\x0A- Drive Boats/Helicopters\x0D\x0A- Experience Basic Character Customization\x0D\x0A- Engage in Basic Trading\x0D,• ว่างๆก็หาเกมมาแปล\x0D\x0A\x0D\x0A• Juicy Translation - ชุ่มฉ่ำการแปล,X2038
+44864647168253952,CONTINUE,ดำเนินการต่อ,X2039
+45512627842936832,Remove Battery,เอาแบตเตอรี่ออก,X2040
+47572974201294848,Optional,ไม่บังคับ,X2041
+47590461785591808,AutoSave,เซฟอัตโนมัติ,X2042
+48040510269415424,Select Save File,เลือกไฟล์เซฟ,X2043
+49211809422340096,UPGRADE,อัปเกรด,X2044
+49214317913927680,BLUEPRINT STUDIED,เรียนรู้พิมพ์เขียวแล้ว,X2045
+49215841067036672,Unlocked New Item:,ปลดล็อกไอเท็มใหม่:,X2046
+49216711414476800,Value,มูลค่า,X2047
+49218255828512768,Shoot,ยิง,X2048
+49234383065804800,NOT UNLOCKED YET,ยังไม่ปลดล็อก,X2049
+50220972014129152,Modify,ปรับแต่ง,X2050
+50220972043489280,None,ไม่มี,X2051
+50220972043489281,Low,ต่ำ,X2052
+50220972043489282,Mid,ปานกลาง,X2053
+50220972043489283,High,สูง,X2054
+50220972043489284,Share Flag,แบ่งปันธง,X2055
+50220972047683584,Random Birth Place (Not Recommended),สุ่มจุดเกิด (ไม่แนะนำ),X2056
+50220972047683585,Respawn Time,ระยะเวลาเกิดใหม่,X2057
+50220972047683586,Invalid,ไม่ถูกต้อง,X2058
+50220972047683587,World Description,คำอธิบาย,X2059
+50220972047683588,Modify World Setting,ประแต่งการตั้งค่าโลก,X2060
+50220972047683590,Save and return to Main Menu?,เซฟและกลับสู่เมนูหลักหรือไม่?,X2061
+50220972056072192,Auto Save,เซฟอัตโนมัติ,X2062
+50246777469489152,Quest Menu,เมนูภารกิจ,X2063
+50673379511857152,SpeedUp,เร่งความเร็ว,X2064
+50848305002803200,Attitude,บังคับทิศทาง,X2065
+50918948308795392,Select Respawn Point.,เลือกจุดเกิดใหม่,X2066
+52308344189214720,Please wait for saving to finish.,โปรดรอจนกว่าจะเซฟสำเร็จ,X2067
+52308344226963456,You must respawn first before logging out.,คุณต้องเกิดใหม่ก่อนออกจากเกม,X2068
+52308344226963457,Invites you to join a game.,เชิญคุณเข้าร่วมเกม,X2069
+52308344226963458,Reject,ปฏิเสธ,X2070
+52308344226963459,Accept,ยอมรับ,X2071
+52308344226963460,Error,เกิดข้อผิดพลาด,X2072
+52308344226963461,Please select a Character first and then accept the friend invitation.,ไปทั้หน้าเลือกตัวละครเพื่อตอบรับคำเชิญ!,X2073
+52308344226963462,You must select a character first!,ต้องเลือกตัวละครก่อน!,X2074
+52308344226963463,INVITE STEAM FRIEND,เชิญเพื่อนใน Steam,X2075
+52341081226862592,No Server Found,ไม่พบเซิร์ฟเวอร์,X2076
+52741610266488832,Invite,เชิญ,X2077
+52741686657347584,Invitation Sent,ส่งคำเชิญแล้ว,X2078
+53477809729892352,Enemy Garrison Amount,จำนวนกองทหารศัตรู,X2079
+53478161338396672,Very High,สูงมาก,X2080
+53763508324593664,Share Spawn Point (Bed),แบ่งปันจุดเกิดใหม่ (เตียง),X2081
+53867435977043968,Enemies,ศัตรู,X2082
+53868154218049536,Islands,เกาะ,X2083
+54058095462596608,WHAT WE WILL ADD LATER,เกมต่อไปที่อาจมีม็อด,X2084
+54058398295539712,"- Polish the existing features\x0A- Optimize the game\x0A- Add more content, such as buildings, items, weapons, maps, factions, etc.\x0A- Introduce Creative mode\x0A- Develop Lore/Stories/Quests\x0A- Enhance Character Customization\x0A- Include more vehicles\x0A- Implement Ocean Combat\x0A-And more will be discussed during development\x0A",ไม่รู้ ไม่รู้ ไม่รู้ ไม่รู้...,X2085
+54174390891855872,Audio,เสียง,X2086
+54176492498206720,Camera Shake,การสั่นหน้าจอ,X2087
+54176700497936384,Aiming Mode,โหมดการเล็ง,X2088
+54182653020618752,Click on the item icon to move it to the Buy or Sell list.,คลิกที่ไอคอนของไอเท็ม เพื่อย้ายมันไปที่รายการซื้อ หรือรายการขาย,X2089
+54753609233481728,DROP,ทิ้ง,X2090
+54795487794446336,Attention!,ประกาศสำคัญ!,X2091
+54795540294549504,"If you last played in v0.1.04 and want to retain your progress, switch to the Olderversion branch now. If you played after the v0.1.10 update (released on Thursday), you're good to go.\x0A\x0A\x0ATo switch to v0.1.04: In the Steam Library, right-click the game, select 'Properties', go to the 'BETAS' tab, and choose 'olderversion0104' from the drop-down menu.\x0AAfter switching, load the game as usual, and place all your inventory items, including the hotbar and equipment, into a storage chest in your base. Then save the game and switch back to the main branch. Please note that blueprints will be affected in any case.\x0A(To switch back, repeat the process and select 'None - opt out of all beta programs'.)\x0A\x0A\x0ALoading saves in this version will erase your inventory and blueprints, but your buildings should remain intact.\x0A\x0A\x0AWe've overhauled the game's core coding to address saving/loading issues, resulting in faster saving and more stable loading. We've also improved world stability (tested with 30k building pieces). Unfortunately, these changes led to save conflicts.",• ถ้าเห็นข้อความนี้แสดงว่าม็อดใช้ได้\x0D\x0A\x0D\x0A• ม็อดนี้ต้องโหลดใหม่ทุกครั้งที่เกมมีการอัปเดต\x0D\x0A\x0D\x0A• ถ้าเกมอัปเดตให้รอโหลดใหม่ที่หน้าเว็บเหมือนเดิม\x0D\x0A\x0D\x0A• จะไม่มีการบอกว่าจะอัปเดตเมื่อไหร่ ต้องเช็กเอง,X2092
+55805379913773056,Delete  World,ลบโลก,X2093
+55805526081073152,Are you sure to delete the selected world?,แน่ใจหรือว่าต้องการลบโลกที่เลือก?,X2094
+56485761920233472,Pack Up,เก็บวัตถุ,X2095
+57002251330080768,Visible to public,เปิดเป็นสาธารณะ,X2096
+57019348482486272,Switch Ore Type,เปลี่ยนแร่,X2097

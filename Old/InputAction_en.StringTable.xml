@@ -21,10 +21,10 @@
 		<m_Metadata type="MetadataCollection">
 			<m_Items type="IMetadata">
 				<Array type="Array">
-					<size type="int" value="0"/>
+					<size type="int" value="1"/>
 					<data type="managedRefArrayItem">
 						<data_0 type="managedRefArrayItem">
-							<rid type="SInt64" value="6258006346130784259"/>
+							<rid type="SInt64" value="6367545751514120194"/>
 						</data_0>
 					</data>
 				</Array>
@@ -32,7 +32,7 @@
 		</m_Metadata>
 		<m_TableData type="TableEntryData">
 			<Array type="Array">
-				<size type="int" value="11"/>
+				<size type="int" value="12"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
 						<m_Id type="SInt64" value="366320386048"/>
@@ -210,6 +210,22 @@
 							</m_Items>
 						</m_Metadata>
 					</data_10>
+					<data_11 type="TableEntryData">
+						<m_Id type="SInt64" value="6166819877244928"/>
+						<m_Localized type="string" value="Quick Slot {index}"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="1"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="6367545751514120194"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_11>
 				</data>
 			</Array>
 		</m_TableData>
@@ -217,10 +233,10 @@
 			<version type="int" value="2"/>
 			<RefIds type="vector">
 				<Array type="Array">
-					<size type="int" value="0"/>
+					<size type="int" value="1"/>
 					<data type="ReferencedObject">
 						<data_0 type="ReferencedObject">
-							<rid type="SInt64" value="6258006346130784259"/>
+							<rid type="SInt64" value="6367545751514120194"/>
 							<type type="ReferencedManagedType">
 								<class type="string" value="SmartFormatTag"/>
 								<ns type="string" value="UnityEngine.Localization.Metadata"/>
@@ -236,6 +252,6 @@
 	</Base>
 	<FooterData>
 <![CDATA[
-01 00 00 00 0B E0 2F 2E 47 3F 05 00 ]]>
+01 00 00 00 00 50 2D A4 B0 E8 15 00 ]]>
 	</FooterData>
 </Structure>

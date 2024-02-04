@@ -24,7 +24,7 @@
 					<size type="int" value="0"/>
 					<data type="managedRefArrayItem">
 						<data_0 type="managedRefArrayItem">
-							<rid type="SInt64" value="995430984455028746"/>
+							<rid type="SInt64" value="6367545751514120194"/>
 						</data_0>
 					</data>
 				</Array>
@@ -32,7 +32,7 @@
 		</m_Metadata>
 		<m_TableData type="TableEntryData">
 			<Array type="Array">
-				<size type="int" value="3"/>
+				<size type="int" value="6"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
 						<m_Id type="SInt64" value="67397046272"/>
@@ -82,6 +82,54 @@
 							</m_Items>
 						</m_Metadata>
 					</data_2>
+					<data_3 type="TableEntryData">
+						<m_Id type="SInt64" value="30798462126645248"/>
+						<m_Localized type="string" value="Ban"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_3>
+					<data_4 type="TableEntryData">
+						<m_Id type="SInt64" value="30798617877929984"/>
+						<m_Localized type="string" value="Permanent Ban"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_4>
+					<data_5 type="TableEntryData">
+						<m_Id type="SInt64" value="30798695850041344"/>
+						<m_Localized type="string" value="Are you sure to ban this player permanent from in this world?"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_5>
 				</data>
 			</Array>
 		</m_TableData>
@@ -92,7 +140,7 @@
 					<size type="int" value="0"/>
 					<data type="ReferencedObject">
 						<data_0 type="ReferencedObject">
-							<rid type="SInt64" value="995430984455028746"/>
+							<rid type="SInt64" value="6367545751514120194"/>
 							<type type="ReferencedManagedType">
 								<class type="string" value="SmartFormatTag"/>
 								<ns type="string" value="UnityEngine.Localization.Metadata"/>
@@ -108,6 +156,6 @@
 	</Base>
 	<FooterData>
 <![CDATA[
-01 00 00 00 00 70 5F A4 C5 BF 2A 00 ]]>
+01 00 00 00 00 50 2D A4 B0 E8 15 00 ]]>
 	</FooterData>
 </Structure>

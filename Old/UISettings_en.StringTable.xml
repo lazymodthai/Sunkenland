@@ -32,7 +32,7 @@
 		</m_Metadata>
 		<m_TableData type="TableEntryData">
 			<Array type="Array">
-				<size type="int" value="5"/>
+				<size type="int" value="8"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
 						<m_Id type="SInt64" value="23711510528"/>
@@ -114,6 +114,54 @@
 							</m_Items>
 						</m_Metadata>
 					</data_4>
+					<data_5 type="TableEntryData">
+						<m_Id type="SInt64" value="7541931247656960"/>
+						<m_Localized type="string" value="Mouse Sensitivity ADS"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_5>
+					<data_6 type="TableEntryData">
+						<m_Id type="SInt64" value="7959927010971648"/>
+						<m_Localized type="string" value="Show Network Status"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_6>
+					<data_7 type="TableEntryData">
+						<m_Id type="SInt64" value="13059187410817024"/>
+						<m_Localized type="string" value="Show Tutorial"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_7>
 				</data>
 			</Array>
 		</m_TableData>

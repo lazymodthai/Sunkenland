@@ -10,21 +10,21 @@
 			<m_FileID type="int" value="0"/>
 			<m_PathID type="SInt64" value="-2378050947708348859"/>
 		</m_Script>
-		<m_Name type="string" value="Quest_en"/>
+		<m_Name type="string" value="WorldSettings_en"/>
 		<m_LocaleId type="LocaleIdentifier">
 			<m_Code type="string" value="en"/>
 		</m_LocaleId>
 		<m_SharedData type="PPtr($SharedTableData)">
 			<m_FileID type="int" value="1"/>
-			<m_PathID type="SInt64" value="8677338501790184922"/>
+			<m_PathID type="SInt64" value="-2194896440700474927"/>
 		</m_SharedData>
 		<m_Metadata type="MetadataCollection">
 			<m_Items type="IMetadata">
 				<Array type="Array">
-					<size type="int" value="1"/>
+					<size type="int" value="0"/>
 					<data type="managedRefArrayItem">
 						<data_0 type="managedRefArrayItem">
-							<rid type="SInt64" value="5369900714451009543"/>
+							<rid type="SInt64" value="6518640764241051659"/>
 						</data_0>
 					</data>
 				</Array>
@@ -32,18 +32,18 @@
 		</m_Metadata>
 		<m_TableData type="TableEntryData">
 			<Array type="Array">
-				<size type="int" value="18"/>
+				<size type="int" value="23"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
-						<m_Id type="SInt64" value="28478267392"/>
-						<m_Localized type="string" value="Set up a base."/>
+						<m_Id type="SInt64" value="1869702225920"/>
+						<m_Localized type="string" value="Easy"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
 									<size type="int" value="0"/>
 									<data type="managedRefArrayItem">
 										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="995430984455028746"/>
+											<rid type="SInt64" value="0"/>
 										</data_0>
 									</data>
 								</Array>
@@ -51,8 +51,8 @@
 						</m_Metadata>
 					</data_0>
 					<data_1 type="TableEntryData">
-						<m_Id type="SInt64" value="234234044416"/>
-						<m_Localized type="string" value="I find myself on the beach with a pounding headache and no memories except for being tortured in a dark room. Survival is my top priority now, but I have nothing. I'll scour the surroundings for materials to make a shelter and tools. A bed to sleep on and something to satisfy my hunger would be great too."/>
+						<m_Id type="SInt64" value="1869739974656"/>
+						<m_Localized type="string" value="Normal"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -67,15 +67,15 @@
 						</m_Metadata>
 					</data_1>
 					<data_2 type="TableEntryData">
-						<m_Id type="SInt64" value="3197191053312"/>
-						<m_Localized type="string" value="Craft a {0}."/>
+						<m_Id type="SInt64" value="1869739974657"/>
+						<m_Localized type="string" value="Hard"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
-									<size type="int" value="1"/>
+									<size type="int" value="0"/>
 									<data type="managedRefArrayItem">
 										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="5369900714451009543"/>
+											<rid type="SInt64" value="0"/>
 										</data_0>
 									</data>
 								</Array>
@@ -83,15 +83,15 @@
 						</m_Metadata>
 					</data_2>
 					<data_3 type="TableEntryData">
-						<m_Id type="SInt64" value="270934358351872"/>
-						<m_Localized type="string" value="Build a {0}."/>
+						<m_Id type="SInt64" value="1869739974658"/>
+						<m_Localized type="string" value="Insane"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
-									<size type="int" value="1"/>
+									<size type="int" value="0"/>
 									<data type="managedRefArrayItem">
 										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="5369900714451009543"/>
+											<rid type="SInt64" value="0"/>
 										</data_0>
 									</data>
 								</Array>
@@ -99,15 +99,15 @@
 						</m_Metadata>
 					</data_3>
 					<data_4 type="TableEntryData">
-						<m_Id type="SInt64" value="375009410277376"/>
-						<m_Localized type="string" value="Craft a {0}."/>
+						<m_Id type="SInt64" value="1869744168960"/>
+						<m_Localized type="string" value="None"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
-									<size type="int" value="1"/>
+									<size type="int" value="0"/>
 									<data type="managedRefArrayItem">
 										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="5369900714451009543"/>
+											<rid type="SInt64" value="0"/>
 										</data_0>
 									</data>
 								</Array>
@@ -115,15 +115,15 @@
 						</m_Metadata>
 					</data_4>
 					<data_5 type="TableEntryData">
-						<m_Id type="SInt64" value="375265875189760"/>
-						<m_Localized type="string" value="Build a {0}."/>
+						<m_Id type="SInt64" value="1869744168961"/>
+						<m_Localized type="string" value="Low"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
-									<size type="int" value="1"/>
+									<size type="int" value="0"/>
 									<data type="managedRefArrayItem">
 										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="5369900714451009543"/>
+											<rid type="SInt64" value="0"/>
 										</data_0>
 									</data>
 								</Array>
@@ -131,15 +131,15 @@
 						</m_Metadata>
 					</data_5>
 					<data_6 type="TableEntryData">
-						<m_Id type="SInt64" value="1053104966459392"/>
-						<m_Localized type="string" value="Eliminate The {0} faction."/>
+						<m_Id type="SInt64" value="1869744168962"/>
+						<m_Localized type="string" value="Mid"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
-									<size type="int" value="1"/>
+									<size type="int" value="0"/>
 									<data type="managedRefArrayItem">
 										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="5369900714451009543"/>
+											<rid type="SInt64" value="0"/>
 										</data_0>
 									</data>
 								</Array>
@@ -147,8 +147,8 @@
 						</m_Metadata>
 					</data_6>
 					<data_7 type="TableEntryData">
-						<m_Id type="SInt64" value="1054915853017088"/>
-						<m_Localized type="string" value="Eliminate The Marauders."/>
+						<m_Id type="SInt64" value="1869744168963"/>
+						<m_Localized type="string" value="High"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -163,8 +163,8 @@
 						</m_Metadata>
 					</data_7>
 					<data_8 type="TableEntryData">
-						<m_Id type="SInt64" value="1054915853017089"/>
-						<m_Localized type="string" value="The Marauders are a notorious band of pirates who specifically target weaker and more vulnerable settlements and vessels. Although they may lack advanced equipment compared to other pirate groups, their sheer numbers and ruthless tactics compensate for this. It is undeniable that eliminating them would greatly benefit the people of Sunkenland."/>
+						<m_Id type="SInt64" value="1869744168964"/>
+						<m_Localized type="string" value="Very High"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -179,8 +179,8 @@
 						</m_Metadata>
 					</data_8>
 					<data_9 type="TableEntryData">
-						<m_Id type="SInt64" value="1054915853017090"/>
-						<m_Localized type="string" value="Eliminate The Skull Crushers"/>
+						<m_Id type="SInt64" value="1869744168965"/>
+						<m_Localized type="string" value="Enemy Difficulty"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -195,8 +195,8 @@
 						</m_Metadata>
 					</data_9>
 					<data_10 type="TableEntryData">
-						<m_Id type="SInt64" value="1054915853017091"/>
-						<m_Localized type="string" value="The Skull Crushers, a brutal bandit clan, has seized the sunken downtown area, perching atop submerged skyscrapers. Their threat looms large as they hoard vital resources and launch relentless attacks. It's time to confront and defeat these marauders, ensuring a prosperous future. But beware, they're armed and dangerous."/>
+						<m_Id type="SInt64" value="1869744168966"/>
+						<m_Localized type="string" value="Survival Difficulty"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -211,8 +211,8 @@
 						</m_Metadata>
 					</data_10>
 					<data_11 type="TableEntryData">
-						<m_Id type="SInt64" value="1054915853017092"/>
-						<m_Localized type="string" value="Eliminate The Scorchers"/>
+						<m_Id type="SInt64" value="1869744168967"/>
+						<m_Localized type="string" value="Enemy Raid Frequency"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -227,8 +227,8 @@
 						</m_Metadata>
 					</data_11>
 					<data_12 type="TableEntryData">
-						<m_Id type="SInt64" value="1054915853017093"/>
-						<m_Localized type="string" value="Infiltrate and neutralize the Scorchers, a deadly bandit faction occupying the abandoned nuclear power plant. Armed to the teeth and backed by a mutant army, they pose a grave threat. Prepare for radiation exposure, wear protective gear, and carry anti-rad meds. Take down the Scorchers, claim valuable loot, and restore peace to the region."/>
+						<m_Id type="SInt64" value="1869744168968"/>
+						<m_Localized type="string" value="Enemy Garrison Amount"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -243,15 +243,15 @@
 						</m_Metadata>
 					</data_12>
 					<data_13 type="TableEntryData">
-						<m_Id type="SInt64" value="1058677732663296"/>
-						<m_Localized type="string" value="Eliminate The {0} faction."/>
+						<m_Id type="SInt64" value="1869744168969"/>
+						<m_Localized type="string" value="Friendly Fire"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
-									<size type="int" value="1"/>
+									<size type="int" value="0"/>
 									<data type="managedRefArrayItem">
 										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="5369900714451009543"/>
+											<rid type="SInt64" value="0"/>
 										</data_0>
 									</data>
 								</Array>
@@ -259,8 +259,8 @@
 						</m_Metadata>
 					</data_13>
 					<data_14 type="TableEntryData">
-						<m_Id type="SInt64" value="16944433904238592"/>
-						<m_Localized type="string" value="A New Chapter"/>
+						<m_Id type="SInt64" value="1869744168970"/>
+						<m_Localized type="string" value="Share Research"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -275,8 +275,8 @@
 						</m_Metadata>
 					</data_14>
 					<data_15 type="TableEntryData">
-						<m_Id type="SInt64" value="16996100183965696"/>
-						<m_Localized type="string" value=""/>
+						<m_Id type="SInt64" value="1869744168971"/>
+						<m_Localized type="string" value="Share Map"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -291,8 +291,8 @@
 						</m_Metadata>
 					</data_15>
 					<data_16 type="TableEntryData">
-						<m_Id type="SInt64" value="37901667026878464"/>
-						<m_Localized type="string" value="-I need to establish a base\x0A\x0A-The terrain is uneven. Need to build on foundations.\x0A\x0A-I should scavenge underwater ruins for materials.\x0A\x0A-I can hunt large fish for food, but I must be cautious of sharks.\x0A\x0A-Considering the long term, I should cultivate fruits for sustainable food sources.\x0A\x0A-Acquiring weapons is a priority as I must be prepared for potential encounters with pirates.\x0A\x0A-Exploring for blueprints or broken items can lead to crafting better gear."/>
+						<m_Id type="SInt64" value="1869744168972"/>
+						<m_Localized type="string" value="Share Flag"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -307,8 +307,8 @@
 						</m_Metadata>
 					</data_16>
 					<data_17 type="TableEntryData">
-						<m_Id type="SInt64" value="37905277190160384"/>
-						<m_Localized type="string" value="Here is a list of things I should do:"/>
+						<m_Id type="SInt64" value="1869744168973"/>
+						<m_Localized type="string" value="Random Birth Place (Not Recommended)"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -322,6 +322,86 @@
 							</m_Items>
 						</m_Metadata>
 					</data_17>
+					<data_18 type="TableEntryData">
+						<m_Id type="SInt64" value="1869744168974"/>
+						<m_Localized type="string" value="Respawn Time"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_18>
+					<data_19 type="TableEntryData">
+						<m_Id type="SInt64" value="1869744168975"/>
+						<m_Localized type="string" value="Share Spawn Point (Bed)"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_19>
+					<data_20 type="TableEntryData">
+						<m_Id type="SInt64" value="3484576374784"/>
+						<m_Localized type="string" value="Loot Respawn Interval In Days"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_20>
+					<data_21 type="TableEntryData">
+						<m_Id type="SInt64" value="370277019017216"/>
+						<m_Localized type="string" value="True"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_21>
+					<data_22 type="TableEntryData">
+						<m_Id type="SInt64" value="370308493074432"/>
+						<m_Localized type="string" value="False"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_22>
 				</data>
 			</Array>
 		</m_TableData>
@@ -329,10 +409,10 @@
 			<version type="int" value="2"/>
 			<RefIds type="vector">
 				<Array type="Array">
-					<size type="int" value="1"/>
+					<size type="int" value="0"/>
 					<data type="ReferencedObject">
 						<data_0 type="ReferencedObject">
-							<rid type="SInt64" value="5369900714451009543"/>
+							<rid type="SInt64" value="6518640764241051659"/>
 							<type type="ReferencedManagedType">
 								<class type="string" value="SmartFormatTag"/>
 								<ns type="string" value="UnityEngine.Localization.Metadata"/>
@@ -348,9 +428,14 @@
 	</Base>
 	<FooterData>
 <![CDATA[
-06 00 00 00 00 E0 6F 67 E8 02 00 00 00 E0 AF AE
-11 55 01 00 00 E0 2F D2 69 F6 00 00 00 E0 2F 65
-4D 55 01 00 00 E0 6F 1B CB BD 03 00 00 E0 2F 9E
-DC C2 03 00 ]]>
+10 00 00 00 00 E0 6F 2A 85 00 00 00 00 70 5F FA
+E9 F6 23 00 00 70 5F 2E 08 F7 23 00 00 70 1F 1C
+E9 C4 24 00 00 70 9F E9 C9 C5 24 00 00 70 9F 6D
+33 C6 24 00 00 70 1F DE 08 D1 24 00 00 70 DF DF
+77 D7 24 00 00 70 5F DF 64 DF 24 00 00 70 DF 0E
+CC F3 24 00 00 70 1F 7F 28 F4 24 00 00 70 9F 78
+FF 34 25 00 00 70 9F 54 8E EE 5F 00 00 70 9F 95
+E0 B7 5D 00 00 70 5F E6 30 DE 61 00 00 E0 57 6B
+98 DB 38 01 ]]>
 	</FooterData>
 </Structure>

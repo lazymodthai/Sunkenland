@@ -32,7 +32,7 @@
 		</m_Metadata>
 		<m_TableData type="TableEntryData">
 			<Array type="Array">
-				<size type="int" value="286"/>
+				<size type="int" value="271"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
 						<m_Id type="SInt64" value="165623619584"/>
@@ -43,7 +43,7 @@
 									<size type="int" value="0"/>
 									<data type="managedRefArrayItem">
 										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
+											<rid type="SInt64" value="995430984455028746"/>
 										</data_0>
 									</data>
 								</Array>
@@ -771,102 +771,6 @@
 						</m_Metadata>
 					</data_45>
 					<data_46 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015933386792"/>
-						<m_Localized type="string" value="Quick Slot 1"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_46>
-					<data_47 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015933386793"/>
-						<m_Localized type="string" value="Quick Slot 2"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_47>
-					<data_48 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015933386794"/>
-						<m_Localized type="string" value="QuickSlot 3"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_48>
-					<data_49 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015933386795"/>
-						<m_Localized type="string" value="QuickSlot 4"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_49>
-					<data_50 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015933386796"/>
-						<m_Localized type="string" value="QuickSlot 5"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_50>
-					<data_51 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015933386797"/>
-						<m_Localized type="string" value="QuickSlot 6"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_51>
-					<data_52 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386798"/>
 						<m_Localized type="string" value="Display Settings"/>
 						<m_Metadata type="MetadataCollection">
@@ -881,8 +785,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_52>
-					<data_53 type="TableEntryData">
+					</data_46>
+					<data_47 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386799"/>
 						<m_Localized type="string" value="Resolution"/>
 						<m_Metadata type="MetadataCollection">
@@ -897,8 +801,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_53>
-					<data_54 type="TableEntryData">
+					</data_47>
+					<data_48 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386800"/>
 						<m_Localized type="string" value="Fullscreen Mode"/>
 						<m_Metadata type="MetadataCollection">
@@ -913,8 +817,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_54>
-					<data_55 type="TableEntryData">
+					</data_48>
+					<data_49 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386801"/>
 						<m_Localized type="string" value="Exclusive Fullscreen"/>
 						<m_Metadata type="MetadataCollection">
@@ -929,8 +833,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_55>
-					<data_56 type="TableEntryData">
+					</data_49>
+					<data_50 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386802"/>
 						<m_Localized type="string" value="Fullscreen Window"/>
 						<m_Metadata type="MetadataCollection">
@@ -945,8 +849,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_56>
-					<data_57 type="TableEntryData">
+					</data_50>
+					<data_51 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386803"/>
 						<m_Localized type="string" value="Windowed"/>
 						<m_Metadata type="MetadataCollection">
@@ -961,8 +865,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_57>
-					<data_58 type="TableEntryData">
+					</data_51>
+					<data_52 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386804"/>
 						<m_Localized type="string" value="On"/>
 						<m_Metadata type="MetadataCollection">
@@ -977,8 +881,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_58>
-					<data_59 type="TableEntryData">
+					</data_52>
+					<data_53 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386805"/>
 						<m_Localized type="string" value="Off"/>
 						<m_Metadata type="MetadataCollection">
@@ -993,8 +897,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_59>
-					<data_60 type="TableEntryData">
+					</data_53>
+					<data_54 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386806"/>
 						<m_Localized type="string" value="V-Sync"/>
 						<m_Metadata type="MetadataCollection">
@@ -1009,8 +913,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_60>
-					<data_61 type="TableEntryData">
+					</data_54>
+					<data_55 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386807"/>
 						<m_Localized type="string" value="Low"/>
 						<m_Metadata type="MetadataCollection">
@@ -1025,8 +929,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_61>
-					<data_62 type="TableEntryData">
+					</data_55>
+					<data_56 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386808"/>
 						<m_Localized type="string" value="Mid"/>
 						<m_Metadata type="MetadataCollection">
@@ -1041,8 +945,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_62>
-					<data_63 type="TableEntryData">
+					</data_56>
+					<data_57 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386809"/>
 						<m_Localized type="string" value="High"/>
 						<m_Metadata type="MetadataCollection">
@@ -1057,8 +961,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_63>
-					<data_64 type="TableEntryData">
+					</data_57>
+					<data_58 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386810"/>
 						<m_Localized type="string" value="Highest"/>
 						<m_Metadata type="MetadataCollection">
@@ -1073,8 +977,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_64>
-					<data_65 type="TableEntryData">
+					</data_58>
+					<data_59 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386811"/>
 						<m_Localized type="string" value="Graphic Details"/>
 						<m_Metadata type="MetadataCollection">
@@ -1089,8 +993,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_65>
-					<data_66 type="TableEntryData">
+					</data_59>
+					<data_60 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386812"/>
 						<m_Localized type="string" value="Preset"/>
 						<m_Metadata type="MetadataCollection">
@@ -1105,8 +1009,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_66>
-					<data_67 type="TableEntryData">
+					</data_60>
+					<data_61 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386813"/>
 						<m_Localized type="string" value="Shadow Resolution"/>
 						<m_Metadata type="MetadataCollection">
@@ -1121,8 +1025,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_67>
-					<data_68 type="TableEntryData">
+					</data_61>
+					<data_62 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386814"/>
 						<m_Localized type="string" value="Shadow Quality"/>
 						<m_Metadata type="MetadataCollection">
@@ -1137,8 +1041,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_68>
-					<data_69 type="TableEntryData">
+					</data_62>
+					<data_63 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386815"/>
 						<m_Localized type="string" value="Disabled"/>
 						<m_Metadata type="MetadataCollection">
@@ -1153,8 +1057,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_69>
-					<data_70 type="TableEntryData">
+					</data_63>
+					<data_64 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386816"/>
 						<m_Localized type="string" value="Hard Shadow"/>
 						<m_Metadata type="MetadataCollection">
@@ -1169,8 +1073,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_70>
-					<data_71 type="TableEntryData">
+					</data_64>
+					<data_65 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386817"/>
 						<m_Localized type="string" value="All"/>
 						<m_Metadata type="MetadataCollection">
@@ -1185,8 +1089,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_71>
-					<data_72 type="TableEntryData">
+					</data_65>
+					<data_66 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386818"/>
 						<m_Localized type="string" value="Shadow Distance"/>
 						<m_Metadata type="MetadataCollection">
@@ -1201,8 +1105,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_72>
-					<data_73 type="TableEntryData">
+					</data_66>
+					<data_67 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386819"/>
 						<m_Localized type="string" value="Texture Quality"/>
 						<m_Metadata type="MetadataCollection">
@@ -1217,8 +1121,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_73>
-					<data_74 type="TableEntryData">
+					</data_67>
+					<data_68 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386820"/>
 						<m_Localized type="string" value="New Character"/>
 						<m_Metadata type="MetadataCollection">
@@ -1233,8 +1137,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_74>
-					<data_75 type="TableEntryData">
+					</data_68>
+					<data_69 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386821"/>
 						<m_Localized type="string" value="Select Character"/>
 						<m_Metadata type="MetadataCollection">
@@ -1249,8 +1153,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_75>
-					<data_76 type="TableEntryData">
+					</data_69>
+					<data_70 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386822"/>
 						<m_Localized type="string" value="Start"/>
 						<m_Metadata type="MetadataCollection">
@@ -1265,8 +1169,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_76>
-					<data_77 type="TableEntryData">
+					</data_70>
+					<data_71 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386823"/>
 						<m_Localized type="string" value="Delete Character"/>
 						<m_Metadata type="MetadataCollection">
@@ -1281,8 +1185,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_77>
-					<data_78 type="TableEntryData">
+					</data_71>
+					<data_72 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386824"/>
 						<m_Localized type="string" value="Male"/>
 						<m_Metadata type="MetadataCollection">
@@ -1297,8 +1201,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_78>
-					<data_79 type="TableEntryData">
+					</data_72>
+					<data_73 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386825"/>
 						<m_Localized type="string" value="Female"/>
 						<m_Metadata type="MetadataCollection">
@@ -1313,8 +1217,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_79>
-					<data_80 type="TableEntryData">
+					</data_73>
+					<data_74 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386826"/>
 						<m_Localized type="string" value="Face"/>
 						<m_Metadata type="MetadataCollection">
@@ -1329,8 +1233,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_80>
-					<data_81 type="TableEntryData">
+					</data_74>
+					<data_75 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386827"/>
 						<m_Localized type="string" value="Hair"/>
 						<m_Metadata type="MetadataCollection">
@@ -1345,8 +1249,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_81>
-					<data_82 type="TableEntryData">
+					</data_75>
+					<data_76 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386828"/>
 						<m_Localized type="string" value="Hair Color"/>
 						<m_Metadata type="MetadataCollection">
@@ -1361,8 +1265,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_82>
-					<data_83 type="TableEntryData">
+					</data_76>
+					<data_77 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386829"/>
 						<m_Localized type="string" value="Name"/>
 						<m_Metadata type="MetadataCollection">
@@ -1377,8 +1281,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_83>
-					<data_84 type="TableEntryData">
+					</data_77>
+					<data_78 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386830"/>
 						<m_Localized type="string" value="NOT A VALID NAME"/>
 						<m_Metadata type="MetadataCollection">
@@ -1393,10 +1297,10 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_84>
-					<data_85 type="TableEntryData">
+					</data_78>
+					<data_79 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015933386831"/>
-						<m_Localized type="string" value="Create Game"/>
+						<m_Localized type="string" value="Start Game"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -1409,24 +1313,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_85>
-					<data_86 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015933386832"/>
-						<m_Localized type="string" value="Join Game"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_86>
-					<data_87 type="TableEntryData">
+					</data_79>
+					<data_80 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581056"/>
 						<m_Localized type="string" value="New World"/>
 						<m_Metadata type="MetadataCollection">
@@ -1441,8 +1329,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_87>
-					<data_88 type="TableEntryData">
+					</data_80>
+					<data_81 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581057"/>
 						<m_Localized type="string" value="Delete"/>
 						<m_Metadata type="MetadataCollection">
@@ -1457,8 +1345,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_88>
-					<data_89 type="TableEntryData">
+					</data_81>
+					<data_82 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581058"/>
 						<m_Localized type="string" value="Host Server"/>
 						<m_Metadata type="MetadataCollection">
@@ -1473,8 +1361,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_89>
-					<data_90 type="TableEntryData">
+					</data_82>
+					<data_83 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581059"/>
 						<m_Localized type="string" value="Single Player"/>
 						<m_Metadata type="MetadataCollection">
@@ -1489,8 +1377,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_90>
-					<data_91 type="TableEntryData">
+					</data_83>
+					<data_84 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581060"/>
 						<m_Localized type="string" value="Server Password"/>
 						<m_Metadata type="MetadataCollection">
@@ -1505,8 +1393,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_91>
-					<data_92 type="TableEntryData">
+					</data_84>
+					<data_85 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581061"/>
 						<m_Localized type="string" value="Enter Text"/>
 						<m_Metadata type="MetadataCollection">
@@ -1521,8 +1409,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_92>
-					<data_93 type="TableEntryData">
+					</data_85>
+					<data_86 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581062"/>
 						<m_Localized type="string" value="Server Region"/>
 						<m_Metadata type="MetadataCollection">
@@ -1537,168 +1425,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_93>
-					<data_94 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015937581063"/>
-						<m_Localized type="string" value="Easy"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_94>
-					<data_95 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015937581064"/>
-						<m_Localized type="string" value="Normal"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_95>
-					<data_96 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015937581065"/>
-						<m_Localized type="string" value="Hard"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_96>
-					<data_97 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015937581066"/>
-						<m_Localized type="string" value="Insane"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_97>
-					<data_98 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015937581067"/>
-						<m_Localized type="string" value="Enemy Difficulty"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_98>
-					<data_99 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015937581068"/>
-						<m_Localized type="string" value="Survival Difficulty"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_99>
-					<data_100 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015937581069"/>
-						<m_Localized type="string" value="Enemy Raid Frequency"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_100>
-					<data_101 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015937581071"/>
-						<m_Localized type="string" value="Friendly Fire"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_101>
-					<data_102 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015937581072"/>
-						<m_Localized type="string" value="Share Research"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_102>
-					<data_103 type="TableEntryData">
-						<m_Id type="SInt64" value="1611015937581073"/>
-						<m_Localized type="string" value="Share Map"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_103>
-					<data_104 type="TableEntryData">
+					</data_86>
+					<data_87 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581074"/>
 						<m_Localized type="string" value="World Name"/>
 						<m_Metadata type="MetadataCollection">
@@ -1713,8 +1441,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_104>
-					<data_105 type="TableEntryData">
+					</data_87>
+					<data_88 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581076"/>
 						<m_Localized type="string" value="Create World"/>
 						<m_Metadata type="MetadataCollection">
@@ -1729,8 +1457,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_105>
-					<data_106 type="TableEntryData">
+					</data_88>
+					<data_89 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581077"/>
 						<m_Localized type="string" value="Loading..."/>
 						<m_Metadata type="MetadataCollection">
@@ -1745,8 +1473,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_106>
-					<data_107 type="TableEntryData">
+					</data_89>
+					<data_90 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581078"/>
 						<m_Localized type="string" value="Inventory"/>
 						<m_Metadata type="MetadataCollection">
@@ -1761,8 +1489,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_107>
-					<data_108 type="TableEntryData">
+					</data_90>
+					<data_91 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581079"/>
 						<m_Localized type="string" value="Build"/>
 						<m_Metadata type="MetadataCollection">
@@ -1777,8 +1505,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_108>
-					<data_109 type="TableEntryData">
+					</data_91>
+					<data_92 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581080"/>
 						<m_Localized type="string" value="Mission"/>
 						<m_Metadata type="MetadataCollection">
@@ -1793,8 +1521,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_109>
-					<data_110 type="TableEntryData">
+					</data_92>
+					<data_93 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581081"/>
 						<m_Localized type="string" value="Backpack"/>
 						<m_Metadata type="MetadataCollection">
@@ -1809,8 +1537,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_110>
-					<data_111 type="TableEntryData">
+					</data_93>
+					<data_94 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581082"/>
 						<m_Localized type="string" value="Loot"/>
 						<m_Metadata type="MetadataCollection">
@@ -1825,8 +1553,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_111>
-					<data_112 type="TableEntryData">
+					</data_94>
+					<data_95 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581083"/>
 						<m_Localized type="string" value="Simple Crafting"/>
 						<m_Metadata type="MetadataCollection">
@@ -1841,8 +1569,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_112>
-					<data_113 type="TableEntryData">
+					</data_95>
+					<data_96 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581084"/>
 						<m_Localized type="string" value="Take All (E)"/>
 						<m_Metadata type="MetadataCollection">
@@ -1857,8 +1585,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_113>
-					<data_114 type="TableEntryData">
+					</data_96>
+					<data_97 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581085"/>
 						<m_Localized type="string" value="Sort"/>
 						<m_Metadata type="MetadataCollection">
@@ -1873,8 +1601,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_114>
-					<data_115 type="TableEntryData">
+					</data_97>
+					<data_98 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581086"/>
 						<m_Localized type="string" value="Split"/>
 						<m_Metadata type="MetadataCollection">
@@ -1889,8 +1617,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_115>
-					<data_116 type="TableEntryData">
+					</data_98>
+					<data_99 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581087"/>
 						<m_Localized type="string" value="Antenna not found"/>
 						<m_Metadata type="MetadataCollection">
@@ -1905,8 +1633,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_116>
-					<data_117 type="TableEntryData">
+					</data_99>
+					<data_100 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581088"/>
 						<m_Localized type="string" value="No Incomming Transmission"/>
 						<m_Metadata type="MetadataCollection">
@@ -1921,8 +1649,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_117>
-					<data_118 type="TableEntryData">
+					</data_100>
+					<data_101 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581089"/>
 						<m_Localized type="string" value="Reset"/>
 						<m_Metadata type="MetadataCollection">
@@ -1937,8 +1665,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_118>
-					<data_119 type="TableEntryData">
+					</data_101>
+					<data_102 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581090"/>
 						<m_Localized type="string" value="Deal"/>
 						<m_Metadata type="MetadataCollection">
@@ -1953,8 +1681,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_119>
-					<data_120 type="TableEntryData">
+					</data_102>
+					<data_103 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581091"/>
 						<m_Localized type="string" value="Trader"/>
 						<m_Metadata type="MetadataCollection">
@@ -1969,8 +1697,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_120>
-					<data_121 type="TableEntryData">
+					</data_103>
+					<data_104 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581092"/>
 						<m_Localized type="string" value="You"/>
 						<m_Metadata type="MetadataCollection">
@@ -1985,8 +1713,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_121>
-					<data_122 type="TableEntryData">
+					</data_104>
+					<data_105 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581093"/>
 						<m_Localized type="string" value="Buy List"/>
 						<m_Metadata type="MetadataCollection">
@@ -2001,8 +1729,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_122>
-					<data_123 type="TableEntryData">
+					</data_105>
+					<data_106 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581094"/>
 						<m_Localized type="string" value="Sell List"/>
 						<m_Metadata type="MetadataCollection">
@@ -2017,8 +1745,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_123>
-					<data_124 type="TableEntryData">
+					</data_106>
+					<data_107 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581095"/>
 						<m_Localized type="string" value="How much?"/>
 						<m_Metadata type="MetadataCollection">
@@ -2033,8 +1761,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_124>
-					<data_125 type="TableEntryData">
+					</data_107>
+					<data_108 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581096"/>
 						<m_Localized type="string" value="Min"/>
 						<m_Metadata type="MetadataCollection">
@@ -2049,8 +1777,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_125>
-					<data_126 type="TableEntryData">
+					</data_108>
+					<data_109 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581097"/>
 						<m_Localized type="string" value="Max"/>
 						<m_Metadata type="MetadataCollection">
@@ -2065,8 +1793,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_126>
-					<data_127 type="TableEntryData">
+					</data_109>
+					<data_110 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581098"/>
 						<m_Localized type="string" value="OK"/>
 						<m_Metadata type="MetadataCollection">
@@ -2081,8 +1809,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_127>
-					<data_128 type="TableEntryData">
+					</data_110>
+					<data_111 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581099"/>
 						<m_Localized type="string" value="Random Respawn"/>
 						<m_Metadata type="MetadataCollection">
@@ -2097,8 +1825,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_128>
-					<data_129 type="TableEntryData">
+					</data_111>
+					<data_112 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581100"/>
 						<m_Localized type="string" value="Resume"/>
 						<m_Metadata type="MetadataCollection">
@@ -2113,8 +1841,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_129>
-					<data_130 type="TableEntryData">
+					</data_112>
+					<data_113 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581101"/>
 						<m_Localized type="string" value="Options"/>
 						<m_Metadata type="MetadataCollection">
@@ -2129,8 +1857,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_130>
-					<data_131 type="TableEntryData">
+					</data_113>
+					<data_114 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581102"/>
 						<m_Localized type="string" value="Save And Logout"/>
 						<m_Metadata type="MetadataCollection">
@@ -2145,8 +1873,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_131>
-					<data_132 type="TableEntryData">
+					</data_114>
+					<data_115 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581103"/>
 						<m_Localized type="string" value="Research"/>
 						<m_Metadata type="MetadataCollection">
@@ -2161,8 +1889,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_132>
-					<data_133 type="TableEntryData">
+					</data_115>
+					<data_116 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581104"/>
 						<m_Localized type="string" value="Improved Research Table"/>
 						<m_Metadata type="MetadataCollection">
@@ -2177,8 +1905,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_133>
-					<data_134 type="TableEntryData">
+					</data_116>
+					<data_117 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581105"/>
 						<m_Localized type="string" value="Upgrade"/>
 						<m_Metadata type="MetadataCollection">
@@ -2193,8 +1921,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_134>
-					<data_135 type="TableEntryData">
+					</data_117>
+					<data_118 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581106"/>
 						<m_Localized type="string" value="Study"/>
 						<m_Metadata type="MetadataCollection">
@@ -2209,8 +1937,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_135>
-					<data_136 type="TableEntryData">
+					</data_118>
+					<data_119 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581107"/>
 						<m_Localized type="string" value="Crafting"/>
 						<m_Metadata type="MetadataCollection">
@@ -2225,8 +1953,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_136>
-					<data_137 type="TableEntryData">
+					</data_119>
+					<data_120 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581108"/>
 						<m_Localized type="string" value="Upgrade"/>
 						<m_Metadata type="MetadataCollection">
@@ -2241,8 +1969,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_137>
-					<data_138 type="TableEntryData">
+					</data_120>
+					<data_121 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581109"/>
 						<m_Localized type="string" value="Study"/>
 						<m_Metadata type="MetadataCollection">
@@ -2257,8 +1985,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_138>
-					<data_139 type="TableEntryData">
+					</data_121>
+					<data_122 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581110"/>
 						<m_Localized type="string" value="Bleeding. Apply some bandages"/>
 						<m_Metadata type="MetadataCollection">
@@ -2273,8 +2001,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_139>
-					<data_140 type="TableEntryData">
+					</data_122>
+					<data_123 type="TableEntryData">
 						<m_Id type="SInt64" value="1641129568100352"/>
 						<m_Localized type="string" value="Language"/>
 						<m_Metadata type="MetadataCollection">
@@ -2289,8 +2017,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_140>
-					<data_141 type="TableEntryData">
+					</data_123>
+					<data_124 type="TableEntryData">
 						<m_Id type="SInt64" value="1743224581382144"/>
 						<m_Localized type="string" value="Create Character"/>
 						<m_Metadata type="MetadataCollection">
@@ -2305,8 +2033,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_141>
-					<data_142 type="TableEntryData">
+					</data_124>
+					<data_125 type="TableEntryData">
 						<m_Id type="SInt64" value="1747993614082048"/>
 						<m_Localized type="string" value="Skin"/>
 						<m_Metadata type="MetadataCollection">
@@ -2321,40 +2049,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_142>
-					<data_143 type="TableEntryData">
-						<m_Id type="SInt64" value="1942822604234752"/>
-						<m_Localized type="string" value="Join Server"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_143>
-					<data_144 type="TableEntryData">
-						<m_Id type="SInt64" value="1943345969487872"/>
-						<m_Localized type="string" value="Join"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_144>
-					<data_145 type="TableEntryData">
+					</data_125>
+					<data_126 type="TableEntryData">
 						<m_Id type="SInt64" value="1943345969487873"/>
 						<m_Localized type="string" value="Refresh"/>
 						<m_Metadata type="MetadataCollection">
@@ -2369,8 +2065,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_145>
-					<data_146 type="TableEntryData">
+					</data_126>
+					<data_127 type="TableEntryData">
 						<m_Id type="SInt64" value="2015830022807552"/>
 						<m_Localized type="string" value="Build"/>
 						<m_Metadata type="MetadataCollection">
@@ -2385,8 +2081,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_146>
-					<data_147 type="TableEntryData">
+					</data_127>
+					<data_128 type="TableEntryData">
 						<m_Id type="SInt64" value="2015830043779072"/>
 						<m_Localized type="string" value="Category"/>
 						<m_Metadata type="MetadataCollection">
@@ -2401,8 +2097,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_147>
-					<data_148 type="TableEntryData">
+					</data_128>
+					<data_129 type="TableEntryData">
 						<m_Id type="SInt64" value="2017860833501184"/>
 						<m_Localized type="string" value="Craft"/>
 						<m_Metadata type="MetadataCollection">
@@ -2417,8 +2113,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_148>
-					<data_149 type="TableEntryData">
+					</data_129>
+					<data_130 type="TableEntryData">
 						<m_Id type="SInt64" value="2021010437038080"/>
 						<m_Localized type="string" value="Turn Off"/>
 						<m_Metadata type="MetadataCollection">
@@ -2433,8 +2129,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_149>
-					<data_150 type="TableEntryData">
+					</data_130>
+					<data_131 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581111"/>
 						<m_Localized type="string" value="Hungry. Find something to eat"/>
 						<m_Metadata type="MetadataCollection">
@@ -2449,8 +2145,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_150>
-					<data_151 type="TableEntryData">
+					</data_131>
+					<data_132 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581112"/>
 						<m_Localized type="string" value="Thirsty. Drink something"/>
 						<m_Metadata type="MetadataCollection">
@@ -2465,8 +2161,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_151>
-					<data_152 type="TableEntryData">
+					</data_132>
+					<data_133 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581113"/>
 						<m_Localized type="string" value="Tired. You need to rest"/>
 						<m_Metadata type="MetadataCollection">
@@ -2481,8 +2177,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_152>
-					<data_153 type="TableEntryData">
+					</data_133>
+					<data_134 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581114"/>
 						<m_Localized type="string" value="Freezing. Stay near fire"/>
 						<m_Metadata type="MetadataCollection">
@@ -2497,8 +2193,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_153>
-					<data_154 type="TableEntryData">
+					</data_134>
+					<data_135 type="TableEntryData">
 						<m_Id type="SInt64" value="1611015937581115"/>
 						<m_Localized type="string" value="Increased stamina recovery"/>
 						<m_Metadata type="MetadataCollection">
@@ -2513,8 +2209,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_154>
-					<data_155 type="TableEntryData">
+					</data_135>
+					<data_136 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635735760896"/>
 						<m_Localized type="string" value="Day"/>
 						<m_Metadata type="MetadataCollection">
@@ -2529,8 +2225,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_155>
-					<data_156 type="TableEntryData">
+					</data_136>
+					<data_137 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926720"/>
 						<m_Localized type="string" value="HP"/>
 						<m_Metadata type="MetadataCollection">
@@ -2545,8 +2241,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_156>
-					<data_157 type="TableEntryData">
+					</data_137>
+					<data_138 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926721"/>
 						<m_Localized type="string" value="EN"/>
 						<m_Metadata type="MetadataCollection">
@@ -2561,8 +2257,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_157>
-					<data_158 type="TableEntryData">
+					</data_138>
+					<data_139 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926722"/>
 						<m_Localized type="string" value="Torch"/>
 						<m_Metadata type="MetadataCollection">
@@ -2577,8 +2273,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_158>
-					<data_159 type="TableEntryData">
+					</data_139>
+					<data_140 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926723"/>
 						<m_Localized type="string" value="Reel In"/>
 						<m_Metadata type="MetadataCollection">
@@ -2593,8 +2289,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_159>
-					<data_160 type="TableEntryData">
+					</data_140>
+					<data_141 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926724"/>
 						<m_Localized type="string" value="Build"/>
 						<m_Metadata type="MetadataCollection">
@@ -2609,8 +2305,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_160>
-					<data_161 type="TableEntryData">
+					</data_141>
+					<data_142 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926725"/>
 						<m_Localized type="string" value="Rotate"/>
 						<m_Metadata type="MetadataCollection">
@@ -2625,8 +2321,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_161>
-					<data_162 type="TableEntryData">
+					</data_142>
+					<data_143 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926726"/>
 						<m_Localized type="string" value="Return"/>
 						<m_Metadata type="MetadataCollection">
@@ -2641,8 +2337,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_162>
-					<data_163 type="TableEntryData">
+					</data_143>
+					<data_144 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926727"/>
 						<m_Localized type="string" value="Quit"/>
 						<m_Metadata type="MetadataCollection">
@@ -2657,8 +2353,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_163>
-					<data_164 type="TableEntryData">
+					</data_144>
+					<data_145 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926728"/>
 						<m_Localized type="string" value="Drag"/>
 						<m_Metadata type="MetadataCollection">
@@ -2673,8 +2369,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_164>
-					<data_165 type="TableEntryData">
+					</data_145>
+					<data_146 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926729"/>
 						<m_Localized type="string" value="Use"/>
 						<m_Metadata type="MetadataCollection">
@@ -2689,8 +2385,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_165>
-					<data_166 type="TableEntryData">
+					</data_146>
+					<data_147 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926730"/>
 						<m_Localized type="string" value="Togge Light"/>
 						<m_Metadata type="MetadataCollection">
@@ -2705,8 +2401,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_166>
-					<data_167 type="TableEntryData">
+					</data_147>
+					<data_148 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926731"/>
 						<m_Localized type="string" value="Quit"/>
 						<m_Metadata type="MetadataCollection">
@@ -2721,8 +2417,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_167>
-					<data_168 type="TableEntryData">
+					</data_148>
+					<data_149 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926732"/>
 						<m_Localized type="string" value="Forward"/>
 						<m_Metadata type="MetadataCollection">
@@ -2737,8 +2433,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_168>
-					<data_169 type="TableEntryData">
+					</data_149>
+					<data_150 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926733"/>
 						<m_Localized type="string" value="Backward"/>
 						<m_Metadata type="MetadataCollection">
@@ -2753,8 +2449,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_169>
-					<data_170 type="TableEntryData">
+					</data_150>
+					<data_151 type="TableEntryData">
 						<m_Id type="SInt64" value="49226316857176064"/>
 						<m_Localized type="string" value="Demolish"/>
 						<m_Metadata type="MetadataCollection">
@@ -2769,8 +2465,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_170>
-					<data_171 type="TableEntryData">
+					</data_151>
+					<data_152 type="TableEntryData">
 						<m_Id type="SInt64" value="49223388721278976"/>
 						<m_Localized type="string" value="Descent"/>
 						<m_Metadata type="MetadataCollection">
@@ -2785,8 +2481,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_171>
-					<data_172 type="TableEntryData">
+					</data_152>
+					<data_153 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926738"/>
 						<m_Localized type="string" value="Sail Up"/>
 						<m_Metadata type="MetadataCollection">
@@ -2801,8 +2497,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_172>
-					<data_173 type="TableEntryData">
+					</data_153>
+					<data_154 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926739"/>
 						<m_Localized type="string" value="Rotate Sail"/>
 						<m_Metadata type="MetadataCollection">
@@ -2817,8 +2513,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_173>
-					<data_174 type="TableEntryData">
+					</data_154>
+					<data_155 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926740"/>
 						<m_Localized type="string" value="Turn Left"/>
 						<m_Metadata type="MetadataCollection">
@@ -2833,8 +2529,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_174>
-					<data_175 type="TableEntryData">
+					</data_155>
+					<data_156 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926741"/>
 						<m_Localized type="string" value="Turn Right"/>
 						<m_Metadata type="MetadataCollection">
@@ -2849,8 +2545,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_175>
-					<data_176 type="TableEntryData">
+					</data_156>
+					<data_157 type="TableEntryData">
 						<m_Id type="SInt64" value="49223202951360512"/>
 						<m_Localized type="string" value="Lift"/>
 						<m_Metadata type="MetadataCollection">
@@ -2865,8 +2561,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_176>
-					<data_177 type="TableEntryData">
+					</data_157>
+					<data_158 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926743"/>
 						<m_Localized type="string" value="Repair"/>
 						<m_Metadata type="MetadataCollection">
@@ -2881,8 +2577,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_177>
-					<data_178 type="TableEntryData">
+					</data_158>
+					<data_159 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926744"/>
 						<m_Localized type="string" value="Left Mouse: Drag"/>
 						<m_Metadata type="MetadataCollection">
@@ -2897,8 +2593,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_178>
-					<data_179 type="TableEntryData">
+					</data_159>
+					<data_160 type="TableEntryData">
 						<m_Id type="SInt64" value="2080635760926745"/>
 						<m_Localized type="string" value="Scrollwheel: Zoom"/>
 						<m_Metadata type="MetadataCollection">
@@ -2913,8 +2609,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_179>
-					<data_180 type="TableEntryData">
+					</data_160>
+					<data_161 type="TableEntryData">
 						<m_Id type="SInt64" value="2840119198343168"/>
 						<m_Localized type="string" value="Armor"/>
 						<m_Metadata type="MetadataCollection">
@@ -2929,8 +2625,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_180>
-					<data_181 type="TableEntryData">
+					</data_161>
+					<data_162 type="TableEntryData">
 						<m_Id type="SInt64" value="2840119219314688"/>
 						<m_Localized type="string" value="Inventory"/>
 						<m_Metadata type="MetadataCollection">
@@ -2945,8 +2641,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_181>
-					<data_182 type="TableEntryData">
+					</data_162>
+					<data_163 type="TableEntryData">
 						<m_Id type="SInt64" value="2840119219314689"/>
 						<m_Localized type="string" value="Swim Speed"/>
 						<m_Metadata type="MetadataCollection">
@@ -2961,8 +2657,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_182>
-					<data_183 type="TableEntryData">
+					</data_163>
+					<data_164 type="TableEntryData">
 						<m_Id type="SInt64" value="2840119219314690"/>
 						<m_Localized type="string" value="Movement Speed"/>
 						<m_Metadata type="MetadataCollection">
@@ -2977,8 +2673,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_183>
-					<data_184 type="TableEntryData">
+					</data_164>
+					<data_165 type="TableEntryData">
 						<m_Id type="SInt64" value="2840119219314691"/>
 						<m_Localized type="string" value="Damage"/>
 						<m_Metadata type="MetadataCollection">
@@ -2993,8 +2689,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_184>
-					<data_185 type="TableEntryData">
+					</data_165>
+					<data_166 type="TableEntryData">
 						<m_Id type="SInt64" value="2840119219314692"/>
 						<m_Localized type="string" value="Hunger"/>
 						<m_Metadata type="MetadataCollection">
@@ -3009,8 +2705,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_185>
-					<data_186 type="TableEntryData">
+					</data_166>
+					<data_167 type="TableEntryData">
 						<m_Id type="SInt64" value="2840119219314693"/>
 						<m_Localized type="string" value="Thirst"/>
 						<m_Metadata type="MetadataCollection">
@@ -3025,8 +2721,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_186>
-					<data_187 type="TableEntryData">
+					</data_167>
+					<data_168 type="TableEntryData">
 						<m_Id type="SInt64" value="2840119219314694"/>
 						<m_Localized type="string" value="Health"/>
 						<m_Metadata type="MetadataCollection">
@@ -3041,8 +2737,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_187>
-					<data_188 type="TableEntryData">
+					</data_168>
+					<data_169 type="TableEntryData">
 						<m_Id type="SInt64" value="2840119219314695"/>
 						<m_Localized type="string" value="Energy"/>
 						<m_Metadata type="MetadataCollection">
@@ -3057,8 +2753,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_188>
-					<data_189 type="TableEntryData">
+					</data_169>
+					<data_170 type="TableEntryData">
 						<m_Id type="SInt64" value="2840119219314696"/>
 						<m_Localized type="string" value="Bleeding"/>
 						<m_Metadata type="MetadataCollection">
@@ -3073,8 +2769,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_189>
-					<data_190 type="TableEntryData">
+					</data_170>
+					<data_171 type="TableEntryData">
 						<m_Id type="SInt64" value="2840119219314697"/>
 						<m_Localized type="string" value="Stamina recovery rate increased"/>
 						<m_Metadata type="MetadataCollection">
@@ -3089,8 +2785,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_190>
-					<data_191 type="TableEntryData">
+					</data_171>
+					<data_172 type="TableEntryData">
 						<m_Id type="SInt64" value="21162002794168320"/>
 						<m_Localized type="string" value="Increased diving time"/>
 						<m_Metadata type="MetadataCollection">
@@ -3105,8 +2801,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_191>
-					<data_192 type="TableEntryData">
+					</data_172>
+					<data_173 type="TableEntryData">
 						<m_Id type="SInt64" value="24265803686731776"/>
 						<m_Localized type="string" value="{0}'s World"/>
 						<m_Metadata type="MetadataCollection">
@@ -3121,10 +2817,10 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_192>
-					<data_193 type="TableEntryData">
+					</data_173>
+					<data_174 type="TableEntryData">
 						<m_Id type="SInt64" value="30360768270528512"/>
-						<m_Localized type="string" value="Connect"/>
+						<m_Localized type="string" value="Connecting wire to a building or wall"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -3137,8 +2833,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_193>
-					<data_194 type="TableEntryData">
+					</data_174>
+					<data_175 type="TableEntryData">
 						<m_Id type="SInt64" value="30361524792946688"/>
 						<m_Localized type="string" value="Disconnect"/>
 						<m_Metadata type="MetadataCollection">
@@ -3153,8 +2849,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_194>
-					<data_195 type="TableEntryData">
+					</data_175>
+					<data_176 type="TableEntryData">
 						<m_Id type="SInt64" value="30464606629490688"/>
 						<m_Localized type="string" value="Install Wire (1 Rubber)"/>
 						<m_Metadata type="MetadataCollection">
@@ -3169,8 +2865,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_195>
-					<data_196 type="TableEntryData">
+					</data_176>
+					<data_177 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377661726720"/>
 						<m_Localized type="string" value="OK"/>
 						<m_Metadata type="MetadataCollection">
@@ -3185,8 +2881,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_196>
-					<data_197 type="TableEntryData">
+					</data_177>
+					<data_178 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377686892544"/>
 						<m_Localized type="string" value="Create Game"/>
 						<m_Metadata type="MetadataCollection">
@@ -3201,10 +2897,10 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_197>
-					<data_198 type="TableEntryData">
+					</data_178>
+					<data_179 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377686892545"/>
-						<m_Localized type="string" value="Join Game"/>
+						<m_Localized type="string" value="Join Server"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -3217,8 +2913,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_198>
-					<data_199 type="TableEntryData">
+					</data_179>
+					<data_180 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377686892546"/>
 						<m_Localized type="string" value="Server Description"/>
 						<m_Metadata type="MetadataCollection">
@@ -3233,8 +2929,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_199>
-					<data_200 type="TableEntryData">
+					</data_180>
+					<data_181 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377686892547"/>
 						<m_Localized type="string" value="Max Player"/>
 						<m_Metadata type="MetadataCollection">
@@ -3249,8 +2945,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_200>
-					<data_201 type="TableEntryData">
+					</data_181>
+					<data_182 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377691086848"/>
 						<m_Localized type="string" value="JOIN PLAYER HOSTED SERVERS"/>
 						<m_Metadata type="MetadataCollection">
@@ -3265,8 +2961,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_201>
-					<data_202 type="TableEntryData">
+					</data_182>
+					<data_183 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377691086849"/>
 						<m_Localized type="string" value="REFRESH"/>
 						<m_Metadata type="MetadataCollection">
@@ -3281,8 +2977,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_202>
-					<data_203 type="TableEntryData">
+					</data_183>
+					<data_184 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377691086850"/>
 						<m_Localized type="string" value="{0} SERVERS FOUND"/>
 						<m_Metadata type="MetadataCollection">
@@ -3297,8 +2993,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_203>
-					<data_204 type="TableEntryData">
+					</data_184>
+					<data_185 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377691086851"/>
 						<m_Localized type="string" value="SEARCH SERVER"/>
 						<m_Metadata type="MetadataCollection">
@@ -3313,8 +3009,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_204>
-					<data_205 type="TableEntryData">
+					</data_185>
+					<data_186 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377691086852"/>
 						<m_Localized type="string" value="SERVER NAME"/>
 						<m_Metadata type="MetadataCollection">
@@ -3329,8 +3025,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_205>
-					<data_206 type="TableEntryData">
+					</data_186>
+					<data_187 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377691086853"/>
 						<m_Localized type="string" value="SERVER REGION"/>
 						<m_Metadata type="MetadataCollection">
@@ -3345,8 +3041,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_206>
-					<data_207 type="TableEntryData">
+					</data_187>
+					<data_188 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377691086854"/>
 						<m_Localized type="string" value="HIDE WITH PASSWORD"/>
 						<m_Metadata type="MetadataCollection">
@@ -3361,8 +3057,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_207>
-					<data_208 type="TableEntryData">
+					</data_188>
+					<data_189 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377691086855"/>
 						<m_Localized type="string" value="HIDE FULL"/>
 						<m_Metadata type="MetadataCollection">
@@ -3377,8 +3073,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_208>
-					<data_209 type="TableEntryData">
+					</data_189>
+					<data_190 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377691086856"/>
 						<m_Localized type="string" value="APPLY"/>
 						<m_Metadata type="MetadataCollection">
@@ -3393,8 +3089,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_209>
-					<data_210 type="TableEntryData">
+					</data_190>
+					<data_191 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377691086857"/>
 						<m_Localized type="string" value="Player"/>
 						<m_Metadata type="MetadataCollection">
@@ -3409,8 +3105,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_210>
-					<data_211 type="TableEntryData">
+					</data_191>
+					<data_192 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377691086858"/>
 						<m_Localized type="string" value="Ping"/>
 						<m_Metadata type="MetadataCollection">
@@ -3425,8 +3121,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_211>
-					<data_212 type="TableEntryData">
+					</data_192>
+					<data_193 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377691086859"/>
 						<m_Localized type="string" value="Join"/>
 						<m_Metadata type="MetadataCollection">
@@ -3441,8 +3137,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_212>
-					<data_213 type="TableEntryData">
+					</data_193>
+					<data_194 type="TableEntryData">
 						<m_Id type="SInt64" value="34978377691086860"/>
 						<m_Localized type="string" value="Wrong Password!"/>
 						<m_Metadata type="MetadataCollection">
@@ -3457,8 +3153,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_213>
-					<data_214 type="TableEntryData">
+					</data_194>
+					<data_195 type="TableEntryData">
 						<m_Id type="SInt64" value="36856459478532096"/>
 						<m_Localized type="string" value="No Server Description"/>
 						<m_Metadata type="MetadataCollection">
@@ -3473,8 +3169,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_214>
-					<data_215 type="TableEntryData">
+					</data_195>
+					<data_196 type="TableEntryData">
 						<m_Id type="SInt64" value="36988271840296960"/>
 						<m_Localized type="string" value="Network Error"/>
 						<m_Metadata type="MetadataCollection">
@@ -3489,8 +3185,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_215>
-					<data_216 type="TableEntryData">
+					</data_196>
+					<data_197 type="TableEntryData">
 						<m_Id type="SInt64" value="36988271869657088"/>
 						<m_Localized type="string" value="Back To Main Menu"/>
 						<m_Metadata type="MetadataCollection">
@@ -3505,8 +3201,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_216>
-					<data_217 type="TableEntryData">
+					</data_197>
+					<data_198 type="TableEntryData">
 						<m_Id type="SInt64" value="36988271869657089"/>
 						<m_Localized type="string" value="Reconnect"/>
 						<m_Metadata type="MetadataCollection">
@@ -3521,8 +3217,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_217>
-					<data_218 type="TableEntryData">
+					</data_198>
+					<data_199 type="TableEntryData">
 						<m_Id type="SInt64" value="37766130532605952"/>
 						<m_Localized type="string" value="Refreshing…"/>
 						<m_Metadata type="MetadataCollection">
@@ -3537,8 +3233,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_218>
-					<data_219 type="TableEntryData">
+					</data_199>
+					<data_200 type="TableEntryData">
 						<m_Id type="SInt64" value="38116860510593024"/>
 						<m_Localized type="string" value="Reconnecting...\x0AThis will take a while..."/>
 						<m_Metadata type="MetadataCollection">
@@ -3553,8 +3249,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_219>
-					<data_220 type="TableEntryData">
+					</data_200>
+					<data_201 type="TableEntryData">
 						<m_Id type="SInt64" value="39786784894185472"/>
 						<m_Localized type="string" value="MAP"/>
 						<m_Metadata type="MetadataCollection">
@@ -3569,8 +3265,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_220>
-					<data_221 type="TableEntryData">
+					</data_201>
+					<data_202 type="TableEntryData">
 						<m_Id type="SInt64" value="39843965844811776"/>
 						<m_Localized type="string" value="Faction"/>
 						<m_Metadata type="MetadataCollection">
@@ -3585,8 +3281,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_221>
-					<data_222 type="TableEntryData">
+					</data_202>
+					<data_203 type="TableEntryData">
 						<m_Id type="SInt64" value="44740018399338496"/>
 						<m_Localized type="string" value="Display"/>
 						<m_Metadata type="MetadataCollection">
@@ -3601,8 +3297,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_222>
-					<data_223 type="TableEntryData">
+					</data_203>
+					<data_204 type="TableEntryData">
 						<m_Id type="SInt64" value="44864333946019840"/>
 						<m_Localized type="string" value="HELLO SUNKENLANDER"/>
 						<m_Metadata type="MetadataCollection">
@@ -3617,8 +3313,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_223>
-					<data_224 type="TableEntryData">
+					</data_204>
+					<data_205 type="TableEntryData">
 						<m_Id type="SInt64" value="44864333966991360"/>
 						<m_Localized type="string" value="Welcome to the uncharted realm of Sunkenland's Early Access! Currently, the game is in active development, which means you may experience bugs, incomplete features, glitches, and a lack of content, but we will keep the updates coming. Some features or content may also be subject to change or removal as part of the development process.\x0D\x0A\x0D\x0A Thank you for participating in Early Access and shaping this game together with us. We look forward to your constructive feedback in the Steam reviews and forum discussions.\x0D\x0A"/>
 						<m_Metadata type="MetadataCollection">
@@ -3633,8 +3329,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_224>
-					<data_225 type="TableEntryData">
+					</data_205>
+					<data_206 type="TableEntryData">
 						<m_Id type="SInt64" value="44864333966991361"/>
 						<m_Localized type="string" value="WHAT IS IN THE CURRENT VERSION"/>
 						<m_Metadata type="MetadataCollection">
@@ -3649,8 +3345,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_225>
-					<data_226 type="TableEntryData">
+					</data_206>
+					<data_207 type="TableEntryData">
 						<m_Id type="SInt64" value="44864333966991362"/>
 						<m_Localized type="string" value="- Scavenge/Loot\x0D\x0A- Craft Items\x0D\x0A- Build Bases\x0D\x0A- Defend Base\x0D\x0A- Raid Enemies\x0D\x0A- Melee/Ranged Combat\x0D\x0A- Singleplayer/Online Coop/Invite Steam Friends\x0D\x0A- Drive Boats/Helicopters\x0D\x0A- Experience Basic Character Customization\x0D\x0A- Engage in Basic Trading\x0D"/>
 						<m_Metadata type="MetadataCollection">
@@ -3665,8 +3361,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_226>
-					<data_227 type="TableEntryData">
+					</data_207>
+					<data_208 type="TableEntryData">
 						<m_Id type="SInt64" value="44864647168253952"/>
 						<m_Localized type="string" value="CONTINUE"/>
 						<m_Metadata type="MetadataCollection">
@@ -3681,8 +3377,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_227>
-					<data_228 type="TableEntryData">
+					</data_208>
+					<data_209 type="TableEntryData">
 						<m_Id type="SInt64" value="45512627842936832"/>
 						<m_Localized type="string" value="Remove Battery"/>
 						<m_Metadata type="MetadataCollection">
@@ -3697,8 +3393,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_228>
-					<data_229 type="TableEntryData">
+					</data_209>
+					<data_210 type="TableEntryData">
 						<m_Id type="SInt64" value="47572974201294848"/>
 						<m_Localized type="string" value="Optional"/>
 						<m_Metadata type="MetadataCollection">
@@ -3713,8 +3409,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_229>
-					<data_230 type="TableEntryData">
+					</data_210>
+					<data_211 type="TableEntryData">
 						<m_Id type="SInt64" value="47590461785591808"/>
 						<m_Localized type="string" value="AutoSave"/>
 						<m_Metadata type="MetadataCollection">
@@ -3729,8 +3425,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_230>
-					<data_231 type="TableEntryData">
+					</data_211>
+					<data_212 type="TableEntryData">
 						<m_Id type="SInt64" value="48040510269415424"/>
 						<m_Localized type="string" value="Select Save File"/>
 						<m_Metadata type="MetadataCollection">
@@ -3745,8 +3441,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_231>
-					<data_232 type="TableEntryData">
+					</data_212>
+					<data_213 type="TableEntryData">
 						<m_Id type="SInt64" value="49211809422340096"/>
 						<m_Localized type="string" value="UPGRADE"/>
 						<m_Metadata type="MetadataCollection">
@@ -3761,8 +3457,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_232>
-					<data_233 type="TableEntryData">
+					</data_213>
+					<data_214 type="TableEntryData">
 						<m_Id type="SInt64" value="49214317913927680"/>
 						<m_Localized type="string" value="BLUEPRINT STUDIED"/>
 						<m_Metadata type="MetadataCollection">
@@ -3777,8 +3473,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_233>
-					<data_234 type="TableEntryData">
+					</data_214>
+					<data_215 type="TableEntryData">
 						<m_Id type="SInt64" value="49215841067036672"/>
 						<m_Localized type="string" value="Unlocked New Item:"/>
 						<m_Metadata type="MetadataCollection">
@@ -3793,8 +3489,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_234>
-					<data_235 type="TableEntryData">
+					</data_215>
+					<data_216 type="TableEntryData">
 						<m_Id type="SInt64" value="49216711414476800"/>
 						<m_Localized type="string" value="Value"/>
 						<m_Metadata type="MetadataCollection">
@@ -3809,8 +3505,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_235>
-					<data_236 type="TableEntryData">
+					</data_216>
+					<data_217 type="TableEntryData">
 						<m_Id type="SInt64" value="49218255828512768"/>
 						<m_Localized type="string" value="Shoot"/>
 						<m_Metadata type="MetadataCollection">
@@ -3825,10 +3521,10 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_236>
-					<data_237 type="TableEntryData">
+					</data_217>
+					<data_218 type="TableEntryData">
 						<m_Id type="SInt64" value="49234383065804800"/>
-						<m_Localized type="string" value="NOT UNLOCKED YET"/>
+						<m_Localized type="string" value="Blueprint Not Discovered"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -3841,8 +3537,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_237>
-					<data_238 type="TableEntryData">
+					</data_218>
+					<data_219 type="TableEntryData">
 						<m_Id type="SInt64" value="50220972014129152"/>
 						<m_Localized type="string" value="Modify"/>
 						<m_Metadata type="MetadataCollection">
@@ -3857,120 +3553,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_238>
-					<data_239 type="TableEntryData">
-						<m_Id type="SInt64" value="50220972043489280"/>
-						<m_Localized type="string" value="None"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_239>
-					<data_240 type="TableEntryData">
-						<m_Id type="SInt64" value="50220972043489281"/>
-						<m_Localized type="string" value="Low"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_240>
-					<data_241 type="TableEntryData">
-						<m_Id type="SInt64" value="50220972043489282"/>
-						<m_Localized type="string" value="Mid"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_241>
-					<data_242 type="TableEntryData">
-						<m_Id type="SInt64" value="50220972043489283"/>
-						<m_Localized type="string" value="High"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_242>
-					<data_243 type="TableEntryData">
-						<m_Id type="SInt64" value="50220972043489284"/>
-						<m_Localized type="string" value="Share Flag"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_243>
-					<data_244 type="TableEntryData">
-						<m_Id type="SInt64" value="50220972047683584"/>
-						<m_Localized type="string" value="Random Birth Place (Not Recommended)"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_244>
-					<data_245 type="TableEntryData">
-						<m_Id type="SInt64" value="50220972047683585"/>
-						<m_Localized type="string" value="Respawn Time"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_245>
-					<data_246 type="TableEntryData">
+					</data_219>
+					<data_220 type="TableEntryData">
 						<m_Id type="SInt64" value="50220972047683586"/>
 						<m_Localized type="string" value="Invalid"/>
 						<m_Metadata type="MetadataCollection">
@@ -3985,8 +3569,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_246>
-					<data_247 type="TableEntryData">
+					</data_220>
+					<data_221 type="TableEntryData">
 						<m_Id type="SInt64" value="50220972047683587"/>
 						<m_Localized type="string" value="World Description"/>
 						<m_Metadata type="MetadataCollection">
@@ -4001,8 +3585,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_247>
-					<data_248 type="TableEntryData">
+					</data_221>
+					<data_222 type="TableEntryData">
 						<m_Id type="SInt64" value="50220972047683588"/>
 						<m_Localized type="string" value="Modify World Setting"/>
 						<m_Metadata type="MetadataCollection">
@@ -4017,8 +3601,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_248>
-					<data_249 type="TableEntryData">
+					</data_222>
+					<data_223 type="TableEntryData">
 						<m_Id type="SInt64" value="50220972047683590"/>
 						<m_Localized type="string" value="Save and return to Main Menu?"/>
 						<m_Metadata type="MetadataCollection">
@@ -4033,8 +3617,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_249>
-					<data_250 type="TableEntryData">
+					</data_223>
+					<data_224 type="TableEntryData">
 						<m_Id type="SInt64" value="50220972056072192"/>
 						<m_Localized type="string" value="Auto Save"/>
 						<m_Metadata type="MetadataCollection">
@@ -4049,8 +3633,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_250>
-					<data_251 type="TableEntryData">
+					</data_224>
+					<data_225 type="TableEntryData">
 						<m_Id type="SInt64" value="50246777469489152"/>
 						<m_Localized type="string" value="Quest Menu"/>
 						<m_Metadata type="MetadataCollection">
@@ -4065,8 +3649,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_251>
-					<data_252 type="TableEntryData">
+					</data_225>
+					<data_226 type="TableEntryData">
 						<m_Id type="SInt64" value="50673379511857152"/>
 						<m_Localized type="string" value="SpeedUp"/>
 						<m_Metadata type="MetadataCollection">
@@ -4081,8 +3665,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_252>
-					<data_253 type="TableEntryData">
+					</data_226>
+					<data_227 type="TableEntryData">
 						<m_Id type="SInt64" value="50848305002803200"/>
 						<m_Localized type="string" value="Attitude"/>
 						<m_Metadata type="MetadataCollection">
@@ -4097,8 +3681,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_253>
-					<data_254 type="TableEntryData">
+					</data_227>
+					<data_228 type="TableEntryData">
 						<m_Id type="SInt64" value="50918948308795392"/>
 						<m_Localized type="string" value="Select Respawn Point."/>
 						<m_Metadata type="MetadataCollection">
@@ -4113,8 +3697,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_254>
-					<data_255 type="TableEntryData">
+					</data_228>
+					<data_229 type="TableEntryData">
 						<m_Id type="SInt64" value="52308344189214720"/>
 						<m_Localized type="string" value="Please wait for saving to finish."/>
 						<m_Metadata type="MetadataCollection">
@@ -4129,8 +3713,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_255>
-					<data_256 type="TableEntryData">
+					</data_229>
+					<data_230 type="TableEntryData">
 						<m_Id type="SInt64" value="52308344226963456"/>
 						<m_Localized type="string" value="You must respawn first before logging out."/>
 						<m_Metadata type="MetadataCollection">
@@ -4145,8 +3729,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_256>
-					<data_257 type="TableEntryData">
+					</data_230>
+					<data_231 type="TableEntryData">
 						<m_Id type="SInt64" value="52308344226963457"/>
 						<m_Localized type="string" value="Invites you to join a game."/>
 						<m_Metadata type="MetadataCollection">
@@ -4161,8 +3745,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_257>
-					<data_258 type="TableEntryData">
+					</data_231>
+					<data_232 type="TableEntryData">
 						<m_Id type="SInt64" value="52308344226963458"/>
 						<m_Localized type="string" value="Reject"/>
 						<m_Metadata type="MetadataCollection">
@@ -4177,8 +3761,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_258>
-					<data_259 type="TableEntryData">
+					</data_232>
+					<data_233 type="TableEntryData">
 						<m_Id type="SInt64" value="52308344226963459"/>
 						<m_Localized type="string" value="Accept"/>
 						<m_Metadata type="MetadataCollection">
@@ -4193,8 +3777,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_259>
-					<data_260 type="TableEntryData">
+					</data_233>
+					<data_234 type="TableEntryData">
 						<m_Id type="SInt64" value="52308344226963460"/>
 						<m_Localized type="string" value="Error"/>
 						<m_Metadata type="MetadataCollection">
@@ -4209,8 +3793,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_260>
-					<data_261 type="TableEntryData">
+					</data_234>
+					<data_235 type="TableEntryData">
 						<m_Id type="SInt64" value="52308344226963461"/>
 						<m_Localized type="string" value="Please select a Character first and then accept the friend invitation."/>
 						<m_Metadata type="MetadataCollection">
@@ -4225,8 +3809,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_261>
-					<data_262 type="TableEntryData">
+					</data_235>
+					<data_236 type="TableEntryData">
 						<m_Id type="SInt64" value="52308344226963462"/>
 						<m_Localized type="string" value="You must select a character first!"/>
 						<m_Metadata type="MetadataCollection">
@@ -4241,10 +3825,10 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_262>
-					<data_263 type="TableEntryData">
+					</data_236>
+					<data_237 type="TableEntryData">
 						<m_Id type="SInt64" value="52308344226963463"/>
-						<m_Localized type="string" value="INVITE STEAM FRIEND"/>
+						<m_Localized type="string" value="Invite Steam Friend"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -4257,8 +3841,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_263>
-					<data_264 type="TableEntryData">
+					</data_237>
+					<data_238 type="TableEntryData">
 						<m_Id type="SInt64" value="52341081226862592"/>
 						<m_Localized type="string" value="No Server Found"/>
 						<m_Metadata type="MetadataCollection">
@@ -4273,8 +3857,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_264>
-					<data_265 type="TableEntryData">
+					</data_238>
+					<data_239 type="TableEntryData">
 						<m_Id type="SInt64" value="52741610266488832"/>
 						<m_Localized type="string" value="Invite"/>
 						<m_Metadata type="MetadataCollection">
@@ -4289,8 +3873,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_265>
-					<data_266 type="TableEntryData">
+					</data_239>
+					<data_240 type="TableEntryData">
 						<m_Id type="SInt64" value="52741686657347584"/>
 						<m_Localized type="string" value="Invitation Sent"/>
 						<m_Metadata type="MetadataCollection">
@@ -4305,56 +3889,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_266>
-					<data_267 type="TableEntryData">
-						<m_Id type="SInt64" value="53477809729892352"/>
-						<m_Localized type="string" value="Enemy Garrison Amount"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_267>
-					<data_268 type="TableEntryData">
-						<m_Id type="SInt64" value="53478161338396672"/>
-						<m_Localized type="string" value="Very High"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_268>
-					<data_269 type="TableEntryData">
-						<m_Id type="SInt64" value="53763508324593664"/>
-						<m_Localized type="string" value="Share Spawn Point (Bed)"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_269>
-					<data_270 type="TableEntryData">
+					</data_240>
+					<data_241 type="TableEntryData">
 						<m_Id type="SInt64" value="53867435977043968"/>
 						<m_Localized type="string" value="Enemies"/>
 						<m_Metadata type="MetadataCollection">
@@ -4369,8 +3905,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_270>
-					<data_271 type="TableEntryData">
+					</data_241>
+					<data_242 type="TableEntryData">
 						<m_Id type="SInt64" value="53868154218049536"/>
 						<m_Localized type="string" value="Islands"/>
 						<m_Metadata type="MetadataCollection">
@@ -4385,8 +3921,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_271>
-					<data_272 type="TableEntryData">
+					</data_242>
+					<data_243 type="TableEntryData">
 						<m_Id type="SInt64" value="54058095462596608"/>
 						<m_Localized type="string" value="WHAT WE WILL ADD LATER"/>
 						<m_Metadata type="MetadataCollection">
@@ -4401,10 +3937,10 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_272>
-					<data_273 type="TableEntryData">
+					</data_243>
+					<data_244 type="TableEntryData">
 						<m_Id type="SInt64" value="54058398295539712"/>
-						<m_Localized type="string" value="- Polish the existing features\x0A- Optimize the game\x0A- Add more content, such as buildings, items, weapons, maps, factions, etc.\x0A- Introduce Creative mode\x0A- Develop Lore/Stories/Quests\x0A- Enhance Character Customization\x0A- Include more vehicles\x0A- Implement Ocean Combat\x0A-And more will be discussed during development\x0A"/>
+						<m_Localized type="string" value="- Improve existing features\x0A- Optimize the game\x0A- Add more content, such as buildings, objects, weapons, maps, factions, etc.\x0A- Introduce the Creative mode\x0A- Develop a story/universe/quests\x0A- Enhance character customization\x0A- Include more vehicles\x0A- Implement sea battles\x0A- And other points will be discussed during development."/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -4417,8 +3953,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_273>
-					<data_274 type="TableEntryData">
+					</data_244>
+					<data_245 type="TableEntryData">
 						<m_Id type="SInt64" value="54174390891855872"/>
 						<m_Localized type="string" value="Audio"/>
 						<m_Metadata type="MetadataCollection">
@@ -4433,8 +3969,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_274>
-					<data_275 type="TableEntryData">
+					</data_245>
+					<data_246 type="TableEntryData">
 						<m_Id type="SInt64" value="54176492498206720"/>
 						<m_Localized type="string" value="Camera Shake"/>
 						<m_Metadata type="MetadataCollection">
@@ -4449,8 +3985,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_275>
-					<data_276 type="TableEntryData">
+					</data_246>
+					<data_247 type="TableEntryData">
 						<m_Id type="SInt64" value="54176700497936384"/>
 						<m_Localized type="string" value="Aiming Mode"/>
 						<m_Metadata type="MetadataCollection">
@@ -4465,8 +4001,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_276>
-					<data_277 type="TableEntryData">
+					</data_247>
+					<data_248 type="TableEntryData">
 						<m_Id type="SInt64" value="54182653020618752"/>
 						<m_Localized type="string" value="Click on the item icon to move it to the Buy or Sell list."/>
 						<m_Metadata type="MetadataCollection">
@@ -4481,8 +4017,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_277>
-					<data_278 type="TableEntryData">
+					</data_248>
+					<data_249 type="TableEntryData">
 						<m_Id type="SInt64" value="54753609233481728"/>
 						<m_Localized type="string" value="DROP"/>
 						<m_Metadata type="MetadataCollection">
@@ -4497,10 +4033,10 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_278>
-					<data_279 type="TableEntryData">
+					</data_249>
+					<data_250 type="TableEntryData">
 						<m_Id type="SInt64" value="54795487794446336"/>
-						<m_Localized type="string" value="Attention!"/>
+						<m_Localized type="string" value="Important Notice: "/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -4513,10 +4049,10 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_279>
-					<data_280 type="TableEntryData">
+					</data_250>
+					<data_251 type="TableEntryData">
 						<m_Id type="SInt64" value="54795540294549504"/>
-						<m_Localized type="string" value="If you last played in v0.1.04 and want to retain your progress, switch to the Olderversion branch now. If you played after the v0.1.10 update (released on Thursday), you're good to go.\x0A\x0A\x0ATo switch to v0.1.04: In the Steam Library, right-click the game, select 'Properties', go to the 'BETAS' tab, and choose 'olderversion0104' from the drop-down menu.\x0AAfter switching, load the game as usual, and place all your inventory items, including the hotbar and equipment, into a storage chest in your base. Then save the game and switch back to the main branch. Please note that blueprints will be affected in any case.\x0A(To switch back, repeat the process and select 'None - opt out of all beta programs'.)\x0A\x0A\x0ALoading saves in this version will erase your inventory and blueprints, but your buildings should remain intact.\x0A\x0A\x0AWe've overhauled the game's core coding to address saving/loading issues, resulting in faster saving and more stable loading. We've also improved world stability (tested with 30k building pieces). Unfortunately, these changes led to save conflicts."/>
+						<m_Localized type="string" value="This version is not compatible with older version save files. You will not be able to load your previous game progress. If you wish to continue playing your old saves, please switch to the older version branch. To do this, right-click on the game in your library, click on Properties, select the Betas tab, and then choose the 'olderversion' branch."/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -4529,8 +4065,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_280>
-					<data_281 type="TableEntryData">
+					</data_251>
+					<data_252 type="TableEntryData">
 						<m_Id type="SInt64" value="55805379913773056"/>
 						<m_Localized type="string" value="Delete  World"/>
 						<m_Metadata type="MetadataCollection">
@@ -4545,8 +4081,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_281>
-					<data_282 type="TableEntryData">
+					</data_252>
+					<data_253 type="TableEntryData">
 						<m_Id type="SInt64" value="55805526081073152"/>
 						<m_Localized type="string" value="Are you sure to delete the selected world?"/>
 						<m_Metadata type="MetadataCollection">
@@ -4561,8 +4097,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_282>
-					<data_283 type="TableEntryData">
+					</data_253>
+					<data_254 type="TableEntryData">
 						<m_Id type="SInt64" value="56485761920233472"/>
 						<m_Localized type="string" value="Pack Up"/>
 						<m_Metadata type="MetadataCollection">
@@ -4577,8 +4113,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_283>
-					<data_284 type="TableEntryData">
+					</data_254>
+					<data_255 type="TableEntryData">
 						<m_Id type="SInt64" value="57002251330080768"/>
 						<m_Localized type="string" value="Visible to public"/>
 						<m_Metadata type="MetadataCollection">
@@ -4593,8 +4129,8 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_284>
-					<data_285 type="TableEntryData">
+					</data_255>
+					<data_256 type="TableEntryData">
 						<m_Id type="SInt64" value="57019348482486272"/>
 						<m_Localized type="string" value="Switch Ore Type"/>
 						<m_Metadata type="MetadataCollection">
@@ -4609,7 +4145,231 @@
 								</Array>
 							</m_Items>
 						</m_Metadata>
-					</data_285>
+					</data_256>
+					<data_257 type="TableEntryData">
+						<m_Id type="SInt64" value="69682257670430720"/>
+						<m_Localized type="string" value="Pause"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_257>
+					<data_258 type="TableEntryData">
+						<m_Id type="SInt64" value="85097458485944320"/>
+						<m_Localized type="string" value="ROF"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_258>
+					<data_259 type="TableEntryData">
+						<m_Id type="SInt64" value="85097580695379968"/>
+						<m_Localized type="string" value="Recoil"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_259>
+					<data_260 type="TableEntryData">
+						<m_Id type="SInt64" value="85097782063915008"/>
+						<m_Localized type="string" value="Mag Size"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_260>
+					<data_261 type="TableEntryData">
+						<m_Id type="SInt64" value="85097922933809152"/>
+						<m_Localized type="string" value="Muzzle Speed"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_261>
+					<data_262 type="TableEntryData">
+						<m_Id type="SInt64" value="85098129356480512"/>
+						<m_Localized type="string" value="Ammo Type"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_262>
+					<data_263 type="TableEntryData">
+						<m_Id type="SInt64" value="85098266526998528"/>
+						<m_Localized type="string" value="Assemble"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_263>
+					<data_264 type="TableEntryData">
+						<m_Id type="SInt64" value="85112398424825856"/>
+						<m_Localized type="string" value="Remove and Return"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_264>
+					<data_265 type="TableEntryData">
+						<m_Id type="SInt64" value="92732029985611776"/>
+						<m_Localized type="string" value="Radiation"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_265>
+					<data_266 type="TableEntryData">
+						<m_Id type="SInt64" value="93446409727500288"/>
+						<m_Localized type="string" value="Need Materials:"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_266>
+					<data_267 type="TableEntryData">
+						<m_Id type="SInt64" value="96673693926154240"/>
+						<m_Localized type="string" value="Integrated Firing Rate"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_267>
+					<data_268 type="TableEntryData">
+						<m_Id type="SInt64" value="96674054950871040"/>
+						<m_Localized type="string" value="Recoil"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_268>
+					<data_269 type="TableEntryData">
+						<m_Id type="SInt64" value="97585259865432064"/>
+						<m_Localized type="string" value="Countdown to bed respawn："/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_269>
+					<data_270 type="TableEntryData">
+						<m_Id type="SInt64" value="108278139122606080"/>
+						<m_Localized type="string" value="Mount"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_270>
 				</data>
 			</Array>
 		</m_TableData>

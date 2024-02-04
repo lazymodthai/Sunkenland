@@ -24,7 +24,7 @@
 					<size type="int" value="0"/>
 					<data type="managedRefArrayItem">
 						<data_0 type="managedRefArrayItem">
-							<rid type="SInt64" value="0"/>
+							<rid type="SInt64" value="995430984455028746"/>
 						</data_0>
 					</data>
 				</Array>
@@ -32,18 +32,18 @@
 		</m_Metadata>
 		<m_TableData type="TableEntryData">
 			<Array type="Array">
-				<size type="int" value="46"/>
+				<size type="int" value="76"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
 						<m_Id type="SInt64" value="976354820096"/>
-						<m_Localized type="string" value="Right click to study this blueprint"/>
+						<m_Localized type="string" value="Right-click to learn the blueprint"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
 									<size type="int" value="0"/>
 									<data type="managedRefArrayItem">
 										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
+											<rid type="SInt64" value="995430984455028746"/>
 										</data_0>
 									</data>
 								</Array>
@@ -770,6 +770,486 @@
 							</m_Items>
 						</m_Metadata>
 					</data_45>
+					<data_46 type="TableEntryData">
+						<m_Id type="SInt64" value="75156540686704640"/>
+						<m_Localized type="string" value="Blueprint: Wall Spike"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_46>
+					<data_47 type="TableEntryData">
+						<m_Id type="SInt64" value="75157822025605120"/>
+						<m_Localized type="string" value="Blueprint: Wall Trap"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_47>
+					<data_48 type="TableEntryData">
+						<m_Id type="SInt64" value="75158261232148480"/>
+						<m_Localized type="string" value="Blueprint: Fishnet"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_48>
+					<data_49 type="TableEntryData">
+						<m_Id type="SInt64" value="75158831133204480"/>
+						<m_Localized type="string" value="Blueprint: Fridge"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_49>
+					<data_50 type="TableEntryData">
+						<m_Id type="SInt64" value="75162179987152896"/>
+						<m_Localized type="string" value="Blueprint: Stove"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_50>
+					<data_51 type="TableEntryData">
+						<m_Id type="SInt64" value="75162831559696384"/>
+						<m_Localized type="string" value="Blueprint Percussion Pistol"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_51>
+					<data_52 type="TableEntryData">
+						<m_Id type="SInt64" value="75164222286045184"/>
+						<m_Localized type="string" value="Blueprint: Furnace"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_52>
+					<data_53 type="TableEntryData">
+						<m_Id type="SInt64" value="75164940673851392"/>
+						<m_Localized type="string" value="Blueprint: Tripple Barrel Pistol"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_53>
+					<data_54 type="TableEntryData">
+						<m_Id type="SInt64" value="75166497373003776"/>
+						<m_Localized type="string" value="Blueprint: Safe"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_54>
+					<data_55 type="TableEntryData">
+						<m_Id type="SInt64" value="75166805306220544"/>
+						<m_Localized type="string" value="Blueprint: Flare"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_55>
+					<data_56 type="TableEntryData">
+						<m_Id type="SInt64" value="75167283976970240"/>
+						<m_Localized type="string" value="Blueprint: Welding"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_56>
+					<data_57 type="TableEntryData">
+						<m_Id type="SInt64" value="75168079703547904"/>
+						<m_Localized type="string" value="Blueprint: Decompose Table"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_57>
+					<data_58 type="TableEntryData">
+						<m_Id type="SInt64" value="75168315024973824"/>
+						<m_Localized type="string" value="Blueprint: Ceiling Light"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_58>
+					<data_59 type="TableEntryData">
+						<m_Id type="SInt64" value="75168637759889408"/>
+						<m_Localized type="string" value="Blueprint: Table Lamp"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_59>
+					<data_60 type="TableEntryData">
+						<m_Id type="SInt64" value="75169227663581184"/>
+						<m_Localized type="string" value="Blueprint: Scrap Pistol"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_60>
+					<data_61 type="TableEntryData">
+						<m_Id type="SInt64" value="75169505230036992"/>
+						<m_Localized type="string" value="Blueprint: HeadLight"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_61>
+					<data_62 type="TableEntryData">
+						<m_Id type="SInt64" value="75169945912975360"/>
+						<m_Localized type="string" value="Blueprint: Buoy"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_62>
+					<data_63 type="TableEntryData">
+						<m_Id type="SInt64" value="75170207276834816"/>
+						<m_Localized type="string" value="Blueprint: Searchlight"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_63>
+					<data_64 type="TableEntryData">
+						<m_Id type="SInt64" value="75170556683329536"/>
+						<m_Localized type="string" value="Blueprint: Siren"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_64>
+					<data_65 type="TableEntryData">
+						<m_Id type="SInt64" value="75170809088155648"/>
+						<m_Localized type="string" value="Blueprint: Detector"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_65>
+					<data_66 type="TableEntryData">
+						<m_Id type="SInt64" value="75433164510437376"/>
+						<m_Localized type="string" value="Blueprint: Big Air Tank"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_66>
+					<data_67 type="TableEntryData">
+						<m_Id type="SInt64" value="75433462981304320"/>
+						<m_Localized type="string" value="Blueprint: Portable Repair Tools"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_67>
+					<data_68 type="TableEntryData">
+						<m_Id type="SInt64" value="75433851990417408"/>
+						<m_Localized type="string" value="Blueprint: Big Fish Basket"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_68>
+					<data_69 type="TableEntryData">
+						<m_Id type="SInt64" value="75434198783860736"/>
+						<m_Localized type="string" value="Blueprint: Bird Trap"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_69>
+					<data_70 type="TableEntryData">
+						<m_Id type="SInt64" value="75434538497318912"/>
+						<m_Localized type="string" value="Blueprint: Lockpick"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_70>
+					<data_71 type="TableEntryData">
+						<m_Id type="SInt64" value="75434937706979328"/>
+						<m_Localized type="string" value="Blueprint: Portable Inflatable Bottle"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_71>
+					<data_72 type="TableEntryData">
+						<m_Id type="SInt64" value="75435193563717632"/>
+						<m_Localized type="string" value="Blueprint: lithium Battery"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_72>
+					<data_73 type="TableEntryData">
+						<m_Id type="SInt64" value="75483878762848256"/>
+						<m_Localized type="string" value="Blueprint: Homemade Revolver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_73>
+					<data_74 type="TableEntryData">
+						<m_Id type="SInt64" value="75486408016240640"/>
+						<m_Localized type="string" value="Blueprint: Automatic Firearms Recovery Station"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_74>
+					<data_75 type="TableEntryData">
+						<m_Id type="SInt64" value="79048359317692416"/>
+						<m_Localized type="string" value="Blueprint: Weapons Display Stand"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_75>
 				</data>
 			</Array>
 		</m_TableData>
@@ -780,11 +1260,11 @@
 					<size type="int" value="0"/>
 					<data type="ReferencedObject">
 						<data_0 type="ReferencedObject">
-							<rid type="SInt64" value="0"/>
+							<rid type="SInt64" value="995430984455028746"/>
 							<type type="ReferencedManagedType">
-								<class type="string" value=""/>
-								<ns type="string" value=""/>
-								<asm type="string" value=""/>
+								<class type="string" value="SmartFormatTag"/>
+								<ns type="string" value="UnityEngine.Localization.Metadata"/>
+								<asm type="string" value="Unity.Localization"/>
 							</type>
 							<data type="ReferencedObjectData">
 							</data>
@@ -794,4 +1274,8 @@
 			</RefIds>
 		</references>
 	</Base>
+	<FooterData>
+<![CDATA[
+01 00 00 00 00 70 5F A4 C5 BF 2A 00 ]]>
+	</FooterData>
 </Structure>

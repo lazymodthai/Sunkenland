@@ -10,21 +10,21 @@
 			<m_FileID type="int" value="0"/>
 			<m_PathID type="SInt64" value="-2378050947708348859"/>
 		</m_Script>
-		<m_Name type="string" value="SteamFriendInvite_en"/>
+		<m_Name type="string" value="UICharacterSelection_en"/>
 		<m_LocaleId type="LocaleIdentifier">
 			<m_Code type="string" value="en"/>
 		</m_LocaleId>
 		<m_SharedData type="PPtr($SharedTableData)">
 			<m_FileID type="int" value="1"/>
-			<m_PathID type="SInt64" value="2542864165499364154"/>
+			<m_PathID type="SInt64" value="-4759211162980429573"/>
 		</m_SharedData>
 		<m_Metadata type="MetadataCollection">
 			<m_Items type="IMetadata">
 				<Array type="Array">
-					<size type="int" value="1"/>
+					<size type="int" value="0"/>
 					<data type="managedRefArrayItem">
 						<data_0 type="managedRefArrayItem">
-							<rid type="SInt64" value="8429620792306696194"/>
+							<rid type="SInt64" value="9162611163101396994"/>
 						</data_0>
 					</data>
 				</Array>
@@ -35,8 +35,8 @@
 				<size type="int" value="2"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
-						<m_Id type="SInt64" value="52540309504"/>
-						<m_Localized type="string" value="Game Version Mismatch"/>
+						<m_Id type="SInt64" value="18256580608"/>
+						<m_Localized type="string" value="Single Player"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -51,15 +51,15 @@
 						</m_Metadata>
 					</data_0>
 					<data_1 type="TableEntryData">
-						<m_Id type="SInt64" value="773444698112"/>
-						<m_Localized type="string" value="Please play together with the same version of the game. Your friend's version is {friendVersion}, and your version is {yourVersion}."/>
+						<m_Id type="SInt64" value="135059558400"/>
+						<m_Localized type="string" value="Host Server"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
-									<size type="int" value="1"/>
+									<size type="int" value="0"/>
 									<data type="managedRefArrayItem">
 										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="8429620792306696194"/>
+											<rid type="SInt64" value="0"/>
 										</data_0>
 									</data>
 								</Array>
@@ -73,10 +73,10 @@
 			<version type="int" value="2"/>
 			<RefIds type="vector">
 				<Array type="Array">
-					<size type="int" value="1"/>
+					<size type="int" value="0"/>
 					<data type="ReferencedObject">
 						<data_0 type="ReferencedObject">
-							<rid type="SInt64" value="8429620792306696194"/>
+							<rid type="SInt64" value="9162611163101396994"/>
 							<type type="ReferencedManagedType">
 								<class type="string" value="SmartFormatTag"/>
 								<ns type="string" value="UnityEngine.Localization.Metadata"/>
@@ -92,6 +92,7 @@
 	</Base>
 	<FooterData>
 <![CDATA[
-01 00 00 00 00 80 E5 14 B4 00 00 00 ]]>
+02 00 00 00 00 E0 EF B0 9E 35 56 00 02 C0 18 31
+A6 44 7C 00 ]]>
 	</FooterData>
 </Structure>

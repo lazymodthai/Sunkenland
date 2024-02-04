@@ -24,7 +24,7 @@
 					<size type="int" value="0"/>
 					<data type="managedRefArrayItem">
 						<data_0 type="managedRefArrayItem">
-							<rid type="SInt64" value="9162611163101396994"/>
+							<rid type="SInt64" value="0"/>
 						</data_0>
 					</data>
 				</Array>
@@ -32,7 +32,7 @@
 		</m_Metadata>
 		<m_TableData type="TableEntryData">
 			<Array type="Array">
-				<size type="int" value="6"/>
+				<size type="int" value="8"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
 						<m_Id type="SInt64" value="162171539456"/>
@@ -130,6 +130,38 @@
 							</m_Items>
 						</m_Metadata>
 					</data_5>
+					<data_6 type="TableEntryData">
+						<m_Id type="SInt64" value="15046704607780864"/>
+						<m_Localized type="string" value="Quit WITHOUT Saving"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_6>
+					<data_7 type="TableEntryData">
+						<m_Id type="SInt64" value="15049723890098176"/>
+						<m_Localized type="string" value="Are you sure to exit &quot;WITHOUT&quot; saving the game?"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_7>
 				</data>
 			</Array>
 		</m_TableData>
@@ -140,11 +172,11 @@
 					<size type="int" value="0"/>
 					<data type="ReferencedObject">
 						<data_0 type="ReferencedObject">
-							<rid type="SInt64" value="9162611163101396994"/>
+							<rid type="SInt64" value="0"/>
 							<type type="ReferencedManagedType">
-								<class type="string" value="SmartFormatTag"/>
-								<ns type="string" value="UnityEngine.Localization.Metadata"/>
-								<asm type="string" value="Unity.Localization"/>
+								<class type="string" value=""/>
+								<ns type="string" value=""/>
+								<asm type="string" value=""/>
 							</type>
 							<data type="ReferencedObjectData">
 							</data>
@@ -154,9 +186,4 @@
 			</RefIds>
 		</references>
 	</Base>
-	<FooterData>
-<![CDATA[
-02 00 00 00 00 E0 EF B0 9E 35 56 00 02 C0 18 31
-A6 44 7C 00 ]]>
-	</FooterData>
 </Structure>

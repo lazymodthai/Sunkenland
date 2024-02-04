@@ -10,13 +10,13 @@
 			<m_FileID type="int" value="0"/>
 			<m_PathID type="SInt64" value="-2378050947708348859"/>
 		</m_Script>
-		<m_Name type="string" value="ControllerKeyAction_en"/>
+		<m_Name type="string" value="Dairy_en"/>
 		<m_LocaleId type="LocaleIdentifier">
 			<m_Code type="string" value="en"/>
 		</m_LocaleId>
 		<m_SharedData type="PPtr($SharedTableData)">
 			<m_FileID type="int" value="1"/>
-			<m_PathID type="SInt64" value="-961133768139544675"/>
+			<m_PathID type="SInt64" value="-4460215323024375009"/>
 		</m_SharedData>
 		<m_Metadata type="MetadataCollection">
 			<m_Items type="IMetadata">
@@ -24,7 +24,7 @@
 					<size type="int" value="0"/>
 					<data type="managedRefArrayItem">
 						<data_0 type="managedRefArrayItem">
-							<rid type="SInt64" value="995430984455028746"/>
+							<rid type="SInt64" value="6367545751514120194"/>
 						</data_0>
 					</data>
 				</Array>
@@ -35,8 +35,8 @@
 				<size type="int" value="18"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
-						<m_Id type="SInt64" value="5526365728770"/>
-						<m_Localized type="string" value="Quest Menu"/>
+						<m_Id type="SInt64" value="4891656314881"/>
+						<m_Localized type="string" value="Radio Island"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -51,8 +51,8 @@
 						</m_Metadata>
 					</data_0>
 					<data_1 type="TableEntryData">
-						<m_Id type="SInt64" value="5526365728769"/>
-						<m_Localized type="string" value="Map Menu"/>
+						<m_Id type="SInt64" value="195188462280704"/>
+						<m_Localized type="string" value="Iron Skull Base"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -67,8 +67,8 @@
 						</m_Metadata>
 					</data_1>
 					<data_2 type="TableEntryData">
-						<m_Id type="SInt64" value="5526365728768"/>
-						<m_Localized type="string" value="Jump"/>
+						<m_Id type="SInt64" value="4891656314880"/>
+						<m_Localized type="string" value="Survival Guide"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -83,8 +83,8 @@
 						</m_Metadata>
 					</data_2>
 					<data_3 type="TableEntryData">
-						<m_Id type="SInt64" value="5526361534466"/>
-						<m_Localized type="string" value="Move"/>
+						<m_Id type="SInt64" value="1187674841088"/>
+						<m_Localized type="string" value="Good news, I'm still alive. The bad news is that I've lost everything except for a stone axe. Surviving in this treacherous border region at sea is no easy task. I need food and water, a warm bed, and a sturdy base. And of course, I mustn't forget to make weapons for self-defense. In this godforsaken place, anything that moves could potentially take my life! I should start by exploring the many underwater ruins nearby to gather basic construction materials. If I'm lucky, I might even find some technology blueprints. I have to arm myself before those ruthless pirates in the area discover me again."/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -99,8 +99,8 @@
 						</m_Metadata>
 					</data_3>
 					<data_4 type="TableEntryData">
-						<m_Id type="SInt64" value="5526361534465"/>
-						<m_Localized type="string" value="Sprint"/>
+						<m_Id type="SInt64" value="378735520899072"/>
+						<m_Localized type="string" value="Radio Island is nearby. I've heard that marauders rule the island, controlling some important resources, such as valuable rubber. I should take the initiative to deal with them and eliminate any future threats. If possible, I might even consider establishing a secondary base on the island. Of course, these people are not likely to be an undisciplined group; they might have guns. I need some armor and long-range weapons, as well as extra bandages and healing herbs for injuries."/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -115,8 +115,8 @@
 						</m_Metadata>
 					</data_4>
 					<data_5 type="TableEntryData">
-						<m_Id type="SInt64" value="5526361534464"/>
-						<m_Localized type="string" value="Aim Down Sight"/>
+						<m_Id type="SInt64" value="378735541870592"/>
+						<m_Localized type="string" value="Iron Skull Base, that's a pretty imposing name. It's a base where pirates stockpile their supplies. If I can take it down, I'm sure to get a rich reward in terms of resources. However, this place is well-defended, and the pirates are armed to the teeth. So, I shouldn't take it lightly; I need to prepare armor and weapons, preferably a crossbow or a black powder firearm."/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -131,8 +131,8 @@
 						</m_Metadata>
 					</data_5>
 					<data_6 type="TableEntryData">
-						<m_Id type="SInt64" value="2005679534080"/>
-						<m_Localized type="string" value="None"/>
+						<m_Id type="SInt64" value="378735546064896"/>
+						<m_Localized type="string" value="This is the headquarters of Slavers. These villains destroyed my hometown, Hope Atoll. They not only killed my family but also looted the entire island and enslaved the surviving men, women, and children. This time, I must seek revenge and erase this evil force from the face of the earth! Be aware that the slavers are well-equipped, and the majority of them possess automatic firearms. Moreover, Dreadville is a small fortress, and the enemy has the advantage of terrain. I need ample ammunition and medical supplies. Perhaps Molotov cocktails could be helpful in a siege?"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -147,8 +147,8 @@
 						</m_Metadata>
 					</data_6>
 					<data_7 type="TableEntryData">
-						<m_Id type="SInt64" value="5526365728771"/>
-						<m_Localized type="string" value="Inventory Menu"/>
+						<m_Id type="SInt64" value="378735546064897"/>
+						<m_Localized type="string" value="This outpost is controlled by the Hunter's Union, a group of daredevils who will do anything for money, is an evil mercenary organization in the sunken lands. They once joined forces with the slave traders to destroy my homeland. With them around, there will never be peace in this region. What's more, they control some important resources. I should act quickly to eradicate this evil force. Almost everyone among them is armed, and they have a large number of automatic weapons. I can seize materials from them to manufacture advanced firearms. I can also break down damaged firearms into firearm components in an advanced firearm manufacturing station and then assemble a new gun. It's time to update my arsenal!"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -163,8 +163,8 @@
 						</m_Metadata>
 					</data_7>
 					<data_8 type="TableEntryData">
-						<m_Id type="SInt64" value="5526365728772"/>
-						<m_Localized type="string" value="Build Menu"/>
+						<m_Id type="SInt64" value="378735546064898"/>
+						<m_Localized type="string" value="The territory of the Salvation Clan, a full-fledged searaiders. They often use the guise of saviors to extort resources from the residents of nearby floating islands. If people refuse to comply, they resort to violent oppression, and countless civilians have lost their lives to their guns. While they may not be the most powerful military force in the sunkenland, they do control several resource-rich islands. It's time to pay them a visit. If I can bring along a submachine gun or a rifle, I should be able to teach these thugs a harsh lesson."/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -179,8 +179,8 @@
 						</m_Metadata>
 					</data_8>
 					<data_9 type="TableEntryData">
-						<m_Id type="SInt64" value="5526365728773"/>
-						<m_Localized type="string" value="Menu"/>
+						<m_Id type="SInt64" value="378735546064899"/>
+						<m_Localized type="string" value="This is the headquarters of the Hunter's Union. As mentioned earlier, these mercenaries are not to be underestimated. They are well-equipped and well-trained. Before launching an attack, I must make sure to equip myself with my best weapons and armor, and I should also carry an ample supply of food and medical supplies. The journey is long, so I should be prepared to spend the night there."/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -195,8 +195,8 @@
 						</m_Metadata>
 					</data_9>
 					<data_10 type="TableEntryData">
-						<m_Id type="SInt64" value="5526365728774"/>
-						<m_Localized type="string" value="Use / Mouse Click"/>
+						<m_Id type="SInt64" value="378735546064900"/>
+						<m_Localized type="string" value="The Warheads Tribe-controlled islands. They are the most powerful military organization in this region, with a large number of members and access to various advanced firearms. Their goal is to gain control of the entire sunken lands through force, seizing the last remaining terrestrial resources of humanity. Wherever they go, they bring devastation, and anyone who doesn't cooperate is ruthlessly killed. Many floating islands have succumbed to their reign of terror. Eliminating them should be the most significant contribution I can make to the sunken lands."/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -211,8 +211,8 @@
 						</m_Metadata>
 					</data_10>
 					<data_11 type="TableEntryData">
-						<m_Id type="SInt64" value="5526365728775"/>
-						<m_Localized type="string" value="Switch Standing/Crouch"/>
+						<m_Id type="SInt64" value="378735546064901"/>
+						<m_Localized type="string" value="Alright, this is it, the final showdown... the headquarters of The Warheads Tribe! It's hard to believe that I, on my own, have conquered the entire border region. I'm prepared with all my gear for this ultimate battle!"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -227,8 +227,8 @@
 						</m_Metadata>
 					</data_11>
 					<data_12 type="TableEntryData">
-						<m_Id type="SInt64" value="5526365728776"/>
-						<m_Localized type="string" value="Reload"/>
+						<m_Id type="SInt64" value="212405715296256"/>
+						<m_Localized type="string" value="Zion Atoll"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -243,8 +243,8 @@
 						</m_Metadata>
 					</data_12>
 					<data_13 type="TableEntryData">
-						<m_Id type="SInt64" value="5526365728777"/>
-						<m_Localized type="string" value="Select Next QuickSlot"/>
+						<m_Id type="SInt64" value="212318276640768"/>
+						<m_Localized type="string" value="Iron Helmet Base"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -259,8 +259,8 @@
 						</m_Metadata>
 					</data_13>
 					<data_14 type="TableEntryData">
-						<m_Id type="SInt64" value="5526365728778"/>
-						<m_Localized type="string" value="Main Interaction"/>
+						<m_Id type="SInt64" value="211697586757632"/>
+						<m_Localized type="string" value="Dreadville"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -275,8 +275,8 @@
 						</m_Metadata>
 					</data_14>
 					<data_15 type="TableEntryData">
-						<m_Id type="SInt64" value="5526365728779"/>
-						<m_Localized type="string" value="Secondary Interaction"/>
+						<m_Id type="SInt64" value="212045814652928"/>
+						<m_Localized type="string" value="Cliffton Outpost"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -291,8 +291,8 @@
 						</m_Metadata>
 					</data_15>
 					<data_16 type="TableEntryData">
-						<m_Id type="SInt64" value="5526365728780"/>
-						<m_Localized type="string" value="Look / Aim"/>
+						<m_Id type="SInt64" value="212158792425472"/>
+						<m_Localized type="string" value="Twin Rocks"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -307,8 +307,8 @@
 						</m_Metadata>
 					</data_16>
 					<data_17 type="TableEntryData">
-						<m_Id type="SInt64" value="5526365728781"/>
-						<m_Localized type="string" value="Use QuickSlot Item"/>
+						<m_Id type="SInt64" value="212242716254208"/>
+						<m_Localized type="string" value="Ashbond Outpost"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -332,7 +332,7 @@
 					<size type="int" value="0"/>
 					<data type="ReferencedObject">
 						<data_0 type="ReferencedObject">
-							<rid type="SInt64" value="995430984455028746"/>
+							<rid type="SInt64" value="6367545751514120194"/>
 							<type type="ReferencedManagedType">
 								<class type="string" value="SmartFormatTag"/>
 								<ns type="string" value="UnityEngine.Localization.Metadata"/>
@@ -348,6 +348,6 @@
 	</Base>
 	<FooterData>
 <![CDATA[
-01 00 00 00 00 70 5F A4 C5 BF 2A 00 ]]>
+01 00 00 00 00 50 2D A4 B0 E8 15 00 ]]>
 	</FooterData>
 </Structure>

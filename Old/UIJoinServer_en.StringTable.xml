@@ -10,13 +10,13 @@
 			<m_FileID type="int" value="0"/>
 			<m_PathID type="SInt64" value="-2378050947708348859"/>
 		</m_Script>
-		<m_Name type="string" value="InputAction_en"/>
+		<m_Name type="string" value="UIJoinServer_en"/>
 		<m_LocaleId type="LocaleIdentifier">
 			<m_Code type="string" value="en"/>
 		</m_LocaleId>
 		<m_SharedData type="PPtr($SharedTableData)">
 			<m_FileID type="int" value="1"/>
-			<m_PathID type="SInt64" value="-8681139718866126748"/>
+			<m_PathID type="SInt64" value="7528374604335896253"/>
 		</m_SharedData>
 		<m_Metadata type="MetadataCollection">
 			<m_Items type="IMetadata">
@@ -24,7 +24,7 @@
 					<size type="int" value="0"/>
 					<data type="managedRefArrayItem">
 						<data_0 type="managedRefArrayItem">
-							<rid type="SInt64" value="6258006346130784259"/>
+							<rid type="SInt64" value="6367545751514120194"/>
 						</data_0>
 					</data>
 				</Array>
@@ -32,11 +32,11 @@
 		</m_Metadata>
 		<m_TableData type="TableEntryData">
 			<Array type="Array">
-				<size type="int" value="11"/>
+				<size type="int" value="9"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
-						<m_Id type="SInt64" value="366320386048"/>
-						<m_Localized type="string" value="Switch Firing Mode"/>
+						<m_Id type="SInt64" value="192391667712"/>
+						<m_Localized type="string" value="Dedicated Server"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -51,8 +51,8 @@
 						</m_Metadata>
 					</data_0>
 					<data_1 type="TableEntryData">
-						<m_Id type="SInt64" value="1217562771456"/>
-						<m_Localized type="string" value="Primary Interaction"/>
+						<m_Id type="SInt64" value="347379589120"/>
+						<m_Localized type="string" value="Player As Host"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -67,8 +67,8 @@
 						</m_Metadata>
 					</data_1>
 					<data_2 type="TableEntryData">
-						<m_Id type="SInt64" value="1274504642560"/>
-						<m_Localized type="string" value="Secondary Interaction"/>
+						<m_Id type="SInt64" value="24201267240960"/>
+						<m_Localized type="string" value="Join Server By ID\x0A(Dedicated Server Only)"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -83,8 +83,8 @@
 						</m_Metadata>
 					</data_2>
 					<data_3 type="TableEntryData">
-						<m_Id type="SInt64" value="1574867140608"/>
-						<m_Localized type="string" value="Show Cursor"/>
+						<m_Id type="SInt64" value="24493664755712"/>
+						<m_Localized type="string" value="Enter Server ID"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -99,8 +99,8 @@
 						</m_Metadata>
 					</data_3>
 					<data_4 type="TableEntryData">
-						<m_Id type="SInt64" value="1716361986048"/>
-						<m_Localized type="string" value="Speed Booster"/>
+						<m_Id type="SInt64" value="24537298100224"/>
+						<m_Localized type="string" value="Enter Server Password\x0A(Empty if none)"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -115,8 +115,8 @@
 						</m_Metadata>
 					</data_4>
 					<data_5 type="TableEntryData">
-						<m_Id type="SInt64" value="1881894387712"/>
-						<m_Localized type="string" value="Sail Down/Up"/>
+						<m_Id type="SInt64" value="24617103122432"/>
+						<m_Localized type="string" value="Server ID"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -131,8 +131,8 @@
 						</m_Metadata>
 					</data_5>
 					<data_6 type="TableEntryData">
-						<m_Id type="SInt64" value="2943397232640"/>
-						<m_Localized type="string" value="Rotate Sail Left"/>
+						<m_Id type="SInt64" value="24630663307264"/>
+						<m_Localized type="string" value="Server Password"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -147,8 +147,8 @@
 						</m_Metadata>
 					</data_6>
 					<data_7 type="TableEntryData">
-						<m_Id type="SInt64" value="3223497048064"/>
-						<m_Localized type="string" value="Rotate Sail Right"/>
+						<m_Id type="SInt64" value="26576317046784"/>
+						<m_Localized type="string" value="Join Server By ID"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -163,8 +163,8 @@
 						</m_Metadata>
 					</data_7>
 					<data_8 type="TableEntryData">
-						<m_Id type="SInt64" value="3365595873280"/>
-						<m_Localized type="string" value="Select Next Placeable Item"/>
+						<m_Id type="SInt64" value="5587883502067712"/>
+						<m_Localized type="string" value="Invalid Server ID"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -178,38 +178,6 @@
 							</m_Items>
 						</m_Metadata>
 					</data_8>
-					<data_9 type="TableEntryData">
-						<m_Id type="SInt64" value="3573784346624"/>
-						<m_Localized type="string" value="Select Previous Placeable Item"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_9>
-					<data_10 type="TableEntryData">
-						<m_Id type="SInt64" value="12134161678336"/>
-						<m_Localized type="string" value=" Voice Chat Push To Talk"/>
-						<m_Metadata type="MetadataCollection">
-							<m_Items type="IMetadata">
-								<Array type="Array">
-									<size type="int" value="0"/>
-									<data type="managedRefArrayItem">
-										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
-										</data_0>
-									</data>
-								</Array>
-							</m_Items>
-						</m_Metadata>
-					</data_10>
 				</data>
 			</Array>
 		</m_TableData>
@@ -220,7 +188,7 @@
 					<size type="int" value="0"/>
 					<data type="ReferencedObject">
 						<data_0 type="ReferencedObject">
-							<rid type="SInt64" value="6258006346130784259"/>
+							<rid type="SInt64" value="6367545751514120194"/>
 							<type type="ReferencedManagedType">
 								<class type="string" value="SmartFormatTag"/>
 								<ns type="string" value="UnityEngine.Localization.Metadata"/>
@@ -236,6 +204,6 @@
 	</Base>
 	<FooterData>
 <![CDATA[
-01 00 00 00 0B E0 2F 2E 47 3F 05 00 ]]>
+01 00 00 00 00 50 2D A4 B0 E8 15 00 ]]>
 	</FooterData>
 </Structure>

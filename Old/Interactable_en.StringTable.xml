@@ -32,7 +32,7 @@
 		</m_Metadata>
 		<m_TableData type="TableEntryData">
 			<Array type="Array">
-				<size type="int" value="6"/>
+				<size type="int" value="7"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
 						<m_Id type="SInt64" value="12032804609028096"/>
@@ -130,6 +130,22 @@
 							</m_Items>
 						</m_Metadata>
 					</data_5>
+					<data_6 type="TableEntryData">
+						<m_Id type="SInt64" value="64798983399661568"/>
+						<m_Localized type="string" value="Rename Chest"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_6>
 				</data>
 			</Array>
 		</m_TableData>

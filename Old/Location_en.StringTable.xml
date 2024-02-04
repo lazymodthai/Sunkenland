@@ -24,7 +24,7 @@
 					<size type="int" value="0"/>
 					<data type="managedRefArrayItem">
 						<data_0 type="managedRefArrayItem">
-							<rid type="SInt64" value="6258006346130784259"/>
+							<rid type="SInt64" value="6367545751514120194"/>
 						</data_0>
 					</data>
 				</Array>
@@ -924,7 +924,7 @@
 					<size type="int" value="0"/>
 					<data type="ReferencedObject">
 						<data_0 type="ReferencedObject">
-							<rid type="SInt64" value="6258006346130784259"/>
+							<rid type="SInt64" value="6367545751514120194"/>
 							<type type="ReferencedManagedType">
 								<class type="string" value="SmartFormatTag"/>
 								<ns type="string" value="UnityEngine.Localization.Metadata"/>
@@ -940,6 +940,6 @@
 	</Base>
 	<FooterData>
 <![CDATA[
-01 00 00 00 0B E0 2F 2E 47 3F 05 00 ]]>
+01 00 00 00 00 50 2D A4 B0 E8 15 00 ]]>
 	</FooterData>
 </Structure>

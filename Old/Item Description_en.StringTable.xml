@@ -24,7 +24,7 @@
 					<size type="int" value="0"/>
 					<data type="managedRefArrayItem">
 						<data_0 type="managedRefArrayItem">
-							<rid type="SInt64" value="6258006346130784259"/>
+							<rid type="SInt64" value="6367545751514120194"/>
 						</data_0>
 					</data>
 				</Array>
@@ -32,7 +32,7 @@
 		</m_Metadata>
 		<m_TableData type="TableEntryData">
 			<Array type="Array">
-				<size type="int" value="80"/>
+				<size type="int" value="198"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
 						<m_Id type="SInt64" value="952153686016"/>
@@ -404,7 +404,7 @@
 					</data_22>
 					<data_23 type="TableEntryData">
 						<m_Id type="SInt64" value="1692984989818880"/>
-						<m_Localized type="string" value="Used for crafting modern firearms."/>
+						<m_Localized type="string" value="Used for crafting modern firearms, and can also be used in the workshop to print basic WWII gun components."/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -1268,7 +1268,7 @@
 					</data_76>
 					<data_77 type="TableEntryData">
 						<m_Id type="SInt64" value="35994771449724928"/>
-						<m_Localized type="string" value="Can be crafted into a functional gun in a gun workshop."/>
+						<m_Localized type="string" value="Disassemble damaged gun components that can be recycled on the advanced gunsmithing table."/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -1314,6 +1314,1894 @@
 							</m_Items>
 						</m_Metadata>
 					</data_79>
+					<data_80 type="TableEntryData">
+						<m_Id type="SInt64" value="53287756169224192"/>
+						<m_Localized type="string" value="Used to repair buildings fast."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_80>
+					<data_81 type="TableEntryData">
+						<m_Id type="SInt64" value="68173216169156608"/>
+						<m_Localized type="string" value="Anatase is melted to produce strip-shaped metals."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_81>
+					<data_82 type="TableEntryData">
+						<m_Id type="SInt64" value="68174693432385536"/>
+						<m_Localized type="string" value="Used for crafting parts for modern and contemporary firearms, and can also be used in the workshop to print basic modern gun components."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_82>
+					<data_83 type="TableEntryData">
+						<m_Id type="SInt64" value="68180620457893888"/>
+						<m_Localized type="string" value="Parts made using modern craftsmanship."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_83>
+					<data_84 type="TableEntryData">
+						<m_Id type="SInt64" value="74751539485696000"/>
+						<m_Localized type="string" value="Larger oxygen capacity"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_84>
+					<data_85 type="TableEntryData">
+						<m_Id type="SInt64" value="74785810644557824"/>
+						<m_Localized type="string" value="Larger capacity than a battery!"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_85>
+					<data_86 type="TableEntryData">
+						<m_Id type="SInt64" value="74786735471812608"/>
+						<m_Localized type="string" value="After use, replenish half of the maximum oxygen value."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_86>
+					<data_87 type="TableEntryData">
+						<m_Id type="SInt64" value="74788590763466752"/>
+						<m_Localized type="string" value="After use, immediately make the entire body's armor shiny as new, and the durability value is fully restored"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_87>
+					<data_88 type="TableEntryData">
+						<m_Id type="SInt64" value="75099509506793472"/>
+						<m_Localized type="string" value="Burning ice cubes, completely clean energy."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_88>
+					<data_89 type="TableEntryData">
+						<m_Id type="SInt64" value="75102232201486336"/>
+						<m_Localized type="string" value="After use, it can quickly eliminate radiation values."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_89>
+					<data_90 type="TableEntryData">
+						<m_Id type="SInt64" value="75118478993219584"/>
+						<m_Localized type="string" value="Materials that are superior to iron ore, have high hardness and good ductility."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_90>
+					<data_91 type="TableEntryData">
+						<m_Id type="SInt64" value="75120370989228032"/>
+						<m_Localized type="string" value="A semi transparent lens is a necessary compound for producing high-tech products."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_91>
+					<data_92 type="TableEntryData">
+						<m_Id type="SInt64" value="68161267767271424"/>
+						<m_Localized type="string" value="Ammunition used in sniper rifles."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_92>
+					<data_93 type="TableEntryData">
+						<m_Id type="SInt64" value="76908360950439936"/>
+						<m_Localized type="string" value="Essential materials for making black powder bullets or smokeless gunpowder."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_93>
+					<data_94 type="TableEntryData">
+						<m_Id type="SInt64" value="76908784021495808"/>
+						<m_Localized type="string" value="Reduces hunger and thirst rate."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_94>
+					<data_95 type="TableEntryData">
+						<m_Id type="SInt64" value="77226594018877440"/>
+						<m_Localized type="string" value="Provides greater oxygen storage."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_95>
+					<data_96 type="TableEntryData">
+						<m_Id type="SInt64" value="77227281712766976"/>
+						<m_Localized type="string" value="Immediately repairs the durability of full body armor."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_96>
+					<data_97 type="TableEntryData">
+						<m_Id type="SInt64" value="77226908553928704"/>
+						<m_Localized type="string" value="Immediately restore half of the oxygen cylinder storage capacity."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_97>
+					<data_98 type="TableEntryData">
+						<m_Id type="SInt64" value="77226954389282816"/>
+						<m_Localized type="string" value="Larger battery storage."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_98>
+					<data_99 type="TableEntryData">
+						<m_Id type="SInt64" value="78770341378613248"/>
+						<m_Localized type="string" value="Used for quickly eliminating damage caused by radiation."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_99>
+					<data_100 type="TableEntryData">
+						<m_Id type="SInt64" value="78823934223802368"/>
+						<m_Localized type="string" value="Mainly used for making advanced bullets, but also for other industrial purposes."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_100>
+					<data_101 type="TableEntryData">
+						<m_Id type="SInt64" value="79042256987054080"/>
+						<m_Localized type="string" value="High grade minerals converted into titanium bars in an electrolytic furnace."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_101>
+					<data_102 type="TableEntryData">
+						<m_Id type="SInt64" value="82997848109834240"/>
+						<m_Localized type="string" value="Default component, the main material is waste metal commonly found on the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_102>
+					<data_103 type="TableEntryData">
+						<m_Id type="SInt64" value="82998089265537024"/>
+						<m_Localized type="string" value="Precision-crafted receiver, increases damage by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_103>
+					<data_104 type="TableEntryData">
+						<m_Id type="SInt64" value="82998182072901632"/>
+						<m_Localized type="string" value="Default component, the main material is waste metal commonly found on the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_104>
+					<data_105 type="TableEntryData">
+						<m_Id type="SInt64" value="82998327405535232"/>
+						<m_Localized type="string" value="Fine Iron Cast Gun Barrel, Better Performance than Scrap Metal "/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_105>
+					<data_106 type="TableEntryData">
+						<m_Id type="SInt64" value="82998458766942208"/>
+						<m_Localized type="string" value="Default component, the main material is waste metal commonly found on the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_106>
+					<data_107 type="TableEntryData">
+						<m_Id type="SInt64" value="82998634122403840"/>
+						<m_Localized type="string" value="Default component, the main material is waste metal commonly found on the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_107>
+					<data_108 type="TableEntryData">
+						<m_Id type="SInt64" value="82998742335447040"/>
+						<m_Localized type="string" value="Receiver made of fine iron, damage increased by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_108>
+					<data_109 type="TableEntryData">
+						<m_Id type="SInt64" value="82998832127107072"/>
+						<m_Localized type="string" value="Alloy-crafted receiver, increases damage by 32.25%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_109>
+					<data_110 type="TableEntryData">
+						<m_Id type="SInt64" value="82998965736660992"/>
+						<m_Localized type="string" value="Short pistol barrel, commonly found on pistols configured in the modern era."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_110>
+					<data_111 type="TableEntryData">
+						<m_Id type="SInt64" value="82999055125667840"/>
+						<m_Localized type="string" value="Longer Pistol Barrel, Better Performance"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_111>
+					<data_112 type="TableEntryData">
+						<m_Id type="SInt64" value="82999163674255360"/>
+						<m_Localized type="string" value="Calibrated Pistol Barrel, Better Performance than Long Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_112>
+					<data_113 type="TableEntryData">
+						<m_Id type="SInt64" value="82999258301947904"/>
+						<m_Localized type="string" value="More advanced sight, provides a wider field of view, with a red dot in the center for easy aiming."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_113>
+					<data_114 type="TableEntryData">
+						<m_Id type="SInt64" value="82999369669107712"/>
+						<m_Localized type="string" value="Default magazine, provides bullets that can be fired from the firearm."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_114>
+					<data_115 type="TableEntryData">
+						<m_Id type="SInt64" value="82999452242370560"/>
+						<m_Localized type="string" value=" Longer Magazine, Provides Additional Ammunition"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_115>
+					<data_116 type="TableEntryData">
+						<m_Id type="SInt64" value="82999528750669824"/>
+						<m_Localized type="string" value="Default component, the main material is waste metal commonly found on the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_116>
+					<data_117 type="TableEntryData">
+						<m_Id type="SInt64" value="82999611290378240"/>
+						<m_Localized type="string" value="Precision-crafted receiver, increases damage by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_117>
+					<data_118 type="TableEntryData">
+						<m_Id type="SInt64" value="82999688234885120"/>
+						<m_Localized type="string" value="Alloy-crafted receiver, increases damage by 32.25%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_118>
+					<data_119 type="TableEntryData">
+						<m_Id type="SInt64" value="82999765506547712"/>
+						<m_Localized type="string" value="Small Pistol Drum, Provides Abundant Ammunition"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_119>
+					<data_120 type="TableEntryData">
+						<m_Id type="SInt64" value="82999850369900544"/>
+						<m_Localized type="string" value="Default component, the main material is waste metal commonly found on the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_120>
+					<data_121 type="TableEntryData">
+						<m_Id type="SInt64" value="82999981429317632"/>
+						<m_Localized type="string" value="Precision-crafted receiver, increases damage by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_121>
+					<data_122 type="TableEntryData">
+						<m_Id type="SInt64" value="83000068435959808"/>
+						<m_Localized type="string" value="Short pistol barrel, commonly found on pistols configured during World War 2."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_122>
+					<data_123 type="TableEntryData">
+						<m_Id type="SInt64" value="83000152758247424"/>
+						<m_Localized type="string" value="Longer Pistol Barrel, Better Performance than Short Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_123>
+					<data_124 type="TableEntryData">
+						<m_Id type="SInt64" value="83000221821657088"/>
+						<m_Localized type="string" value="Calibrated Pistol Barrel, Better Performance than Long Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_124>
+					<data_125 type="TableEntryData">
+						<m_Id type="SInt64" value="83000301106585600"/>
+						<m_Localized type="string" value="Default component, the main material is waste metal commonly found on the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_125>
+					<data_126 type="TableEntryData">
+						<m_Id type="SInt64" value="83000463673614336"/>
+						<m_Localized type="string" value="Precision-crafted receiver, increases damage by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_126>
+					<data_127 type="TableEntryData">
+						<m_Id type="SInt64" value="83000532028186624"/>
+						<m_Localized type="string" value="Alloy-crafted receiver, increases damage by 32.25%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_127>
+					<data_128 type="TableEntryData">
+						<m_Id type="SInt64" value="83000611199868928"/>
+						<m_Localized type="string" value="Receiver forged from high-tech materials, increases damage by 52%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_128>
+					<data_129 type="TableEntryData">
+						<m_Id type="SInt64" value="83000686810587136"/>
+						<m_Localized type="string" value="Short pistol barrel, commonly found on modern pistols."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_129>
+					<data_130 type="TableEntryData">
+						<m_Id type="SInt64" value="83000829718913024"/>
+						<m_Localized type="string" value="Longer Pistol Barrel, Better Performance than Short Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_130>
+					<data_131 type="TableEntryData">
+						<m_Id type="SInt64" value="83000901827387392"/>
+						<m_Localized type="string" value="Calibrated Pistol Barrel, Better Performance than Long Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_131>
+					<data_132 type="TableEntryData">
+						<m_Id type="SInt64" value="83000997725954048"/>
+						<m_Localized type="string" value="Desert Eagle Special Magazine, Loaded with High-Power Rounds, Only 2 Rounds Capacity, but Each Shot Deals 450% Damage"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_132>
+					<data_133 type="TableEntryData">
+						<m_Id type="SInt64" value="83001073860960256"/>
+						<m_Localized type="string" value="Default component, the main material is waste metal commonly found on the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_133>
+					<data_134 type="TableEntryData">
+						<m_Id type="SInt64" value="83001166940954624"/>
+						<m_Localized type="string" value="Receiver made of fine iron, damage increased by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_134>
+					<data_135 type="TableEntryData">
+						<m_Id type="SInt64" value="83001304749006848"/>
+						<m_Localized type="string" value="Alloy-crafted receiver, increases damage by 32.25%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_135>
+					<data_136 type="TableEntryData">
+						<m_Id type="SInt64" value="83001386722484224"/>
+						<m_Localized type="string" value="High-tech material cast gun receiver, damage increased by 52%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_136>
+					<data_137 type="TableEntryData">
+						<m_Id type="SInt64" value="83001565366280192"/>
+						<m_Localized type="string" value="Alloy-Cast Barrel, Better Performance than Fine Iron Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_137>
+					<data_138 type="TableEntryData">
+						<m_Id type="SInt64" value="83001635394379776"/>
+						<m_Localized type="string" value="High-Tech Material Cast Gun Barrel, Better Performance than Alloy Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_138>
+					<data_139 type="TableEntryData">
+						<m_Id type="SInt64" value="83001704969494528"/>
+						<m_Localized type="string" value="Default component, the main material is waste metal commonly found on the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_139>
+					<data_140 type="TableEntryData">
+						<m_Id type="SInt64" value="83001789178535936"/>
+						<m_Localized type="string" value="Precision cast iron buttstock, moderate recoil reduction."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_140>
+					<data_141 type="TableEntryData">
+						<m_Id type="SInt64" value="83001892857536512"/>
+						<m_Localized type="string" value="Alloy cast buttstock, moderate recoil reduction."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_141>
+					<data_142 type="TableEntryData">
+						<m_Id type="SInt64" value="83001983655829504"/>
+						<m_Localized type="string" value="Buttstock cast from high-tech materials, significantly reduced recoil."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_142>
+					<data_143 type="TableEntryData">
+						<m_Id type="SInt64" value="83002075792105472"/>
+						<m_Localized type="string" value="Default component, the main material is waste metal commonly found on the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_143>
+					<data_144 type="TableEntryData">
+						<m_Id type="SInt64" value="83002208000761856"/>
+						<m_Localized type="string" value="Receiver made of fine iron, damage increased by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_144>
+					<data_145 type="TableEntryData">
+						<m_Id type="SInt64" value="83002284240625664"/>
+						<m_Localized type="string" value="Alloy-crafted receiver, increases damage by 32.25%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_145>
+					<data_146 type="TableEntryData">
+						<m_Id type="SInt64" value="83002383150702592"/>
+						<m_Localized type="string" value="Default magazine, provides bullets for firearm to fire."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_146>
+					<data_147 type="TableEntryData">
+						<m_Id type="SInt64" value="83002772252090368"/>
+						<m_Localized type="string" value="Longer Magazine, Provides Extra Ammunition"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_147>
+					<data_148 type="TableEntryData">
+						<m_Id type="SInt64" value="83002845899874304"/>
+						<m_Localized type="string" value="Medium-Sized SMG Drum, Provides Abundant Ammunition"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_148>
+					<data_149 type="TableEntryData">
+						<m_Id type="SInt64" value="83002959745867776"/>
+						<m_Localized type="string" value="Special ammunition greatly increases stability and accuracy. Significantly reduces recoil."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_149>
+					<data_150 type="TableEntryData">
+						<m_Id type="SInt64" value="83003039508946944"/>
+						<m_Localized type="string" value="Default component, primary material is readily available scrap metal from the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_150>
+					<data_151 type="TableEntryData">
+						<m_Id type="SInt64" value="83003104407412736"/>
+						<m_Localized type="string" value="Precision-crafted receiver, increases damage by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_151>
+					<data_152 type="TableEntryData">
+						<m_Id type="SInt64" value="83003189501452288"/>
+						<m_Localized type="string" value="Default component, primary material is readily available scrap metal from the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_152>
+					<data_153 type="TableEntryData">
+						<m_Id type="SInt64" value="83003298683379712"/>
+						<m_Localized type="string" value="Fine Iron Cast Gun Barrel, Higher Performance than Scrap Metal Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_153>
+					<data_154 type="TableEntryData">
+						<m_Id type="SInt64" value="83003370422755328"/>
+						<m_Localized type="string" value="Default component, primary material is readily available scrap metal from the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_154>
+					<data_155 type="TableEntryData">
+						<m_Id type="SInt64" value="83003460755480576"/>
+						<m_Localized type="string" value="Precision-crafted receiver, increases damage by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_155>
+					<data_156 type="TableEntryData">
+						<m_Id type="SInt64" value="83003661742333952"/>
+						<m_Localized type="string" value="Default component, primary material is readily available scrap metal from the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_156>
+					<data_157 type="TableEntryData">
+						<m_Id type="SInt64" value="83003545610444800"/>
+						<m_Localized type="string" value="Default magazine, provides bullets for the firearm to fire."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_157>
+					<data_158 type="TableEntryData">
+						<m_Id type="SInt64" value="83003759356370944"/>
+						<m_Localized type="string" value="Precision-crafted receiver, increases damage by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_158>
+					<data_159 type="TableEntryData">
+						<m_Id type="SInt64" value="83003852268593152"/>
+						<m_Localized type="string" value="Alloy-crafted receiver, increases damage by 32.25%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_159>
+					<data_160 type="TableEntryData">
+						<m_Id type="SInt64" value="83003923433349120"/>
+						<m_Localized type="string" value="Default component, primary material is readily available scrap metal from the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_160>
+					<data_161 type="TableEntryData">
+						<m_Id type="SInt64" value="83004025505931264"/>
+						<m_Localized type="string" value="Precision-crafted receiver, increases damage by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_161>
+					<data_162 type="TableEntryData">
+						<m_Id type="SInt64" value="83004107110309888"/>
+						<m_Localized type="string" value="Alloy-crafted receiver, increases damage by 32.25%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_162>
+					<data_163 type="TableEntryData">
+						<m_Id type="SInt64" value="83004179520774144"/>
+						<m_Localized type="string" value="Fine Iron Cast Gun Barrel, Higher Performance than Scrap Metal Gun Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_163>
+					<data_164 type="TableEntryData">
+						<m_Id type="SInt64" value="83005401271197696"/>
+						<m_Localized type="string" value="Precision-crafted receiver, increases damage by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_164>
+					<data_165 type="TableEntryData">
+						<m_Id type="SInt64" value="83005476164689920"/>
+						<m_Localized type="string" value="Alloy-crafted receiver, increases damage by 32.25%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_165>
+					<data_166 type="TableEntryData">
+						<m_Id type="SInt64" value="83004447788457984"/>
+						<m_Localized type="string" value="Default component, primary material is readily available scrap metal from the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_166>
+					<data_167 type="TableEntryData">
+						<m_Id type="SInt64" value="83004258910560256"/>
+						<m_Localized type="string" value="Scope specifically for sniper rifles, provides a 2x magnified field of view."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_167>
+					<data_168 type="TableEntryData">
+						<m_Id type="SInt64" value="83005654170951680"/>
+						<m_Localized type="string" value="Default component, primary material is readily available scrap metal from the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_168>
+					<data_169 type="TableEntryData">
+						<m_Id type="SInt64" value="83004334441586688"/>
+						<m_Localized type="string" value="Longer Magazine, Provides Extra Ammunition"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_169>
+					<data_170 type="TableEntryData">
+						<m_Id type="SInt64" value="83005537728684032"/>
+						<m_Localized type="string" value="Receiver forged from high-tech materials, increases damage by 52%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_170>
+					<data_171 type="TableEntryData">
+						<m_Id type="SInt64" value="83005781237391360"/>
+						<m_Localized type="string" value="Fine Iron Cast Gun Barrel, Higher Performance than Scrap Metal Gun Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_171>
+					<data_172 type="TableEntryData">
+						<m_Id type="SInt64" value="83006109332627456"/>
+						<m_Localized type="string" value="Alloy Cast Gun Barrel, Higher Performance than Fine Iron Gun Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_172>
+					<data_173 type="TableEntryData">
+						<m_Id type="SInt64" value="83006634828587008"/>
+						<m_Localized type="string" value="Alloy-crafted receiver, increases damage by 32.25%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_173>
+					<data_174 type="TableEntryData">
+						<m_Id type="SInt64" value="83006699555086336"/>
+						<m_Localized type="string" value="Receiver forged from high-tech materials, increases damage by 52%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_174>
+					<data_175 type="TableEntryData">
+						<m_Id type="SInt64" value="83006551282245632"/>
+						<m_Localized type="string" value="Precision-crafted receiver, increases damage by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_175>
+					<data_176 type="TableEntryData">
+						<m_Id type="SInt64" value="83006472123146240"/>
+						<m_Localized type="string" value="Default component, primary material is readily available scrap metal from the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_176>
+					<data_177 type="TableEntryData">
+						<m_Id type="SInt64" value="83007093081464832"/>
+						<m_Localized type="string" value="Default component, primary material is readily available scrap metal from the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_177>
+					<data_178 type="TableEntryData">
+						<m_Id type="SInt64" value="83007300984725504"/>
+						<m_Localized type="string" value="Alloy-crafted receiver, increases damage by 32.25%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_178>
+					<data_179 type="TableEntryData">
+						<m_Id type="SInt64" value="83007211901902848"/>
+						<m_Localized type="string" value="Receiver made of fine iron, damage increased by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_179>
+					<data_180 type="TableEntryData">
+						<m_Id type="SInt64" value="83007385646751744"/>
+						<m_Localized type="string" value="Receiver forged from high-tech materials, increases damage by 52%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_180>
+					<data_181 type="TableEntryData">
+						<m_Id type="SInt64" value="83007459198066688"/>
+						<m_Localized type="string" value="Default component, primary material is readily available scrap metal from the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_181>
+					<data_182 type="TableEntryData">
+						<m_Id type="SInt64" value="83007546137600000"/>
+						<m_Localized type="string" value="Precision-crafted receiver, increases damage by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_182>
+					<data_183 type="TableEntryData">
+						<m_Id type="SInt64" value="83007699644932096"/>
+						<m_Localized type="string" value="Alloy-crafted receiver, increases damage by 32.25%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_183>
+					<data_184 type="TableEntryData">
+						<m_Id type="SInt64" value="83008287451471872"/>
+						<m_Localized type="string" value="Receiver forged from high-tech materials, increases damage by 52%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_184>
+					<data_185 type="TableEntryData">
+						<m_Id type="SInt64" value="83008358016442368"/>
+						<m_Localized type="string" value="Default component, primary material is readily available scrap metal from the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_185>
+					<data_186 type="TableEntryData">
+						<m_Id type="SInt64" value="83008430993137664"/>
+						<m_Localized type="string" value="Precision-crafted receiver, increases damage by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_186>
+					<data_187 type="TableEntryData">
+						<m_Id type="SInt64" value="83008514849857536"/>
+						<m_Localized type="string" value="Alloy-crafted receiver, increases damage by 32.25%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_187>
+					<data_188 type="TableEntryData">
+						<m_Id type="SInt64" value="83008594306752512"/>
+						<m_Localized type="string" value="Default component, primary material is readily available scrap metal from the seabed."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_188>
+					<data_189 type="TableEntryData">
+						<m_Id type="SInt64" value="83008730671964160"/>
+						<m_Localized type="string" value="Alloy-crafted receiver, increases damage by 32.25%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_189>
+					<data_190 type="TableEntryData">
+						<m_Id type="SInt64" value="83008661516279808"/>
+						<m_Localized type="string" value="Precision-crafted receiver, increases damage by 15%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_190>
+					<data_191 type="TableEntryData">
+						<m_Id type="SInt64" value="83008802881101824"/>
+						<m_Localized type="string" value="Receiver forged from high-tech materials, increases damage by 52%."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_191>
+					<data_192 type="TableEntryData">
+						<m_Id type="SInt64" value="83006187787083776"/>
+						<m_Localized type="string" value="Gun Barrel Made of High-Tech Materials, Higher Performance than Alloy Gun Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_192>
+					<data_193 type="TableEntryData">
+						<m_Id type="SInt64" value="83006320301924352"/>
+						<m_Localized type="string" value="Scope designed for sniper rifles, provides a 4x magnified field of view."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_193>
+					<data_194 type="TableEntryData">
+						<m_Id type="SInt64" value="83006394314612736"/>
+						<m_Localized type="string" value="Magazine loaded with special ammunition, can ignore 50% of the target's armor when attacking."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_194>
+					<data_195 type="TableEntryData">
+						<m_Id type="SInt64" value="83006772305289216"/>
+						<m_Localized type="string" value="Default magazine, provides bullets for the firearm to fire."/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_195>
+					<data_196 type="TableEntryData">
+						<m_Id type="SInt64" value="83006937896411136"/>
+						<m_Localized type="string" value="Longer Magazine, Provides Extra Ammunition"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_196>
+					<data_197 type="TableEntryData">
+						<m_Id type="SInt64" value="83007015973380096"/>
+						<m_Localized type="string" value="Super Large Drum, Provides Abundant Ammunition"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_197>
 				</data>
 			</Array>
 		</m_TableData>
@@ -1324,7 +3212,7 @@
 					<size type="int" value="0"/>
 					<data type="ReferencedObject">
 						<data_0 type="ReferencedObject">
-							<rid type="SInt64" value="6258006346130784259"/>
+							<rid type="SInt64" value="6367545751514120194"/>
 							<type type="ReferencedManagedType">
 								<class type="string" value="SmartFormatTag"/>
 								<ns type="string" value="UnityEngine.Localization.Metadata"/>
@@ -1340,6 +3228,6 @@
 	</Base>
 	<FooterData>
 <![CDATA[
-01 00 00 00 0B E0 2F 2E 47 3F 05 00 ]]>
+01 00 00 00 00 50 2D A4 B0 E8 15 00 ]]>
 	</FooterData>
 </Structure>

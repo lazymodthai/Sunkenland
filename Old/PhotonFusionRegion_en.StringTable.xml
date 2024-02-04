@@ -36,14 +36,14 @@
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
 						<m_Id type="SInt64" value="755640557568"/>
-						<m_Localized type="string" value="Asia"/>
+						<m_Localized type="string" value="Asia \x0A(Singapore)"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
 									<size type="int" value="0"/>
 									<data type="managedRefArrayItem">
 										<data_0 type="managedRefArrayItem">
-											<rid type="SInt64" value="0"/>
+											<rid type="SInt64" value="995430984455028746"/>
 										</data_0>
 									</data>
 								</Array>
@@ -52,7 +52,7 @@
 					</data_0>
 					<data_1 type="TableEntryData">
 						<m_Id type="SInt64" value="755661529088"/>
-						<m_Localized type="string" value="Chinese Mainland"/>
+						<m_Localized type="string" value="Chinese Mainland\x0A(Shanghai)"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -68,7 +68,7 @@
 					</data_1>
 					<data_2 type="TableEntryData">
 						<m_Id type="SInt64" value="755661529089"/>
-						<m_Localized type="string" value="Japan"/>
+						<m_Localized type="string" value="Japan \x0A(Tokyo)"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -84,7 +84,7 @@
 					</data_2>
 					<data_3 type="TableEntryData">
 						<m_Id type="SInt64" value="755661529090"/>
-						<m_Localized type="string" value="Europe"/>
+						<m_Localized type="string" value="Europe\x0A(Amsterdam)"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -100,7 +100,7 @@
 					</data_3>
 					<data_4 type="TableEntryData">
 						<m_Id type="SInt64" value="755661529091"/>
-						<m_Localized type="string" value="South America"/>
+						<m_Localized type="string" value="South America\x0A(Sao Paulo)"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -116,7 +116,7 @@
 					</data_4>
 					<data_5 type="TableEntryData">
 						<m_Id type="SInt64" value="5939716415488"/>
-						<m_Localized type="string" value="South Korea"/>
+						<m_Localized type="string" value="South Korea\x0A(Seoul)"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -132,7 +132,7 @@
 					</data_5>
 					<data_6 type="TableEntryData">
 						<m_Id type="SInt64" value="6371922665472"/>
-						<m_Localized type="string" value="USA, East"/>
+						<m_Localized type="string" value="USA, East\x0A(Washington D.C.)"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -148,7 +148,7 @@
 					</data_6>
 					<data_7 type="TableEntryData">
 						<m_Id type="SInt64" value="6371926859776"/>
-						<m_Localized type="string" value="USA, West"/>
+						<m_Localized type="string" value="USA, West\x0A(San José)"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">

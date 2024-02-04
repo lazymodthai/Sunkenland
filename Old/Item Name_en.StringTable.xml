@@ -32,7 +32,7 @@
 		</m_Metadata>
 		<m_TableData type="TableEntryData">
 			<Array type="Array">
-				<size type="int" value="1115"/>
+				<size type="int" value="1382"/>
 				<data type="TableEntryData">
 					<data_0 type="TableEntryData">
 						<m_Id type="SInt64" value="27329028096"/>
@@ -6308,7 +6308,7 @@
 					</data_391>
 					<data_392 type="TableEntryData">
 						<m_Id type="SInt64" value="1476949821087787"/>
-						<m_Localized type="string" value="Roasted Wahoo"/>
+						<m_Localized type="string" value="Roasted Tarpon"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -9700,7 +9700,7 @@
 					</data_603>
 					<data_604 type="TableEntryData">
 						<m_Id type="SInt64" value="1476949829476421"/>
-						<m_Localized type="string" value="Iron Armor"/>
+						<m_Localized type="string" value=" 2Layer TShirt A"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -17316,7 +17316,7 @@
 					</data_1079>
 					<data_1080 type="TableEntryData">
 						<m_Id type="SInt64" value="46820976486793216"/>
-						<m_Localized type="string" value="Broken Tactical Vest"/>
+						<m_Localized type="string" value="Broken Forest Vest"/>
 						<m_Metadata type="MetadataCollection">
 							<m_Items type="IMetadata">
 								<Array type="Array">
@@ -17874,6 +17874,4278 @@
 							</m_Items>
 						</m_Metadata>
 					</data_1114>
+					<data_1115 type="TableEntryData">
+						<m_Id type="SInt64" value="69270962584412160"/>
+						<m_Localized type="string" value="Welding Tool"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1115>
+					<data_1116 type="TableEntryData">
+						<m_Id type="SInt64" value="70484081558151168"/>
+						<m_Localized type="string" value="STG44"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1116>
+					<data_1117 type="TableEntryData">
+						<m_Id type="SInt64" value="70509128431689728"/>
+						<m_Localized type="string" value="Broken STG44"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1117>
+					<data_1118 type="TableEntryData">
+						<m_Id type="SInt64" value="71132240841383936"/>
+						<m_Localized type="string" value="Blueprint: Leather Suitcase"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1118>
+					<data_1119 type="TableEntryData">
+						<m_Id type="SInt64" value="75925289433931776"/>
+						<m_Localized type="string" value="Cat Statue"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1119>
+					<data_1120 type="TableEntryData">
+						<m_Id type="SInt64" value="75928233063587840"/>
+						<m_Localized type="string" value="Coffin"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1120>
+					<data_1121 type="TableEntryData">
+						<m_Id type="SInt64" value="75930249059999744"/>
+						<m_Localized type="string" value="Evil Glowing Pumpkin"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1121>
+					<data_1122 type="TableEntryData">
+						<m_Id type="SInt64" value="75961619316580352"/>
+						<m_Localized type="string" value="Evil Pumpkin"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1122>
+					<data_1123 type="TableEntryData">
+						<m_Id type="SInt64" value="75933912188952576"/>
+						<m_Localized type="string" value="Ghost"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1123>
+					<data_1124 type="TableEntryData">
+						<m_Id type="SInt64" value="75963385764487168"/>
+						<m_Localized type="string" value="Happy Halloween Baloons"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1124>
+					<data_1125 type="TableEntryData">
+						<m_Id type="SInt64" value="75960492764274688"/>
+						<m_Localized type="string" value="Happy Pumpkin"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1125>
+					<data_1126 type="TableEntryData">
+						<m_Id type="SInt64" value="75966890671710208"/>
+						<m_Localized type="string" value="Neon Bats"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1126>
+					<data_1127 type="TableEntryData">
+						<m_Id type="SInt64" value="75966052536524800"/>
+						<m_Localized type="string" value="Neon Boo"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1127>
+					<data_1128 type="TableEntryData">
+						<m_Id type="SInt64" value="75965296697778176"/>
+						<m_Localized type="string" value="Neon Ghost"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1128>
+					<data_1129 type="TableEntryData">
+						<m_Id type="SInt64" value="75964463490899968"/>
+						<m_Localized type="string" value="Neon Pumpkin"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1129>
+					<data_1130 type="TableEntryData">
+						<m_Id type="SInt64" value="75935452106694656"/>
+						<m_Localized type="string" value="Pumpkin Hat"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1130>
+					<data_1131 type="TableEntryData">
+						<m_Id type="SInt64" value="75959617744379904"/>
+						<m_Localized type="string" value="Sad Pumpkin"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1131>
+					<data_1132 type="TableEntryData">
+						<m_Id type="SInt64" value="75936681738215424"/>
+						<m_Localized type="string" value="Scarecrow"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1132>
+					<data_1133 type="TableEntryData">
+						<m_Id type="SInt64" value="75938434726600704"/>
+						<m_Localized type="string" value="Silly Ghost"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1133>
+					<data_1134 type="TableEntryData">
+						<m_Id type="SInt64" value="75940208560676864"/>
+						<m_Localized type="string" value="Silly Glowing Pumpkin"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1134>
+					<data_1135 type="TableEntryData">
+						<m_Id type="SInt64" value="75958702429806592"/>
+						<m_Localized type="string" value="Silly Pumpkin"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1135>
+					<data_1136 type="TableEntryData">
+						<m_Id type="SInt64" value="75922080011231232"/>
+						<m_Localized type="string" value="Skeleton Duck"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1136>
+					<data_1137 type="TableEntryData">
+						<m_Id type="SInt64" value="75941323767390208"/>
+						<m_Localized type="string" value="Skeleton Pumpkin"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1137>
+					<data_1138 type="TableEntryData">
+						<m_Id type="SInt64" value="75942487934214144"/>
+						<m_Localized type="string" value="Spider"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1138>
+					<data_1139 type="TableEntryData">
+						<m_Id type="SInt64" value="75988543837413376"/>
+						<m_Localized type="string" value="Pumpkin Head"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1139>
+					<data_1140 type="TableEntryData">
+						<m_Id type="SInt64" value="76766608245661696"/>
+						<m_Localized type="string" value="Black Gloves"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1140>
+					<data_1141 type="TableEntryData">
+						<m_Id type="SInt64" value="76767026518433792"/>
+						<m_Localized type="string" value="Red Gloves"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1141>
+					<data_1142 type="TableEntryData">
+						<m_Id type="SInt64" value="83245497205645312"/>
+						<m_Localized type="string" value="Pistol"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1142>
+					<data_1143 type="TableEntryData">
+						<m_Id type="SInt64" value="83245637882601472"/>
+						<m_Localized type="string" value="Rifle"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1143>
+					<data_1144 type="TableEntryData">
+						<m_Id type="SInt64" value="83245892883701760"/>
+						<m_Localized type="string" value="Shotgun"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1144>
+					<data_1145 type="TableEntryData">
+						<m_Id type="SInt64" value="83246019581042688"/>
+						<m_Localized type="string" value="Sniper Rifle"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1145>
+					<data_1146 type="TableEntryData">
+						<m_Id type="SInt64" value="83965159446929408"/>
+						<m_Localized type="string" value="Double-Pipe Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1146>
+					<data_1147 type="TableEntryData">
+						<m_Id type="SInt64" value="83965276203769856"/>
+						<m_Localized type="string" value="Double-Barreled Fine Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1147>
+					<data_1148 type="TableEntryData">
+						<m_Id type="SInt64" value="83965388674031616"/>
+						<m_Localized type="string" value="Cold War Scrap Metal Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1148>
+					<data_1149 type="TableEntryData">
+						<m_Id type="SInt64" value="83966001004666880"/>
+						<m_Localized type="string" value="Cold War Iron Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1149>
+					<data_1150 type="TableEntryData">
+						<m_Id type="SInt64" value="83966153064964096"/>
+						<m_Localized type="string" value="Scrap Metal Sight"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1150>
+					<data_1151 type="TableEntryData">
+						<m_Id type="SInt64" value="83966259747086336"/>
+						<m_Localized type="string" value="PM Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1151>
+					<data_1152 type="TableEntryData">
+						<m_Id type="SInt64" value="83966338360926208"/>
+						<m_Localized type="string" value="PM Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1152>
+					<data_1153 type="TableEntryData">
+						<m_Id type="SInt64" value="83966414743396352"/>
+						<m_Localized type="string" value="PM Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1153>
+					<data_1154 type="TableEntryData">
+						<m_Id type="SInt64" value="83966507211022336"/>
+						<m_Localized type="string" value="Cold War Short Barrel Pistol"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1154>
+					<data_1155 type="TableEntryData">
+						<m_Id type="SInt64" value="83966759099949056"/>
+						<m_Localized type="string" value="Cold War Long Barrel Pistol"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1155>
+					<data_1156 type="TableEntryData">
+						<m_Id type="SInt64" value="83967071634317312"/>
+						<m_Localized type="string" value="Cold War Calibrated Barrel Pistol"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1156>
+					<data_1157 type="TableEntryData">
+						<m_Id type="SInt64" value="83967256552792064"/>
+						<m_Localized type="string" value="Red Dot Dight"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1157>
+					<data_1158 type="TableEntryData">
+						<m_Id type="SInt64" value="83967366162538496"/>
+						<m_Localized type="string" value="Pistol Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1158>
+					<data_1159 type="TableEntryData">
+						<m_Id type="SInt64" value="83967586074091520"/>
+						<m_Localized type="string" value="Long Magazines for Pistol"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1159>
+					<data_1160 type="TableEntryData">
+						<m_Id type="SInt64" value="83967811673120768"/>
+						<m_Localized type="string" value="GP20 Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1160>
+					<data_1161 type="TableEntryData">
+						<m_Id type="SInt64" value="83968077038346240"/>
+						<m_Localized type="string" value="GP20  Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1161>
+					<data_1162 type="TableEntryData">
+						<m_Id type="SInt64" value="83968220156387328"/>
+						<m_Localized type="string" value="GP20 Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1162>
+					<data_1163 type="TableEntryData">
+						<m_Id type="SInt64" value="83968308282908672"/>
+						<m_Localized type="string" value="Pistol Drums"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1163>
+					<data_1164 type="TableEntryData">
+						<m_Id type="SInt64" value="83968480937238528"/>
+						<m_Localized type="string" value="Mauser Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1164>
+					<data_1165 type="TableEntryData">
+						<m_Id type="SInt64" value="83968592082100224"/>
+						<m_Localized type="string" value="Mauser Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1165>
+					<data_1166 type="TableEntryData">
+						<m_Id type="SInt64" value="83968761427124224"/>
+						<m_Localized type="string" value="WW2 Pistol Short Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1166>
+					<data_1167 type="TableEntryData">
+						<m_Id type="SInt64" value="83968857829007360"/>
+						<m_Localized type="string" value="WW2 Pistol Long Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1167>
+					<data_1168 type="TableEntryData">
+						<m_Id type="SInt64" value="83969062045474816"/>
+						<m_Localized type="string" value="WW2 Pistol Calibrated Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1168>
+					<data_1169 type="TableEntryData">
+						<m_Id type="SInt64" value="83969171512614912"/>
+						<m_Localized type="string" value="WW2 Pistol Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1169>
+					<data_1170 type="TableEntryData">
+						<m_Id type="SInt64" value="83969253607727104"/>
+						<m_Localized type="string" value="WW2 Pistol Long Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1170>
+					<data_1171 type="TableEntryData">
+						<m_Id type="SInt64" value="83969369953525760"/>
+						<m_Localized type="string" value="Desert Eagle Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1171>
+					<data_1172 type="TableEntryData">
+						<m_Id type="SInt64" value="83969488643940352"/>
+						<m_Localized type="string" value="Desert Eagle Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1172>
+					<data_1173 type="TableEntryData">
+						<m_Id type="SInt64" value="83969566586691584"/>
+						<m_Localized type="string" value="Desert Eagle Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1173>
+					<data_1174 type="TableEntryData">
+						<m_Id type="SInt64" value="83969711885770752"/>
+						<m_Localized type="string" value="Desert Eagle High-Tech Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1174>
+					<data_1175 type="TableEntryData">
+						<m_Id type="SInt64" value="83969951988703232"/>
+						<m_Localized type="string" value="Modern Pistol Short Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1175>
+					<data_1176 type="TableEntryData">
+						<m_Id type="SInt64" value="83971429637808128"/>
+						<m_Localized type="string" value="Modern Pistol Long Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1176>
+					<data_1177 type="TableEntryData">
+						<m_Id type="SInt64" value="83971611951620096"/>
+						<m_Localized type="string" value="Modern Pistol Calibrated Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1177>
+					<data_1178 type="TableEntryData">
+						<m_Id type="SInt64" value="83971935475064832"/>
+						<m_Localized type="string" value="High-Powered Pistol Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1178>
+					<data_1179 type="TableEntryData">
+						<m_Id type="SInt64" value="83972117117788160"/>
+						<m_Localized type="string" value="Pump Action Shotgun Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1179>
+					<data_1180 type="TableEntryData">
+						<m_Id type="SInt64" value="83972196285276160"/>
+						<m_Localized type="string" value="Pump Action Shotgun Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1180>
+					<data_1181 type="TableEntryData">
+						<m_Id type="SInt64" value="83972262957932544"/>
+						<m_Localized type="string" value="Pump Action Shotgun Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1181>
+					<data_1182 type="TableEntryData">
+						<m_Id type="SInt64" value="83972465207271424"/>
+						<m_Localized type="string" value="Pump Action Shotgun High-Tech Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1182>
+					<data_1183 type="TableEntryData">
+						<m_Id type="SInt64" value="83972984986394624"/>
+						<m_Localized type="string" value="Cold War Alloy Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1183>
+					<data_1184 type="TableEntryData">
+						<m_Id type="SInt64" value="83973127110385664"/>
+						<m_Localized type="string" value="Cold War High-Tech Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1184>
+					<data_1185 type="TableEntryData">
+						<m_Id type="SInt64" value="83973337052078080"/>
+						<m_Localized type="string" value="Scrap Metal Stock"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1185>
+					<data_1186 type="TableEntryData">
+						<m_Id type="SInt64" value="83973600999628800"/>
+						<m_Localized type="string" value="Iron Stock"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1186>
+					<data_1187 type="TableEntryData">
+						<m_Id type="SInt64" value="83973743782125568"/>
+						<m_Localized type="string" value="Alloy Stock"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1187>
+					<data_1188 type="TableEntryData">
+						<m_Id type="SInt64" value="83974033029718016"/>
+						<m_Localized type="string" value="High-Tech Stock"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1188>
+					<data_1189 type="TableEntryData">
+						<m_Id type="SInt64" value="83974352908312576"/>
+						<m_Localized type="string" value="SMG Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1189>
+					<data_1190 type="TableEntryData">
+						<m_Id type="SInt64" value="83974438300147712"/>
+						<m_Localized type="string" value="SMG Fine Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1190>
+					<data_1191 type="TableEntryData">
+						<m_Id type="SInt64" value="83974501822881792"/>
+						<m_Localized type="string" value="SMG Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1191>
+					<data_1192 type="TableEntryData">
+						<m_Id type="SInt64" value="83974672841433088"/>
+						<m_Localized type="string" value="SMG Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1192>
+					<data_1193 type="TableEntryData">
+						<m_Id type="SInt64" value="83974825237274624"/>
+						<m_Localized type="string" value="SMG Long Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1193>
+					<data_1194 type="TableEntryData">
+						<m_Id type="SInt64" value="83974955411693568"/>
+						<m_Localized type="string" value="SMG Drum"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1194>
+					<data_1195 type="TableEntryData">
+						<m_Id type="SInt64" value="83975476025483264"/>
+						<m_Localized type="string" value="SMG Hollow Point Bullet Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1195>
+					<data_1196 type="TableEntryData">
+						<m_Id type="SInt64" value="83975594363576320"/>
+						<m_Localized type="string" value="Stern Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1196>
+					<data_1197 type="TableEntryData">
+						<m_Id type="SInt64" value="83975666958589952"/>
+						<m_Localized type="string" value="Stern Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1197>
+					<data_1198 type="TableEntryData">
+						<m_Id type="SInt64" value="83975812362526720"/>
+						<m_Localized type="string" value="WW2 Scrap Metal Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1198>
+					<data_1199 type="TableEntryData">
+						<m_Id type="SInt64" value="83975900782649344"/>
+						<m_Localized type="string" value="WW2 Iron Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1199>
+					<data_1200 type="TableEntryData">
+						<m_Id type="SInt64" value="83976114855731200"/>
+						<m_Localized type="string" value="Shotgun Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1200>
+					<data_1201 type="TableEntryData">
+						<m_Id type="SInt64" value="83976204680945664"/>
+						<m_Localized type="string" value="Shotgun Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1201>
+					<data_1202 type="TableEntryData">
+						<m_Id type="SInt64" value="83976288541859840"/>
+						<m_Localized type="string" value="Sniper Rifle Standard Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1202>
+					<data_1203 type="TableEntryData">
+						<m_Id type="SInt64" value="83976436932141056"/>
+						<m_Localized type="string" value="Bolt-Action Rifle Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1203>
+					<data_1204 type="TableEntryData">
+						<m_Id type="SInt64" value="83976503353139200"/>
+						<m_Localized type="string" value="Bolt-Action Rifle  Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1204>
+					<data_1205 type="TableEntryData">
+						<m_Id type="SInt64" value="83976587537014784"/>
+						<m_Localized type="string" value="Bolt-Action Rifle Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1205>
+					<data_1206 type="TableEntryData">
+						<m_Id type="SInt64" value="83976663382614016"/>
+						<m_Localized type="string" value="M14 Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1206>
+					<data_1207 type="TableEntryData">
+						<m_Id type="SInt64" value="83976716637691904"/>
+						<m_Localized type="string" value="M14 Stainless Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1207>
+					<data_1208 type="TableEntryData">
+						<m_Id type="SInt64" value="83976774317760512"/>
+						<m_Localized type="string" value="M14 Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1208>
+					<data_1209 type="TableEntryData">
+						<m_Id type="SInt64" value="83977166938169344"/>
+						<m_Localized type="string" value="WW2 Alloy Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1209>
+					<data_1210 type="TableEntryData">
+						<m_Id type="SInt64" value="83977330209841152"/>
+						<m_Localized type="string" value="2x Scope"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1210>
+					<data_1211 type="TableEntryData">
+						<m_Id type="SInt64" value="83977451353923584"/>
+						<m_Localized type="string" value="Sniper Rifle Long Magazines"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1211>
+					<data_1212 type="TableEntryData">
+						<m_Id type="SInt64" value="83977668274937856"/>
+						<m_Localized type="string" value="SVD Sniper Rifle Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1212>
+					<data_1213 type="TableEntryData">
+						<m_Id type="SInt64" value="83977817411805184"/>
+						<m_Localized type="string" value="SVD Sniper Rifle  Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1213>
+					<data_1214 type="TableEntryData">
+						<m_Id type="SInt64" value="83977933048766464"/>
+						<m_Localized type="string" value="SVD Sniper Rifle  Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1214>
+					<data_1215 type="TableEntryData">
+						<m_Id type="SInt64" value="83978213010169856"/>
+						<m_Localized type="string" value="SVD Sniper Rifle High-Tech Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1215>
+					<data_1216 type="TableEntryData">
+						<m_Id type="SInt64" value="83978422989611008"/>
+						<m_Localized type="string" value="Modern Scrap Metal Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1216>
+					<data_1217 type="TableEntryData">
+						<m_Id type="SInt64" value="83978489855205376"/>
+						<m_Localized type="string" value="Modern Iron Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1217>
+					<data_1218 type="TableEntryData">
+						<m_Id type="SInt64" value="83978597413937152"/>
+						<m_Localized type="string" value="Modern Alloy Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1218>
+					<data_1219 type="TableEntryData">
+						<m_Id type="SInt64" value="83978824770379776"/>
+						<m_Localized type="string" value="Modern High-Tech Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1219>
+					<data_1220 type="TableEntryData">
+						<m_Id type="SInt64" value="83979203524419584"/>
+						<m_Localized type="string" value="4x Scope"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1220>
+					<data_1221 type="TableEntryData">
+						<m_Id type="SInt64" value="83980285659045888"/>
+						<m_Localized type="string" value="Sniper Rifle Armor-Piercing Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1221>
+					<data_1222 type="TableEntryData">
+						<m_Id type="SInt64" value="83980584473845760"/>
+						<m_Localized type="string" value="AK Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1222>
+					<data_1223 type="TableEntryData">
+						<m_Id type="SInt64" value="83980680364023808"/>
+						<m_Localized type="string" value="AK Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1223>
+					<data_1224 type="TableEntryData">
+						<m_Id type="SInt64" value="83980737419141120"/>
+						<m_Localized type="string" value="AK Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1224>
+					<data_1225 type="TableEntryData">
+						<m_Id type="SInt64" value="83980797007618048"/>
+						<m_Localized type="string" value="AK High-Tech Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1225>
+					<data_1226 type="TableEntryData">
+						<m_Id type="SInt64" value="83980978507735040"/>
+						<m_Localized type="string" value="Automatic Rifle Short Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1226>
+					<data_1227 type="TableEntryData">
+						<m_Id type="SInt64" value="83981073198342144"/>
+						<m_Localized type="string" value="Automatic Rifle Long Magazine "/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1227>
+					<data_1228 type="TableEntryData">
+						<m_Id type="SInt64" value="83981224570773504"/>
+						<m_Localized type="string" value="Automatic Rifle Drum"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1228>
+					<data_1229 type="TableEntryData">
+						<m_Id type="SInt64" value="83981355630190592"/>
+						<m_Localized type="string" value="LW59 Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1229>
+					<data_1230 type="TableEntryData">
+						<m_Id type="SInt64" value="83981415591960576"/>
+						<m_Localized type="string" value="LW59  Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1230>
+					<data_1231 type="TableEntryData">
+						<m_Id type="SInt64" value="83981518033641472"/>
+						<m_Localized type="string" value="LW59 Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1231>
+					<data_1232 type="TableEntryData">
+						<m_Id type="SInt64" value="83981595988975616"/>
+						<m_Localized type="string" value="LW59 High-Tech Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1232>
+					<data_1233 type="TableEntryData">
+						<m_Id type="SInt64" value="83981665987715072"/>
+						<m_Localized type="string" value="M16 Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1233>
+					<data_1234 type="TableEntryData">
+						<m_Id type="SInt64" value="83981729518837760"/>
+						<m_Localized type="string" value="M16  Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1234>
+					<data_1235 type="TableEntryData">
+						<m_Id type="SInt64" value="83981839619317760"/>
+						<m_Localized type="string" value="M16 Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1235>
+					<data_1236 type="TableEntryData">
+						<m_Id type="SInt64" value="83981893323186176"/>
+						<m_Localized type="string" value="M16 High-Tech Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1236>
+					<data_1237 type="TableEntryData">
+						<m_Id type="SInt64" value="83982029906501632"/>
+						<m_Localized type="string" value="STG44 Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1237>
+					<data_1238 type="TableEntryData">
+						<m_Id type="SInt64" value="83982096763707392"/>
+						<m_Localized type="string" value="STG44 Fine Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1238>
+					<data_1239 type="TableEntryData">
+						<m_Id type="SInt64" value="83982164614963200"/>
+						<m_Localized type="string" value="STG44 Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1239>
+					<data_1240 type="TableEntryData">
+						<m_Id type="SInt64" value="83982234919886848"/>
+						<m_Localized type="string" value="US45 Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1240>
+					<data_1241 type="TableEntryData">
+						<m_Id type="SInt64" value="83982290142093312"/>
+						<m_Localized type="string" value="US45 Stainless Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1241>
+					<data_1242 type="TableEntryData">
+						<m_Id type="SInt64" value="83982343392976896"/>
+						<m_Localized type="string" value="US45 Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1242>
+					<data_1243 type="TableEntryData">
+						<m_Id type="SInt64" value="83982403304415232"/>
+						<m_Localized type="string" value="US45 High-Tech Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1243>
+					<data_1244 type="TableEntryData">
+						<m_Id type="SInt64" value="83982536695865344"/>
+						<m_Localized type="string" value="SMG Short Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1244>
+					<data_1245 type="TableEntryData">
+						<m_Id type="SInt64" value="83982883778715648"/>
+						<m_Localized type="string" value="SMG Armor-Piercing Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1245>
+					<data_1246 type="TableEntryData">
+						<m_Id type="SInt64" value="85574376473747456"/>
+						<m_Localized type="string" value="SVD"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1246>
+					<data_1247 type="TableEntryData">
+						<m_Id type="SInt64" value="85579486696300544"/>
+						<m_Localized type="string" value="SVD"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1247>
+					<data_1248 type="TableEntryData">
+						<m_Id type="SInt64" value="86669465776119808"/>
+						<m_Localized type="string" value="Sniper Ammo"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1248>
+					<data_1249 type="TableEntryData">
+						<m_Id type="SInt64" value="86684311364132864"/>
+						<m_Localized type="string" value="Titanium Strip"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1249>
+					<data_1250 type="TableEntryData">
+						<m_Id type="SInt64" value="86685783392870400"/>
+						<m_Localized type="string" value="Modern Gun Parts"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1250>
+					<data_1251 type="TableEntryData">
+						<m_Id type="SInt64" value="86691798997884928"/>
+						<m_Localized type="string" value="Modern Parts"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1251>
+					<data_1252 type="TableEntryData">
+						<m_Id type="SInt64" value="91227985379057664"/>
+						<m_Localized type="string" value="Froninga"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1252>
+					<data_1253 type="TableEntryData">
+						<m_Id type="SInt64" value="91521972014931968"/>
+						<m_Localized type="string" value="Broken P Tucked-SH Sand"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1253>
+					<data_1254 type="TableEntryData">
+						<m_Id type="SInt64" value="86669443504365568"/>
+						<m_Localized type="string" value="Broken Shorts Kneedpads"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1254>
+					<data_1255 type="TableEntryData">
+						<m_Id type="SInt64" value="86669456145997824"/>
+						<m_Localized type="string" value="Broken Metal Helmet"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1255>
+					<data_1256 type="TableEntryData">
+						<m_Id type="SInt64" value="91522743884308480"/>
+						<m_Localized type="string" value="Broken Vest3 Forest"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1256>
+					<data_1257 type="TableEntryData">
+						<m_Id type="SInt64" value="91525706686128128"/>
+						<m_Localized type="string" value="Quartz"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1257>
+					<data_1258 type="TableEntryData">
+						<m_Id type="SInt64" value="91525904229457920"/>
+						<m_Localized type="string" value="Combustible Ice"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1258>
+					<data_1259 type="TableEntryData">
+						<m_Id type="SInt64" value="91528762597302272"/>
+						<m_Localized type="string" value="Big Air Tank"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1259>
+					<data_1260 type="TableEntryData">
+						<m_Id type="SInt64" value="91537467325800448"/>
+						<m_Localized type="string" value="Portable Inflatable Bottle"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1260>
+					<data_1261 type="TableEntryData">
+						<m_Id type="SInt64" value="91545317997535232"/>
+						<m_Localized type="string" value="Portable Repair Tools"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1261>
+					<data_1262 type="TableEntryData">
+						<m_Id type="SInt64" value="93296825191456768"/>
+						<m_Localized type="string" value="Lithium battery"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1262>
+					<data_1263 type="TableEntryData">
+						<m_Id type="SInt64" value="93629473122246656"/>
+						<m_Localized type="string" value="Anatase"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1263>
+					<data_1264 type="TableEntryData">
+						<m_Id type="SInt64" value="93613770419314688"/>
+						<m_Localized type="string" value="Anatase"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1264>
+					<data_1265 type="TableEntryData">
+						<m_Id type="SInt64" value="93660296743067648"/>
+						<m_Localized type="string" value="Anatase"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1265>
+					<data_1266 type="TableEntryData">
+						<m_Id type="SInt64" value="93674160993968128"/>
+						<m_Localized type="string" value="Blueprint: Crossbow"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1266>
+					<data_1267 type="TableEntryData">
+						<m_Id type="SInt64" value="93674894015700992"/>
+						<m_Localized type="string" value="Blueprint: Bolt"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1267>
+					<data_1268 type="TableEntryData">
+						<m_Id type="SInt64" value="93679881735217152"/>
+						<m_Localized type="string" value="Blueprint: Anvil"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1268>
+					<data_1269 type="TableEntryData">
+						<m_Id type="SInt64" value="93933016277950464"/>
+						<m_Localized type="string" value="Watering Can"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1269>
+					<data_1270 type="TableEntryData">
+						<m_Id type="SInt64" value="93933437423820800"/>
+						<m_Localized type="string" value="Portable Inflatable Bottles"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1270>
+					<data_1271 type="TableEntryData">
+						<m_Id type="SInt64" value="93934503712366592"/>
+						<m_Localized type="string" value="Coke Oven"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1271>
+					<data_1272 type="TableEntryData">
+						<m_Id type="SInt64" value="93935042244222976"/>
+						<m_Localized type="string" value="Copy the net"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1272>
+					<data_1273 type="TableEntryData">
+						<m_Id type="SInt64" value="93935672983658496"/>
+						<m_Localized type="string" value="Electric Drill"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1273>
+					<data_1274 type="TableEntryData">
+						<m_Id type="SInt64" value="93936230838673408"/>
+						<m_Localized type="string" value="Exoskeleton Repair Table"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1274>
+					<data_1275 type="TableEntryData">
+						<m_Id type="SInt64" value="93936517540323328"/>
+						<m_Localized type="string" value="Solar Panel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1275>
+					<data_1276 type="TableEntryData">
+						<m_Id type="SInt64" value="93937065157042176"/>
+						<m_Localized type="string" value="Incubation Box"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1276>
+					<data_1277 type="TableEntryData">
+						<m_Id type="SInt64" value="93937562383392768"/>
+						<m_Localized type="string" value="High-energy Batteries"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1277>
+					<data_1278 type="TableEntryData">
+						<m_Id type="SInt64" value="93945240111390720"/>
+						<m_Localized type="string" value="Blueprint: Planter"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1278>
+					<data_1279 type="TableEntryData">
+						<m_Id type="SInt64" value="93946946232623104"/>
+						<m_Localized type="string" value="Blueprint: Arrow"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1279>
+					<data_1280 type="TableEntryData">
+						<m_Id type="SInt64" value="93947142429581312"/>
+						<m_Localized type="string" value="Blueprint: Bow"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1280>
+					<data_1281 type="TableEntryData">
+						<m_Id type="SInt64" value="93947460227801088"/>
+						<m_Localized type="string" value="Blueprint: Sail Boat"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1281>
+					<data_1282 type="TableEntryData">
+						<m_Id type="SInt64" value="94825823958720512"/>
+						<m_Localized type="string" value="Quartz Clusters"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1282>
+					<data_1283 type="TableEntryData">
+						<m_Id type="SInt64" value="96210608826179584"/>
+						<m_Localized type="string" value="Broken P Tucked-SH Forest"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1283>
+					<data_1284 type="TableEntryData">
+						<m_Id type="SInt64" value="98342797873340416"/>
+						<m_Localized type="string" value="Broken P Tucked-SH Navy"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1284>
+					<data_1285 type="TableEntryData">
+						<m_Id type="SInt64" value="106728536131964928"/>
+						<m_Localized type="string" value="Blueprint: Double-Pipe Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1285>
+					<data_1286 type="TableEntryData">
+						<m_Id type="SInt64" value="106728739295662080"/>
+						<m_Localized type="string" value="Blueprint: Double-Barreled Fine Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1286>
+					<data_1287 type="TableEntryData">
+						<m_Id type="SInt64" value="106728915729059840"/>
+						<m_Localized type="string" value="Blueprint: Modern Scrap Metal Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1287>
+					<data_1288 type="TableEntryData">
+						<m_Id type="SInt64" value="106729220470411264"/>
+						<m_Localized type="string" value="Blueprint: Cold War Iron Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1288>
+					<data_1289 type="TableEntryData">
+						<m_Id type="SInt64" value="106729340960182272"/>
+						<m_Localized type="string" value="Blueprint: Scrap Metal Sight"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1289>
+					<data_1290 type="TableEntryData">
+						<m_Id type="SInt64" value="106729462934736896"/>
+						<m_Localized type="string" value="Blueprint: PM Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1290>
+					<data_1291 type="TableEntryData">
+						<m_Id type="SInt64" value="106729556350275584"/>
+						<m_Localized type="string" value="Blueprint: PM Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1291>
+					<data_1292 type="TableEntryData">
+						<m_Id type="SInt64" value="106729669692952576"/>
+						<m_Localized type="string" value="Blueprint: PM Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1292>
+					<data_1293 type="TableEntryData">
+						<m_Id type="SInt64" value="106729783245344768"/>
+						<m_Localized type="string" value="Blueprint: Modern Pistol Short Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1293>
+					<data_1294 type="TableEntryData">
+						<m_Id type="SInt64" value="106729922827587584"/>
+						<m_Localized type="string" value="Blueprint: Modern Pistol Long Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1294>
+					<data_1295 type="TableEntryData">
+						<m_Id type="SInt64" value="106730036275122176"/>
+						<m_Localized type="string" value="Blueprint: Modern Pistol Calibrated Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1295>
+					<data_1296 type="TableEntryData">
+						<m_Id type="SInt64" value="106730228072255488"/>
+						<m_Localized type="string" value="Blueprint: Red Dot Sight"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1296>
+					<data_1297 type="TableEntryData">
+						<m_Id type="SInt64" value="106730365985165312"/>
+						<m_Localized type="string" value="Blueprint: Pistol Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1297>
+					<data_1298 type="TableEntryData">
+						<m_Id type="SInt64" value="106730507542925312"/>
+						<m_Localized type="string" value="Blueprint: Long Magazines for Pistol"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1298>
+					<data_1299 type="TableEntryData">
+						<m_Id type="SInt64" value="106730622244556800"/>
+						<m_Localized type="string" value="Blueprint: GP20 Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1299>
+					<data_1300 type="TableEntryData">
+						<m_Id type="SInt64" value="106730831817150464"/>
+						<m_Localized type="string" value="Blueprint: GP20 Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1300>
+					<data_1301 type="TableEntryData">
+						<m_Id type="SInt64" value="106730944828477440"/>
+						<m_Localized type="string" value="Blueprint: GP20 Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1301>
+					<data_1302 type="TableEntryData">
+						<m_Id type="SInt64" value="106731072633114624"/>
+						<m_Localized type="string" value="Blueprint: Pistol Drums"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1302>
+					<data_1303 type="TableEntryData">
+						<m_Id type="SInt64" value="106731181957648384"/>
+						<m_Localized type="string" value="Blueprint: Mauser Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1303>
+					<data_1304 type="TableEntryData">
+						<m_Id type="SInt64" value="106731322076762112"/>
+						<m_Localized type="string" value="Blueprint: Mauser Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1304>
+					<data_1305 type="TableEntryData">
+						<m_Id type="SInt64" value="106731435121643520"/>
+						<m_Localized type="string" value="Blueprint: WW2 Pistol Short Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1305>
+					<data_1306 type="TableEntryData">
+						<m_Id type="SInt64" value="106731516734410752"/>
+						<m_Localized type="string" value="Blueprint: WW2 Pistol Long Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1306>
+					<data_1307 type="TableEntryData">
+						<m_Id type="SInt64" value="106731621147414528"/>
+						<m_Localized type="string" value="Blueprint: WW2 Pistol Calibrated Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1307>
+					<data_1308 type="TableEntryData">
+						<m_Id type="SInt64" value="106731743319101440"/>
+						<m_Localized type="string" value=" Blueprint: Desert Eagle Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1308>
+					<data_1309 type="TableEntryData">
+						<m_Id type="SInt64" value="106732146475601920"/>
+						<m_Localized type="string" value="Blueprint: Desert Eagle Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1309>
+					<data_1310 type="TableEntryData">
+						<m_Id type="SInt64" value="106732248850173952"/>
+						<m_Localized type="string" value="Blueprint: Desert Eagle Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1310>
+					<data_1311 type="TableEntryData">
+						<m_Id type="SInt64" value="106732353372229632"/>
+						<m_Localized type="string" value="Blueprint: Desert Eagle High-Tech Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1311>
+					<data_1312 type="TableEntryData">
+						<m_Id type="SInt64" value="106732536441016320"/>
+						<m_Localized type="string" value="Blueprint: Modern Pistol Short Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1312>
+					<data_1313 type="TableEntryData">
+						<m_Id type="SInt64" value="106732630431174656"/>
+						<m_Localized type="string" value="Blueprint: Modern Pistol Long Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1313>
+					<data_1314 type="TableEntryData">
+						<m_Id type="SInt64" value="106732783405830144"/>
+						<m_Localized type="string" value="Blueprint: Modern Pistol Calibrated Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1314>
+					<data_1315 type="TableEntryData">
+						<m_Id type="SInt64" value="106732864745967616"/>
+						<m_Localized type="string" value="Blueprint: High-Powered Pistol Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1315>
+					<data_1316 type="TableEntryData">
+						<m_Id type="SInt64" value="106733036171366400"/>
+						<m_Localized type="string" value="Blueprint: Pump-Type Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1316>
+					<data_1317 type="TableEntryData">
+						<m_Id type="SInt64" value="106733120996970496"/>
+						<m_Localized type="string" value="Blueprint: Pump-Type Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1317>
+					<data_1318 type="TableEntryData">
+						<m_Id type="SInt64" value="106733242631786496"/>
+						<m_Localized type="string" value="Blueprint: Pump-Type Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1318>
+					<data_1319 type="TableEntryData">
+						<m_Id type="SInt64" value="106733347787182080"/>
+						<m_Localized type="string" value="Blueprint: Pump-Type High-Tech Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1319>
+					<data_1320 type="TableEntryData">
+						<m_Id type="SInt64" value="106733464825040896"/>
+						<m_Localized type="string" value="Blueprint: Modern Alloy Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1320>
+					<data_1321 type="TableEntryData">
+						<m_Id type="SInt64" value="106733570760577024"/>
+						<m_Localized type="string" value="Blueprint: Modern High-Tech Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1321>
+					<data_1322 type="TableEntryData">
+						<m_Id type="SInt64" value="106733741078679552"/>
+						<m_Localized type="string" value="Blueprint: Scrap Metal Stock"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1322>
+					<data_1323 type="TableEntryData">
+						<m_Id type="SInt64" value="106733837312790528"/>
+						<m_Localized type="string" value="Blueprint: Iron Stock"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1323>
+					<data_1324 type="TableEntryData">
+						<m_Id type="SInt64" value="106733986902642688"/>
+						<m_Localized type="string" value="Blueprint: Alloy Stock"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1324>
+					<data_1325 type="TableEntryData">
+						<m_Id type="SInt64" value="106734080653725696"/>
+						<m_Localized type="string" value="Blueprint: High-Tech Stock"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1325>
+					<data_1326 type="TableEntryData">
+						<m_Id type="SInt64" value="106734194701045760"/>
+						<m_Localized type="string" value="Blueprint: SMG Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1326>
+					<data_1327 type="TableEntryData">
+						<m_Id type="SInt64" value="106734310195400704"/>
+						<m_Localized type="string" value="Blueprint: SMG Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1327>
+					<data_1328 type="TableEntryData">
+						<m_Id type="SInt64" value="106734395356549120"/>
+						<m_Localized type="string" value="Blueprint: SMG Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1328>
+					<data_1329 type="TableEntryData">
+						<m_Id type="SInt64" value="106734516957810688"/>
+						<m_Localized type="string" value="Blueprint: SMG Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1329>
+					<data_1330 type="TableEntryData">
+						<m_Id type="SInt64" value="106734637514690560"/>
+						<m_Localized type="string" value="Blueprint: SMG Long Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1330>
+					<data_1331 type="TableEntryData">
+						<m_Id type="SInt64" value="106734770260217856"/>
+						<m_Localized type="string" value="Blueprint: SMG Hollow Point Bullet Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1331>
+					<data_1332 type="TableEntryData">
+						<m_Id type="SInt64" value="106735382930591744"/>
+						<m_Localized type="string" value="Blueprint: SMG Drum"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1332>
+					<data_1333 type="TableEntryData">
+						<m_Id type="SInt64" value="106735500006199296"/>
+						<m_Localized type="string" value="Blueprint: Sten Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1333>
+					<data_1334 type="TableEntryData">
+						<m_Id type="SInt64" value="106735598719143936"/>
+						<m_Localized type="string" value="Blueprint: Sten Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1334>
+					<data_1335 type="TableEntryData">
+						<m_Id type="SInt64" value="106735757532270592"/>
+						<m_Localized type="string" value="Blueprint: WW2 Scrap Metal Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1335>
+					<data_1336 type="TableEntryData">
+						<m_Id type="SInt64" value="106736019055513600"/>
+						<m_Localized type="string" value="Blueprint: WW2 Fine Iron Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1336>
+					<data_1337 type="TableEntryData">
+						<m_Id type="SInt64" value="106736102975148032"/>
+						<m_Localized type="string" value="Blueprint: Shotgun Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1337>
+					<data_1338 type="TableEntryData">
+						<m_Id type="SInt64" value="106736242091823104"/>
+						<m_Localized type="string" value="Blueprint: Shotgun Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1338>
+					<data_1339 type="TableEntryData">
+						<m_Id type="SInt64" value="106736404696600576"/>
+						<m_Localized type="string" value="Blueprint: Sniper Rifle Standard Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1339>
+					<data_1340 type="TableEntryData">
+						<m_Id type="SInt64" value="106736495960461312"/>
+						<m_Localized type="string" value="Blueprint: Bolt-Action Rifle Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1340>
+					<data_1341 type="TableEntryData">
+						<m_Id type="SInt64" value="106736592194572288"/>
+						<m_Localized type="string" value="Blueprint: Bolt-Action Rifle Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1341>
+					<data_1342 type="TableEntryData">
+						<m_Id type="SInt64" value="106736720674492416"/>
+						<m_Localized type="string" value="Blueprint: Bolt-Action Rifle Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1342>
+					<data_1343 type="TableEntryData">
+						<m_Id type="SInt64" value="106736824894558208"/>
+						<m_Localized type="string" value="Blueprint: M14 Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1343>
+					<data_1344 type="TableEntryData">
+						<m_Id type="SInt64" value="106736955152863232"/>
+						<m_Localized type="string" value="Blueprint: M14 Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1344>
+					<data_1345 type="TableEntryData">
+						<m_Id type="SInt64" value="106737076158533632"/>
+						<m_Localized type="string" value="Blueprint: M14 Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1345>
+					<data_1346 type="TableEntryData">
+						<m_Id type="SInt64" value="106737297374515200"/>
+						<m_Localized type="string" value="Blueprint: WW2 Alloy Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1346>
+					<data_1347 type="TableEntryData">
+						<m_Id type="SInt64" value="106737416157204480"/>
+						<m_Localized type="string" value="Blueprint: 2x Scope"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1347>
+					<data_1348 type="TableEntryData">
+						<m_Id type="SInt64" value="106737508297674752"/>
+						<m_Localized type="string" value="Blueprint: Sniper Rifle Long Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1348>
+					<data_1349 type="TableEntryData">
+						<m_Id type="SInt64" value="106737617181806592"/>
+						<m_Localized type="string" value="Blueprint: SVD Sniper Rifle Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1349>
+					<data_1350 type="TableEntryData">
+						<m_Id type="SInt64" value="106737739017949184"/>
+						<m_Localized type="string" value="Blueprint: SVD Sniper Rifle Fine Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1350>
+					<data_1351 type="TableEntryData">
+						<m_Id type="SInt64" value="106737837969969152"/>
+						<m_Localized type="string" value="Blueprint: SVD Sniper Rifle Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1351>
+					<data_1352 type="TableEntryData">
+						<m_Id type="SInt64" value="106737926151016448"/>
+						<m_Localized type="string" value="Blueprint: SVD Sniper Rifle High-Tech Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1352>
+					<data_1353 type="TableEntryData">
+						<m_Id type="SInt64" value="106738039359475712"/>
+						<m_Localized type="string" value="Blueprint: Modern Scrap Metal Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1353>
+					<data_1354 type="TableEntryData">
+						<m_Id type="SInt64" value="106738142912647168"/>
+						<m_Localized type="string" value="Blueprint: Modern Iron Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1354>
+					<data_1355 type="TableEntryData">
+						<m_Id type="SInt64" value="106738262697775104"/>
+						<m_Localized type="string" value="Blueprint: Modern Alloy Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1355>
+					<data_1356 type="TableEntryData">
+						<m_Id type="SInt64" value="106738423624830976"/>
+						<m_Localized type="string" value="Blueprint: Modern High-Tech Barrel"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1356>
+					<data_1357 type="TableEntryData">
+						<m_Id type="SInt64" value="106738574686883840"/>
+						<m_Localized type="string" value="Blueprint: 4x Scope"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1357>
+					<data_1358 type="TableEntryData">
+						<m_Id type="SInt64" value="106738870267875328"/>
+						<m_Localized type="string" value="Blueprint: Sniper Rifle Armor-Piercing Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1358>
+					<data_1359 type="TableEntryData">
+						<m_Id type="SInt64" value="106738986835972096"/>
+						<m_Localized type="string" value="Blueprint: AK Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1359>
+					<data_1360 type="TableEntryData">
+						<m_Id type="SInt64" value="106739102229663744"/>
+						<m_Localized type="string" value="Blueprint: AK Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1360>
+					<data_1361 type="TableEntryData">
+						<m_Id type="SInt64" value="106739188263227392"/>
+						<m_Localized type="string" value="Blueprint: AK Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1361>
+					<data_1362 type="TableEntryData">
+						<m_Id type="SInt64" value="106739283926913024"/>
+						<m_Localized type="string" value="Blueprint: AK High-Tech Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1362>
+					<data_1363 type="TableEntryData">
+						<m_Id type="SInt64" value="106739376742666240"/>
+						<m_Localized type="string" value="Blueprint: Automatic Rifle Short Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1363>
+					<data_1364 type="TableEntryData">
+						<m_Id type="SInt64" value="106739804356153344"/>
+						<m_Localized type="string" value="Blueprint: Automatic Rifle Long Magazine"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1364>
+					<data_1365 type="TableEntryData">
+						<m_Id type="SInt64" value="106739945049886720"/>
+						<m_Localized type="string" value="Blueprint: Automatic Rifle Drum"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1365>
+					<data_1366 type="TableEntryData">
+						<m_Id type="SInt64" value="106740052268879872"/>
+						<m_Localized type="string" value="Blueprint: LW59 Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1366>
+					<data_1367 type="TableEntryData">
+						<m_Id type="SInt64" value="106740570345115648"/>
+						<m_Localized type="string" value="Blueprint: LW59 Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1367>
+					<data_1368 type="TableEntryData">
+						<m_Id type="SInt64" value="106740669339078656"/>
+						<m_Localized type="string" value="Blueprint: LW59 Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1368>
+					<data_1369 type="TableEntryData">
+						<m_Id type="SInt64" value="106740790114062336"/>
+						<m_Localized type="string" value="Blueprint: LW59 High-Tech Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1369>
+					<data_1370 type="TableEntryData">
+						<m_Id type="SInt64" value="106741060025913344"/>
+						<m_Localized type="string" value="Blueprint: M16 Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1370>
+					<data_1371 type="TableEntryData">
+						<m_Id type="SInt64" value="106741142842445824"/>
+						<m_Localized type="string" value="Blueprint: M16 Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1371>
+					<data_1372 type="TableEntryData">
+						<m_Id type="SInt64" value="106741248098504704"/>
+						<m_Localized type="string" value="Blueprint: M16 Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1372>
+					<data_1373 type="TableEntryData">
+						<m_Id type="SInt64" value="106741345649627136"/>
+						<m_Localized type="string" value="Blueprint: M16 High-Tech Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1373>
+					<data_1374 type="TableEntryData">
+						<m_Id type="SInt64" value="106741438419243008"/>
+						<m_Localized type="string" value="Blueprint: STG44 Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1374>
+					<data_1375 type="TableEntryData">
+						<m_Id type="SInt64" value="106741526331854848"/>
+						<m_Localized type="string" value="Blueprint: STG44 Fine Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1375>
+					<data_1376 type="TableEntryData">
+						<m_Id type="SInt64" value="106741608611516416"/>
+						<m_Localized type="string" value="Blueprint: STG44 Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1376>
+					<data_1377 type="TableEntryData">
+						<m_Id type="SInt64" value="106741708700192768"/>
+						<m_Localized type="string" value="Blueprint: US45 Scrap Metal Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1377>
+					<data_1378 type="TableEntryData">
+						<m_Id type="SInt64" value="106741810135240704"/>
+						<m_Localized type="string" value="Blueprint: US45 Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1378>
+					<data_1379 type="TableEntryData">
+						<m_Id type="SInt64" value="106741897691336704"/>
+						<m_Localized type="string" value="Blueprint: US45 Alloy Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1379>
+					<data_1380 type="TableEntryData">
+						<m_Id type="SInt64" value="106741979752894464"/>
+						<m_Localized type="string" value="Blueprint: US45 High-Tech Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1380>
+					<data_1381 type="TableEntryData">
+						<m_Id type="SInt64" value="106746586369560576"/>
+						<m_Localized type="string" value="Blueprint: Desert Eagle Fine Iron Receiver"/>
+						<m_Metadata type="MetadataCollection">
+							<m_Items type="IMetadata">
+								<Array type="Array">
+									<size type="int" value="0"/>
+									<data type="managedRefArrayItem">
+										<data_0 type="managedRefArrayItem">
+											<rid type="SInt64" value="0"/>
+										</data_0>
+									</data>
+								</Array>
+							</m_Items>
+						</m_Metadata>
+					</data_1381>
 				</data>
 			</Array>
 		</m_TableData>
